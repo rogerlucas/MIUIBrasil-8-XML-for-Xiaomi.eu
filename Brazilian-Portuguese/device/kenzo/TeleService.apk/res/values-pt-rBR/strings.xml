@@ -466,6 +466,7 @@ Mudar para o novo provedor?"</string>
   <string name="help_view">Ajuda</string>
   <string name="hintName">Nome</string>
   <string name="hintPhonenumber">Número do telefone</string>
+  <string name="home_screen_shortcut">Atalho na Tela inicial</string>
   <string name="importAllSimEntries">Importar tudo</string>
   <string name="importSimEntry">Importar</string>
   <string name="importToFDNfromContacts">Importar dos contatos</string>
@@ -600,6 +601,7 @@ Recarregue e comece a falar"</string>
   <string name="livetalk_provision_title">Provisão</string>
   <string name="livetalk_remain_minutes_title">Tempo restante de chamada</string>
   <string name="livetalk_setting">Pacote de recarga</string>
+  <string name="livetalk_shortcut_title">Pacote de recarga</string>
   <string name="livetalk_terms_conditions">Termos e Condições</string>
   <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>
   <string name="livetalk_user_config_title">Verificação do SIM</string>

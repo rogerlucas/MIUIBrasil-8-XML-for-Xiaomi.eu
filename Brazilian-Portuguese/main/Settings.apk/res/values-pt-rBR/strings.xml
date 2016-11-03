@@ -1930,6 +1930,7 @@ para o Segundo Espaço"</string>
   <string name="menu_proc_stats_type_foreground">Primeiro plano</string>
   <string name="menu_restore">Redefinir para o padrão</string>
   <string name="menu_save">Salvar</string>
+  <string name="menu_share">Compartilhar</string>
   <string name="menu_show_percentage">Mostrar porcentagens</string>
   <string name="menu_show_system">Mostrar sistema</string>
   <string name="menu_stats_last_unplugged">Quando foi desconectado pela última vez para %1$s</string>
@@ -3478,7 +3479,7 @@ Depois da formatação, este ^1 funcionará somente neste dispositivo.
   <string name="storage_wizard_format_confirm_next">Limpar e formatar</string>
   <string name="storage_wizard_format_confirm_public_body">"Isto requer que o ^1 seja formatado.
 
-"<b>A formatação apagará todos os dados salvos atualmente no ^!.</b>" Para evitar a perda de dados, considere fazer o backup de dados importantes."</string>
+"<b>A formatação apagará todos os dados salvos atualmente no ^1.</b>" Para evitar a perda de dados, considere fazer o backup de dados importantes."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar c/ armazenam. portátil</string>
   <string name="storage_wizard_format_confirm_third_body">O ^1 está sendo formatado</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenam. interno</string>

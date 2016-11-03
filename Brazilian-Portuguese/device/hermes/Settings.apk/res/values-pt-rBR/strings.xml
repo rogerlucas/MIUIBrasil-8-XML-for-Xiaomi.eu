@@ -282,7 +282,8 @@ O administrador pode monitorar e gerenciar configurações, acesso, apps e dados
   <string name="band_mode_succeeded">Feito</string>
   <string name="band_mode_title">Definir frequência GSM/UMTS</string>
   <string name="baseband_version">Banda de base</string>
-  <string name="batch_delete_saved_network">Excluir a rede salva %s?</string>
+  <string name="batch_delete_saved_network">Excluir rede selecionada: %s?</string>
+  <string name="batch_delete_saved_networks">Excluir todas as redes selecionadas</string>
   <string name="battery_action_app_details">Informações do app</string>
   <string name="battery_action_app_settings">Configurações do app</string>
   <string name="battery_action_bluetooth">Conf. de Bluetooth</string>
@@ -1150,7 +1151,7 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
   <string name="enable_service_password_reason">A ativação do %1$s afeta a criptografia de dados. Confirme sua senha.</string>
   <string name="enable_service_pattern_reason">A ativação do %1$s afeta a criptografia de dados. Confirme seu padrão.</string>
   <string name="enable_service_pin_reason">A ativação do %1$s afeta a criptografia de dados. Confirme seu PIN.</string>
-  <string name="enable_service_title">Usar %1$s?</string>
+  <string name="enable_service_title">O serviço executará as seguintes ações:</string>
   <string name="enable_snapshot_screenlock">Segurar o botão Voltar para tirar foto</string>
   <string name="enable_terminal_summary">Ativar o app terminal que oferece acesso ao shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
@@ -1862,6 +1863,7 @@ Selecione seu sistema operacional:"</string>
   <string name="multi_touch_points_preference">Esta configuração terá efeito após você reiniciar seu dispositivo</string>
   <string name="music_audio_effect_optimize">Configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, fones de ouvido e outras configurações de áudio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, áudio HD, fones de ouvido e outras configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, fones de ouvido e outras configurações de áudio</string>
   <string name="music_audio_effect_settings">Configurações de efeitos</string>
   <string name="music_dirac_control">Otimizar qualidade de áudio</string>
@@ -1886,6 +1888,7 @@ Selecione seu sistema operacional:"</string>
   <string name="music_dolby_mode_off">Desativado</string>
   <string name="music_equalizer">Equalizador</string>
   <string name="music_equalizer_summary">Ajustar níveis individuais para diferentes tipos de música</string>
+  <string name="music_hd_title">Áudio HD</string>
   <string name="music_headphone_settings">Escolha o tipo de fone de ouvido</string>
   <string name="music_headset_button_settings">Especificar botões</string>
   <string name="music_headset_calibrate">Especificar botões</string>
@@ -1905,7 +1908,6 @@ Selecione seu sistema operacional:"</string>
   <string name="music_headset_settings">Fones de ouvido &amp; efeitos de áudio</string>
   <string name="music_hifi_summary">Reduz o ruído e distorção e aumenta a qualidade do áudio</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
-  <string name="music_hifi_volume">Volume Hi-Fi</string>
   <string name="music_mi_effect_summary">Usar o Amplificador Mi Sound com alto-falantes</string>
   <string name="music_mi_effect_title">Amplificador Mi Sound</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
@@ -2612,8 +2614,8 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="screen_key_press_action">Selecionar função</string>
   <string name="screen_locking_sounds_title">Sons de bloqueio de tela</string>
   <string name="screen_never_timeout_title">Tela sempre ativa</string>
-  <string name="screen_on_proximity_sensor_summary">Bloquear automaticamente quando colocado em um bolso</string>
-  <string name="screen_on_proximity_sensor_title">Prevenir discagens acidentais</string>
+  <string name="screen_on_proximity_sensor_summary">Bloquear gestos de toque quando em um bolso</string>
+  <string name="screen_on_proximity_sensor_title">Modo de bolso</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Força</string>
   <string name="screen_paper_mode_apps_loading">Aguarde\u2026</string>
@@ -3281,7 +3283,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="touch_sensitive_title">Modo com Luvas</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Desativar também a prevenção de discagens acidentais?</string>
+  <string name="touch_sensitive_turn_off_summary">Desativar também o modo de bolso?</string>
   <string name="touch_sensitive_turn_off_title">Modo com Luvas desativado</string>
   <string name="touch_sounds_title">Sons de toque</string>
   <string name="touch_title">Toque</string>

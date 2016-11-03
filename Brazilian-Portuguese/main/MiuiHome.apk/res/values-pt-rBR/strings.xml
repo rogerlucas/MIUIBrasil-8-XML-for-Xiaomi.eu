@@ -6,7 +6,7 @@
   <string name="app_already_exist">O app já existe</string>
   <string name="app_being_backup_message">Backup do app sendo efetuado</string>
   <string name="app_being_restored_message">O app está sendo restaurado</string>
-  <string name="app_category_books">Livros</string>
+  <string name="app_category_books">Leitura</string>
   <string name="app_category_education">Educacional</string>
   <string name="app_category_entertainment">Entretenimento</string>
   <string name="app_category_finance">Finanças</string>

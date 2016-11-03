@@ -3,6 +3,7 @@
 <resources>
   <string name="aaid_info">"
 O identificador de anunciante é uma ID permanente e única para seu dispositivo. Fornecedores a usam para selecionar conteúdo de anúncios relevantes para você."</string>
+  <string name="about_phone_enter_xiaomi_net">Saiba mais</string>
   <string name="about_settings">Sobre o telefone</string>
   <string name="about_settings_summary">Ver informações legais, status e versão do software</string>
   <string name="ac_enable_summary">Definir senha para apps individuais</string>
@@ -208,6 +209,8 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="auto_disable_screenbuttons_auto">Sempre desativar</string>
   <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
   <string name="auto_disable_screenbuttons_no">Nunca desativar</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Quando seu dispositivo estiver em modo paisagem, os botões de navegação serão bloqueados</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Bloquear botões de navegação em paisagem</string>
   <string name="auto_disable_screenbuttons_summary">Desativar botões de navegação automaticamente quando usando apps selecionados. Toque duas vezes em qualquer botão de navegação para reativá-los.</string>
   <string name="auto_disable_screenbuttons_title">Desativar botões de navegação automaticamente</string>
   <string name="auto_launch_disable_text">Nenhum padrão definido.</string>
@@ -247,7 +250,7 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="band_mode_title">Definir frequência GSM/UMTS</string>
   <string name="baseband_version">Banda de base</string>
   <string name="batch_delete_saved_network">Excluir rede selecionada: %s?</string>
-  <string name="batch_delete_saved_networks">Excluir todas as redes salvas</string>
+  <string name="batch_delete_saved_networks">Excluir todas as redes selecionadas</string>
   <string name="battery_action_app_details">Informações do app</string>
   <string name="battery_action_app_settings">Configurações do app</string>
   <string name="battery_action_bluetooth">Conf. de Bluetooth</string>
@@ -619,6 +622,7 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="color_white">Branco</string>
   <string name="color_yellow">Amarelo</string>
   <string name="common_settings">Configurações rápidas</string>
+  <string name="complete_parameters">Todas as especificações</string>
   <string name="complete_settings">Configurações gerais</string>
   <string name="computing_size">Calculando\u2026</string>
   <string name="config_charging_function_name">carregando</string>
@@ -815,17 +819,20 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
   <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este usuário</string>
   <string name="development_settings_summary">Define as opções para o desenvolvimento de apps</string>
   <string name="development_settings_title">Opções do desenvolvedor</string>
+  <string name="device_actionbar_title">Todas as especificações</string>
   <string name="device_admin_add_title">Administrador do dispositivo</string>
   <string name="device_admin_settings_title">Configurações de administração do dispositivo</string>
   <string name="device_admin_status">Este administrador está ativo e permite que o app %1$s execute as seguintes operações:</string>
   <string name="device_admin_title">Administração do dispositivo</string>
   <string name="device_admin_warning">A ativação deste administrador permitirá ao app %1$s executar as seguintes operações:</string>
+  <string name="device_complete_parameters">Todas as especificações</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core\u0020</string>
   <string name="device_cpu2_info">Dual-core\u0020</string>
   <string name="device_cpu4_info">Quad-core\u0020</string>
   <string name="device_cpu6_info">Hexa-core\u0020</string>
   <string name="device_cpu8_info">Octa-core\u0020</string>
+  <string name="device_display_layout_title">Funcionalidades</string>
   <string name="device_edit_title">Renomear telefone</string>
   <string name="device_info_default">Desconhecido</string>
   <string name="device_info_label">Informações do dispositivo</string>
@@ -833,7 +840,9 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
   <string name="device_info_settings">Status do telefone</string>
   <string name="device_internal_memory">Memória interna</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Ver mais</string>
   <string name="device_miui_version">Versão do MIUI</string>
+  <string name="device_miui_version_update">Atualização MIUI disponível</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_name_input_error">"Não foi possível salvar o nome do dispositivo"</string>
   <string name="device_name_input_hint">Insira um nome</string>
@@ -841,6 +850,7 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
   <string name="device_picker">Escolher dispositivo Bluetooth</string>
   <string name="device_sd_memory">Cartão SD</string>
   <string name="device_security_settings_title">Segurança</string>
+  <string name="device_share_loading">Criando imagem</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Número do telefone, sinal etc.</string>
@@ -1487,6 +1497,7 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="memory_size">Espaço total</string>
   <string name="memory_title">Disponível: %1$s | Total: %2$s</string>
   <string name="menu_cancel">Descartar</string>
+  <string name="menu_check">Conferir</string>
   <string name="menu_delete">Excluir APN</string>
   <string name="menu_duration_12h">12 horas</string>
   <string name="menu_duration_1d">1 dia</string>
@@ -1502,6 +1513,7 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="menu_proc_stats_type_foreground">Primeiro plano</string>
   <string name="menu_restore">Redefinir</string>
   <string name="menu_save">Salvar</string>
+  <string name="menu_share">Compartilhar</string>
   <string name="menu_show_system">Mostrar sistema</string>
   <string name="menu_stats_last_unplugged">Quando foi desconectado pela última vez para %1$s</string>
   <string name="menu_stats_refresh">Atualizar</string>
@@ -1606,6 +1618,7 @@ Selecione seu sistema operacional:"</string>
   <string name="musicfx_title">Efeitos sonoros</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipo de MVNO</string>
+  <string name="my_device">Meu dispositivo</string>
   <string name="nearby_wifi">Redes Wi-Fi disponíveis</string>
   <string name="need_reboot_now">Reinicie para instalar a atualização.</string>
   <string name="network_assistant">Uso de dados</string>
@@ -1676,6 +1689,7 @@ Selecione seu sistema operacional:"</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Conectar-se à rede aberta %1$s</string>
   <string name="other_advanced_settings">Configurações adicionais</string>
+  <string name="other_device_info">Outros</string>
   <string name="other_personal_settings">Configurações pessoais</string>
   <string name="other_relative">Outras</string>
   <string name="overlay_display_devices_title">Simular displays secund.</string>
@@ -2157,6 +2171,7 @@ Selecione seu sistema operacional:"</string>
   <string name="radio_info_smsc_refresh_label">Atualizar</string>
   <string name="radio_info_smsc_update_label">Atualizar</string>
   <string name="radio_info_toggle_dns_check_label">Ativar/desativar verificação de DNS</string>
+  <string name="rank_title">Rankings</string>
   <string name="really_remove_account_message">A remoção desta conta excluirá todas as suas mensagens, contatos e outros dados do telefone!</string>
   <string name="really_remove_account_title">Remover conta?</string>
   <string name="rebootiing_for_updates">Reiniciando\u2026</string>
@@ -2166,6 +2181,11 @@ Selecione seu sistema operacional:"</string>
   <string name="recognizer_settings_summary">"Configurações para '%s'"</string>
   <string name="recognizer_settings_title">Pesquisa por voz</string>
   <string name="recognizer_title">Reconhecedor de voz</string>
+  <string name="recommend_item_1">Case de telefone</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Power Bank</string>
+  <string name="recommend_item_4">Fones de ouvido</string>
+  <string name="recommend_item_title">Recomendações</string>
   <string name="recompute_size">Recalculando tamanho\u2026</string>
   <string name="regulatory_information">Informações regulamentares</string>
   <string name="remove_account_failed">Esta conta é necessária para alguns apps. Só é possível removê-la redefinindo o telefone para os padrões de fábrica (ação que exclui todos os seus dados pessoais) em Configurações &gt; Fazer backup e redefinir.</string>
