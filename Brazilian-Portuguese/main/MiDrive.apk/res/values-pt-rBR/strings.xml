@@ -31,7 +31,7 @@
   <string name="downloading">Fazendo download</string>
   <string name="downloading_in_3g">Fazendo download em 3G\u2026</string>
   <string name="downloading_in_wifi">Fazendo download\u2026</string>
-  <string name="empty_file_download">"Arquivos vazios não são suportados"</string>
+  <string name="empty_file_download">"Arquivos vazios não são suportados."</string>
   <string name="empty_file_upload">"Arquivos vazios não são suportados."</string>
   <string name="file_already_downlaoded">Arquivo salvo em \"%1$s\"</string>
   <string name="file_change_btn_download">Fazer download</string>

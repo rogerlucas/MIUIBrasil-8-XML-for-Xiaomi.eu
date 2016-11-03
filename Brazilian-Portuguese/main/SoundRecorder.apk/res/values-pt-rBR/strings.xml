@@ -43,7 +43,7 @@
   <string name="low_battery_error_title">Bateria fraca</string>
   <string name="mark_point_list_title">Marcas</string>
   <string name="message_file_size_error">O gravador atingiu o tamanho máximo de arquivo suportado por %s</string>
-  <string name="network_tip_dialog_cancel">Cancelado</string>
+  <string name="network_tip_dialog_cancel">Cancelar</string>
   <string name="network_tip_dialog_content">O mecanismo de reconhecimento de voz precisa se conectar à internet para funcionar normalmente.</string>
   <string name="network_tip_dialog_ok">Permitir</string>
   <string name="network_tip_dialog_title">É necessária uma conexão com a Internet</string>

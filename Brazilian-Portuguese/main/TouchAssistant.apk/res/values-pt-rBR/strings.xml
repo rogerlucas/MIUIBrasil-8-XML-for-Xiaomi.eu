@@ -9,6 +9,7 @@
   <string name="close_panel">Desativar Menu de atalhos</string>
   <string name="customize_entries">Selecionar atalhos</string>
   <string name="enable_touch_assistant">Ativar Menu de atalhos</string>
+  <string name="enabled_for_pad_hint">Funciona quando \"Bloquear botões de bavegação no modo paisagem\" estiver ativado</string>
   <string name="function_settings">Config. de atalhos</string>
   <string name="hide_touch_assistant">Ocultar automaticamente</string>
   <string name="hide_touch_assistant_intro">Ocultar Menu de atalhos em apps selecionados.</string>
@@ -32,6 +33,7 @@
   <string name="name_screenshot">Capturar tela</string>
   <string name="name_wechat_payment_code">Pagamento WeChat</string>
   <string name="name_wechat_scan">Leitor QR WeChat</string>
+  <string name="not_working">%s (Não funcionando)</string>
   <string name="open_panel">Ativar Menu de atalhos</string>
   <string name="pay_entry_dialog_title_select">Selecionar app para abrir</string>
   <string name="pay_entry_dialog_title_setting">Configurar app</string>
