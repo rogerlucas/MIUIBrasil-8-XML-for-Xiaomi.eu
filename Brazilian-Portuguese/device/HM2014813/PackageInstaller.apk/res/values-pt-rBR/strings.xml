@@ -34,7 +34,7 @@ Permitir isso agora e no futuro?"</string>
 Todos os dados de usuário anteriores serão salvos."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) substituirá a versão atualmente instalada (%3$s). Os dados atuais do app serão mantidos.</string>
   <string name="dlg_app_replacement_title">Substituir o app existente?</string>
-  <string name="dlg_appstore_notice">Obtenha este app de nossa <u><font color="91c727">App Store</font></u></string>
+  <string name="dlg_appstore_notice">Obtenha este app de nossa <u><font color="#91c727">App Store</font></u></string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Este é um app sistema. Ainda deseja substituí-lo?
 
@@ -51,7 +51,7 @@ Todos os dados de usuário anteriores serão salvos."</string>
   <string name="install_failed_invalid_apk">Parece que o pacote está corrompido.</string>
   <string name="install_failed_msg">Não foi possível instalar o %1$s neste dispositivo.</string>
   <string name="install_failed_older_sdk">O pacote funciona somente em versões mais recentes do Android.</string>
-  <string name="install_failed_system_incompatible">"Este app não é compatível com a MIUI"</string>
+  <string name="install_failed_system_incompatible">"Este app não é compatível com o MIUI"</string>
   <string name="install_failed_verify_failed">O pacote não passou pela verificação e não pôde ser instalado.</string>
   <string name="install_failed_verify_timeout">O tempo limite foi atingido ao tentar verificar este pacote. Tente instalá-lo novamente mais tarde.</string>
   <string name="install_from_appstore_hint">Nós recomendamos que o app seja instalado através da <u><font color="#91c727">App Store</font></u></string>
