@@ -26,10 +26,10 @@
   <string name="app_name_miuiringtone">Toque</string>
   <string name="app_name_miuiwallpaper">Planos de fundo</string>
   <string name="app_name_screenshot">Capturas de tela</string>
-  <string name="auto_play">Tocar automaticamente quando conectar ao Wi-Fi</string>
+  <string name="auto_play">Reproduzir automaticamente quando conectado à rede Wi-Fi</string>
   <string name="auto_play_later">Depois</string>
   <string name="auto_play_now">Ativar</string>
-  <string name="auto_play_toast">Videos irão reproduzir automaticamente. Você pode mudar isso nas configurações.</string>
+  <string name="auto_play_toast">Os vídeos serão reproduzidos automaticamente. Você pode alterar isso nas configurações.</string>
   <string name="backup_cancel">"Não fazer backup"</string>
   <string name="backup_checkbox_msg">Backup automático</string>
   <string name="backup_confirm">Backup agora</string>
@@ -81,7 +81,7 @@
   <string name="choose_report_reason">Porque você está reportando este clipe de vídeo?</string>
   <string name="claim_no_video">Nenhum vídeo para reivindicar</string>
   <string name="claim_operation_too_frequently">Muitas tentativas! Tente novamente mais tarde.</string>
-  <string name="claim_remind_dialog_cancel">Ver outros videos</string>
+  <string name="claim_remind_dialog_cancel">Ver outros vídeos</string>
   <string name="claim_remind_dialog_confirm">Permanecer</string>
   <string name="claim_remind_dialog_message">"Você não será capaz de reivindicar este vídeo se você voltar"</string>
   <string name="claim_remind_dialog_title">Atenção</string>
@@ -374,7 +374,7 @@
   <string name="operation_show_sys">Mostrar arquivos ocultos</string>
   <string name="operation_unfavorite">Remover favorito</string>
   <string name="original_user_qq_group">Entre no grupo do Talent team no QQ</string>
-  <string name="original_user_register">• %1$s entrou na comunidade</string>
+  <string name="original_user_register">• <font color="#fc7050">%1$s</font> entrou na comunidade</string>
   <string name="original_user_signal">Talent team</string>
   <string name="original_user_title">Parabéns em se tornar um membro da Talent team!</string>
   <string name="original_user_verify">• Obrigado por continuar com a gente!</string>
@@ -523,8 +523,8 @@
   <string name="shared_sticker_use_tip_title">Como usar stickers</string>
   <string name="shared_str">Compartilhado por %s</string>
   <string name="smb_loading">Aguarde\u2026</string>
-  <string name="sort_size_asc">Menor para o maior</string>
-  <string name="sort_size_desc">Maior para o menor</string>
+  <string name="sort_size_asc">Menor para maior</string>
+  <string name="sort_size_desc">Maior para menor</string>
   <string name="start_server">Iniciar servidor</string>
   <string name="stay_awake_summary">"Não desligar tela durante sessão FTP"</string>
   <string name="stay_awake_title">Manter tela ativa</string>
@@ -536,7 +536,7 @@
   <string name="storage_usb">Armazenamento USB</string>
   <string name="storage_warning">"Não é possível usar o armazenamento externo"</string>
   <string name="swap_tip_1">Deslize para a esquerda ou direita</string>
-  <string name="swap_tip_2">para ver outros vídeos</string>
+  <string name="swap_tip_2">para assistir outros vídeos</string>
   <string name="sys_size_enable">" disponíveis"</string>
   <string name="tab_category">Categorias</string>
   <string name="tab_claim">Reivindicar</string>
@@ -564,7 +564,7 @@
   <string name="tools">FERRAMENTAS</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguindo</string>
-  <string name="topic_message">%1$s: %2$s</string>
+  <string name="topic_message"><font color="#fc7050">%1$s: </font>%2$s</string>
   <string name="topic_winners">Vencedores anteriores</string>
   <string name="transfer_done">Arquivos movidos com sucesso.</string>
   <string name="transfer_private_data">Movendo pastas ocultas do cartão SD\u2026</string>
@@ -669,7 +669,7 @@
   <string name="video_data_consumption_dialog_title">Alerta do uso de dados</string>
   <string name="video_description">Descrição do vídeo</string>
   <string name="video_encrypt_fans_btn">Torne-se um fã</string>
-  <string name="video_encrypt_fans_text">Apenas fãs podem assistir este vídeo</string>
+  <string name="video_encrypt_fans_text">Somente fãs podem assistir este vídeo</string>
   <string name="video_encrypt_follow_fail">"Não foi possível seguir"</string>
   <string name="video_encrypt_follow_success">Seguindo %s</string>
   <string name="video_encrypt_login_btn">Fazer login</string>

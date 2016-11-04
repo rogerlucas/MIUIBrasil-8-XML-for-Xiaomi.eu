@@ -848,7 +848,7 @@ Fabricantes a utilizam para selecionar conteúdo de anúncio relevantes a você.
   <string name="crypt_keeper_data_corrupt_summary">A senha digitada está correta, mas os dados estão corrompidos. \n\nPara retomar o uso do seu smartphone, é necessário redefinir para as configurações originais. Quando você configurar seu smartphone após a redefinição, poderá restaurar todos os dados que foram salvos em backup na sua Conta do Google.</string>
   <string name="crypt_keeper_data_corrupt_title">Falha na descriptografia</string>
   <string name="crypt_keeper_decrypt_methods">Após você criptografar seu telefone, assumindo que você configurou um bloqueio de tela (padrão, senha ou PIN), você precisará desbloquear a tela para descriptografar o telefone sempre que você ligá-lo. A única outra forma de descriptografar o telefone é efetuando uma restauração para configurações de fábrica, apagando todos os seus dados.</string>
-  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você já criptografou seu telefone, você terá que digitar sua senha, PIN ou padrão cada vez que você reiniciar o dispositivo para descriptografá-lo."</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você criptografou seu telefone, você precisará inserir sua senha, PIN ou padrão de desbloqueio sempre que reiniciar o dispositivo para descriptografá-lo."</string>
   <string name="crypt_keeper_decrypt_methods_title">Descriptografando seu dispositivo</string>
   <string name="crypt_keeper_desc">Você pode criptografar suas contas, configurações, apps transferidos e seus dados, mídia e outros arquivos. Após criptografar seu smartphone, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o smartphone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.\n\nA criptografia leva uma hora ou mais. Você deve iniciar com a bateria carregada e manter seu smartphone conectado até que a criptografia seja concluída. Se você interromper o processo de criptografia, perderá alguns ou todos os seus dados.</string>
   <string name="crypt_keeper_dialog_need_password_message">É necessário definir um PIN ou uma senha para a tela de bloqueio antes de iniciar a criptografia.</string>
@@ -1046,7 +1046,7 @@ Fabricantes a utilizam para selecionar conteúdo de anúncio relevantes a você.
   <string name="device_cpu4_info">Quad-core\u0020</string>
   <string name="device_cpu6_info">Hexa-core\u0020</string>
   <string name="device_cpu8_info">Octa-core\u0020</string>
-  <string name="device_display_layout_title">Recursos</string>
+  <string name="device_display_layout_title">Funcionalidades</string>
   <string name="device_edit_title">Renomear telefone</string>
   <string name="device_feedback">Enviar feedback sobre o dispositivo</string>
   <string name="device_info_default">Desconhecido</string>
@@ -2291,7 +2291,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_equalizer">Configurações/Sons &amp; vibração/Configurações de áudio/Equalizador</string>
   <string name="path_fluency_mode">Configurações/Bateria &amp; performance/Animações do sistema</string>
   <string name="path_font_settings">Configurações/Tela/Fonte do sistema</string>
-  <string name="path_force_touch">Configurações/Configurações adicionais/3D Touch</string>
+  <string name="path_force_touch">Configurações/Configurações avançadas/3D Touch</string>
   <string name="path_gesture_wakeup_title">Configurações/Tela/Toque duplo na tela para ligá-la</string>
   <string name="path_gps_settings">Configurações/Configurações adicionais/Privacidade/Localização</string>
   <string name="path_handy_mode_settings">Configurações/Configurações adicionais/Modo para uma mão</string>
@@ -2484,7 +2484,7 @@ Selecione seu sistema operacional:"</string>
   <string name="pref_button_light_summary">Iluminar o botão de Menu, Início e Voltar</string>
   <string name="pref_edge_handgrip">Controles na borda</string>
   <string name="pref_operational_key">Botões de navegação</string>
-  <string name="pref_volume_launch_camera_summary">Pressionar Volume - 2 vezes para abrir a Câmera</string>
+  <string name="pref_volume_launch_camera_summary">Pressionar Volume - duas vezes para abrir a Câmera</string>
   <string name="pref_volume_launch_camera_title">Iniciar câmera</string>
   <string name="pref_volume_wake_summary">Pressionar os botões de volume ativa a tela do dispositivo</string>
   <string name="pref_volume_wake_title">Ligar a tela com botões de volume</string>
@@ -2674,7 +2674,7 @@ Selecione seu sistema operacional:"</string>
   <string name="radio_info_smsc_refresh_label">Atualizar</string>
   <string name="radio_info_smsc_update_label">Atualizar</string>
   <string name="radio_info_toggle_dns_check_label">Ativar/desativar verificação de DNS</string>
-  <string name="rank_title">Classificação</string>
+  <string name="rank_title">Rankings</string>
   <string name="rarely_running">Raramente em execução (%s)</string>
   <string name="really_remove_account_message">A remoção desta conta excluirá todas as suas mensagens, contatos e outros dados do telefone!</string>
   <string name="really_remove_account_title">Remover conta?</string>
@@ -2773,7 +2773,7 @@ Selecione seu sistema operacional:"</string>
   <string name="scan_list_label">Resultado da pesquisa:</string>
   <string name="screen">Tela</string>
   <string name="screen_button">Botões na tela</string>
-  <string name="screen_button_tips">Deslize para baixo para ocultar os botões na tela</string>
+  <string name="screen_button_tips">Deslize para baixo para ocultar os botões da tela</string>
   <string name="screen_color_and_optimize">Cores &amp; contraste</string>
   <string name="screen_color_and_optimize_disabled">"Não é possível ajustar a temperatura da cor no Modo de leitura"</string>
   <string name="screen_color_temperature">Cores</string>
@@ -2867,7 +2867,7 @@ Selecione seu sistema operacional:"</string>
   <string name="sdcard_unmount">Desmontar cartão SD</string>
   <string name="se_route_ese">Elemento de segurança incorporado</string>
   <string name="se_route_uicc">Elemento de segurança no cartão SIM</string>
-  <string name="se_wallet_ese">Mi Pay e Cartões de transporte NFC</string>
+  <string name="se_wallet_ese">Mi Pay e cartão de transporte NFC</string>
   <string name="se_wallet_hce">Usar HCE Wallet</string>
   <string name="search_about">Sobre o telefone;Número do modelo;Versão do Android;Versão do MIUI;CPU;RAM;Memória interna;Banda de base;Versão do kernel;Compilação</string>
   <string name="search_accelerometer">Girar tela automaticamente;Girar tela;Orientação;Retrato;Paisagem</string>
@@ -3318,8 +3318,8 @@ Para mais informações, entre em contato com o administrador."</string>
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Tela de bloqueio</string>
   <string name="status_bar_app_enable_message">Ícone de notificação</string>
-  <string name="status_bar_key_position_custom">Alterar posição dos botões</string>
-  <string name="status_bar_screen_button_desc">Deslize para baixo para ocultar os botões na tela</string>
+  <string name="status_bar_key_position_custom">Alternar posição dos botões</string>
+  <string name="status_bar_screen_button_desc">Deslize para baixo para ocultar os botões da tela</string>
   <string name="status_bar_screen_button_key">Botões virtuais</string>
   <string name="status_bar_screen_button_key_can_hide">Os botões da tela podem ser ocultados</string>
   <string name="status_bar_screen_key_back">Botão Voltar</string>
@@ -3745,8 +3745,8 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="unmount_inform_text">O cartão SD será desconectado.</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
-  <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_summary">As informações que coletamos podem conter dados pessoais. Estas informações são usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo.</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access">Acesso de uso</string>
   <string name="usage_access_description">O acesso de uso permite que um app rastreie que outros apps você está usando e com que frequência, bem como sua operadora, as configurações de idioma e outros detalhes.</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>
@@ -3773,8 +3773,8 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Permanecer ativo</string>
   <string name="usage_type_wifi_running">Wi-Fi em execução</string>
-  <string name="usb_adb_input">Depuração USB (Config. de segurança)</string>
-  <string name="usb_adb_input_desc">Permitir concessão de permissões e simulação de entrada por depuração USB</string>
+  <string name="usb_adb_input">Depuração USB (Configurações de segurança)</string>
+  <string name="usb_adb_input_desc">Permitir a concessão e simulação de entrada por depuração USB</string>
   <string name="usb_audio_disable_routing">Desat. roteam. áudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desativar roteam. autom. para/ perif. de áudio USB</string>
   <string name="usb_charging_summary">Desativa todos os outros recursos da conexão USB para acelerar o carregamento.</string>
@@ -3788,7 +3788,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="usb_host_mode_text">Modo USB host</string>
   <string name="usb_insert_summary">Insira um armazenamento USB para montagem</string>
   <string name="usb_install_app">Instalar via USB</string>
-  <string name="usb_install_app_desc">Permitir instalação de apps via USB</string>
+  <string name="usb_install_app_desc">Permitir instalar apps via USB</string>
   <string name="usb_midi_summary">Permite que apps com MIDI ativado funcionem por meio de USB com o software MIDI no computador.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Montar armazenamento USB</string>

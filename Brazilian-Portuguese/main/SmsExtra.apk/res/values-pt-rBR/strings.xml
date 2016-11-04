@@ -15,12 +15,12 @@
   <string name="delete">Excluir</string>
   <string name="delete_message">Excluir</string>
   <string name="from_label">"De: "</string>
-  <string name="menu_forward">Avançar</string>
+  <string name="menu_forward">Encaminhar</string>
   <string name="menu_lock">Favorito</string>
   <string name="menu_unlock">Remover favorito</string>
   <string name="message_details_title">Detalhes da mensagem</string>
   <string name="message_type_label">"Tipo: "</string>
-  <string name="received_label">"Recebido: "</string>
+  <string name="received_label">"Recebida: "</string>
   <string name="sent_label">"Enviado: "</string>
   <string name="sms_card_partner_label">"Parceiro de cartão SMS: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>

@@ -242,7 +242,7 @@
   <string name="resource_price_free">Grátis</string>
   <string name="resource_price_unit">Mi Credits</string>
   <string name="resource_purchase_common_error">Ocorreu um erro, tente novamente</string>
-  <string name="resource_purchase_continue_to_pay">Continue para pagar %s</string>
+  <string name="resource_purchase_continue_to_pay">Continuar pagamento de %s</string>
   <string name="resource_purchase_getting_order">Recebendo informações do pedido\u2026</string>
   <string name="resource_purchase_verifying_payment">Verificando informações de pagamento\u2026</string>
   <string name="resource_purchase_vip_pay_failed">"Não foi possível pagar por VIP"</string>

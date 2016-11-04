@@ -13,7 +13,7 @@
   <string name="cta_button_quit">Sair</string>
   <string name="cta_check_reminder">"Não mostrar novamente"</string>
   <string name="cta_message_license">Ao usar este produto, você aceita os termos especificados em nossos Termos de Serviço e na Política de Privacidade.</string>
-  <string name="cta_message_permission">Este app precisa de %2$s para funcionar normalmente.</string>
+  <string name="cta_message_permission">Este app precisa %2$s para funcionar normalmente.</string>
   <string name="cta_permission_and">e</string>
   <string name="cta_title">Termos de uso</string>
   <string name="daydream">Daydream</string>

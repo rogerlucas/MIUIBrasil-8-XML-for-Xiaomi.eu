@@ -3,7 +3,7 @@
 <resources>
   <string-array name="ble_profile_mi_band">
     <item>Vibrar ao tocar</item>
-    <item>Vibrar ao receber a mensagem</item>
+    <item>Vibrar ao receber uma mensagem</item>
     <item>Vibrar quando alarme disparar</item>
   </string-array>
   <string-array name="ble_profile_mi_key">

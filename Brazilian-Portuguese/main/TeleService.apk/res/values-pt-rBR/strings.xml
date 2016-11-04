@@ -114,7 +114,7 @@
   <string name="callFailed_dsac_restricted_emergency">As chamadas de emergência são restringidas pelo controle de acesso.</string>
   <string name="callFailed_dsac_restricted_normal">As chamadas normais são restringidas pelo controle de acesso.</string>
   <string name="callFailed_fdn_only">As chamadas enviadas são restringidas pelo FDN.</string>
-  <string name="callFailed_incoming_cb_enabled">Todas as chamadas recebidas foram bloqueadas por terceiros.</string>
+  <string name="callFailed_incoming_cb_enabled">Todas as chamadas recebidas foram bloqueadas.</string>
   <string name="callFailed_invalid_credentials">Usuário ou senha incorretos</string>
   <string name="callFailed_limitExceeded">Limite de ACM excedido</string>
   <string name="callFailed_low_battery">Bateria fraca</string>

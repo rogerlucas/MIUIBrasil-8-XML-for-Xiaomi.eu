@@ -23,7 +23,7 @@
   <string name="burst_shoot_exit_button_text">Desativar disparo contínuo</string>
   <string name="button_fisheye_camera_title">Olho de peixe</string>
   <string name="button_front_camera_title">Tirar uma selfie</string>
-  <string name="button_normal_video_title">Gravar um vídeo</string>
+  <string name="button_normal_video_title">Gravar vídeo</string>
   <string name="camera_disabled">A câmera foi desativada</string>
   <string name="camera_error_title">Erro da câmera</string>
   <string name="camera_label">Câmera</string>

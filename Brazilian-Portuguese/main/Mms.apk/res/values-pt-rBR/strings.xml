@@ -502,8 +502,8 @@
   <string name="second_mms_introduction">Ir ao Segundo Espaço</string>
   <string name="second_mms_switch">Alternar</string>
   <string name="secs">seg</string>
-  <string name="security_alert_desc">\"<font color="#7f000000">O remetente não está em seus contatos.
-</font>\"</string>
+  <string name="security_alert_desc"><font color="#7f000000">"O remetente não está em seus contatos.
+"</font></string>
   <string name="security_alert_desc_highlight">Reportar este número</string>
   <string name="security_alert_dialog_desc">Enviar este número (%s) e mensagens para a Xiaomi para review.</string>
   <string name="security_alert_dialog_title">Reportar</string>

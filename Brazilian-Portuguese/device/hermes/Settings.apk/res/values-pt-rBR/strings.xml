@@ -3408,7 +3408,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
   <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>
   <string name="usage_log">Estatísticas de uso do app</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>

@@ -167,7 +167,7 @@ Toque na tela para iniciar o GPS\u2026"</string>
 5. A foto que você tirou deverá ser exibida abaixo. Toque em excluir para concluir o teste."</string>
   <string name="cit_main_camera_check_title">Câmera traseira</string>
   <string name="cit_name">Testes de hardware</string>
-  <string name="cit_not_available">"Este teste não está disponível nesta versão da MIUI"</string>
+  <string name="cit_not_available">"Este teste não está disponível nesta versão do MIUI"</string>
   <string name="cit_notificationlight">LED de notificações</string>
   <string name="cit_notificationlight_off">LED de notificação desativado</string>
   <string name="cit_notificationlight_on">LED de notificações ativado</string>

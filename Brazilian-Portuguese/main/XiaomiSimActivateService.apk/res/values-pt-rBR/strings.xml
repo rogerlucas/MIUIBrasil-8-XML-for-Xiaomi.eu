@@ -4,7 +4,7 @@
   <string name="accept">OK</string>
   <string name="activate">Ativar</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para ativar o \"Encontrar dispositivo\"</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado a partir do cartão SIM %s para ativar o \"Encontrar dispositivo\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado do cartão SIM %s para ativar o \"Encontrar dispositivo\"</string>
   <string name="activate_auto_sms_notification_title">Ativação do cartão SIM</string>
   <string name="activate_feature_call_log_sync">Sincronizar histórico de chamadas</string>
   <string name="activate_feature_default_name">Serviços Mi</string>
@@ -46,7 +46,7 @@ Insira o número de telefone associado com seu novo cartão SIM para reativar %s
   <string name="activate_popup_desc_failed_phone_error">O número de telefone inserido é inválido.</string>
   <string name="activate_popup_desc_failed_query_info">"Não foi possível encontrar o número do telefone. Certifique-se de que seu cartão SIM está ativado."</string>
   <string name="activate_popup_desc_failed_receive_sms">Certifique-se de que o número de telefone inserido está correto e que seu cartão SIM está ativado.</string>
-  <string name="activate_popup_desc_failed_send_sms">"Não foi possível enviar a mensagem de ativação. Certifique-se de que seu cartão SIM foi ativado."</string>
+  <string name="activate_popup_desc_failed_send_sms">"Não foi possível enviar mensagem de ativação. Certifique-se de que seu cartão SIM foi ativado."</string>
   <string name="activate_popup_desc_failed_server">Verifique sua conexão de rede e tente novamente.</string>
   <string name="activate_popup_desc_find_device_postfix">Um SMS de ativação pode ser enviado após trocar de cartões SIM.</string>
   <string name="activate_popup_desc_intl_sim_card">Um SMS internacional será enviado para ativar %s. Vocẽ será cobrado pela operadora.</string>

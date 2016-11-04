@@ -22,7 +22,7 @@
     <item>Notícias</item>
     <item>Nostalgia</item>
     <item>Antigas</item>
-    <item>Personalidade</item>
+    <item>Personalidades</item>
     <item>Público</item>
     <item>Música Gospel</item>
     <item>Religião</item>
@@ -47,7 +47,7 @@
     <item>Música Suave</item>
     <item>Educacional</item>
     <item>Emergencial</item>
-    <item>Teste Emercengial</item>
+    <item>Teste Emergencial</item>
     <item>Finanças</item>
     <item>Música folclórica</item>
     <item>Informativos</item>
@@ -66,7 +66,7 @@
     <item>Clássicas</item>
     <item>Sociais</item>
     <item>Esportes</item>
-    <item>Viagem</item>
+    <item>Viagens</item>
     <item>Variedades</item>
     <item>Clima</item>
   </string-array>

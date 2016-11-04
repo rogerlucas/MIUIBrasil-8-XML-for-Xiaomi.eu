@@ -73,7 +73,7 @@ Atualizá-los agora?"</string>
   <string name="account_setup_exchange_no_certificate">Nenhum</string>
   <string name="account_setup_failed_certificate_inaccessible">O certificado é inválido ou inacessível.</string>
   <string name="account_setup_failed_certificate_required">É necessário um certificado de cliente. Deseja se conectar ao servidor com um certificado de cliente?</string>
-  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique seu nome de usuário e senha e, em seguida, tente novamente.</string>
+  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique seu nome de usuário e senha e tente novamente.</string>
   <string name="account_setup_failed_dlg_auth_message">Usuário ou senha incorretos.</string>
   <string name="account_setup_failed_dlg_bar_title">Formas de login em %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"Não é possível se conectar ao servidor com segurança."</string>
@@ -120,7 +120,7 @@ Atualizá-los agora?"</string>
   <string name="account_setup_options_mail_check_frequency_push">Automática (Push)</string>
   <string name="account_setup_options_mail_window_1day">Ontem</string>
   <string name="account_setup_options_mail_window_1month">Último mês</string>
-  <string name="account_setup_options_mail_window_1quarter">Trimestre passado</string>
+  <string name="account_setup_options_mail_window_1quarter">Último trimestre</string>
   <string name="account_setup_options_mail_window_1week">Última semana</string>
   <string name="account_setup_options_mail_window_2weeks">Últimas 2 semanas</string>
   <string name="account_setup_options_mail_window_3days">Últimos 3 dias</string>
@@ -368,7 +368,7 @@ Atualizá-los agora?"</string>
   <string name="feedback_body">Mensagem</string>
   <string name="feedback_sent">Obrigado por seu feedback</string>
   <string name="feedback_user_edit_hint">Descreva aqui o problema. Enviaremos um e-mail depois de o analisarmos.</string>
-  <string name="feedback_user_edit_tag">Da MIUI</string>
+  <string name="feedback_user_edit_tag">De MIUI</string>
   <string name="fetching_attachment">Obtendo anexo</string>
   <string name="file_deleted_success">Arquivo excluído</string>
   <string name="file_not_found">"Não foi possível localizar o arquivo"</string>
@@ -672,7 +672,7 @@ Atualizá-los agora?"</string>
   <string name="quick_reply_hint">Responder a %1$d pessoas</string>
   <string name="quick_reply_hint_bcc">(Em Cco)</string>
   <string name="quick_reply_hint_cc">(Em Cc)</string>
-  <string name="quick_reply_hint_reply_only_from">Resposta rápida (apenas para o remetente)</string>
+  <string name="quick_reply_hint_reply_only_from">Resposta rápida (apenas ao remetente)</string>
   <string name="quick_responses_empty_view">Sem respostas rápidas</string>
   <string name="quote_divider_iphone_en">Enviado do meu iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Início da mensagem encaminhada:</string>
@@ -737,7 +737,7 @@ Atualizá-los agora?"</string>
   <string name="sent_folder_selection_title">Pasta Enviados do servidor p/ %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Falha ao validar o certificado do servidor
  (Verifique as configurações de sincronização automática)"</string>
-  <string name="ser_resp_err_map_landing_more_failure">Muitas tentativas de login sem sucesso</string>
+  <string name="ser_resp_err_map_landing_more_failure">Muitas tentativas de login falharam</string>
   <string name="ser_resp_err_map_landing_too_frequently">Muitas tentativas de login</string>
   <string name="ser_resp_err_map_mailbox_locked">A conta de e-mail é protegida por senha</string>
   <string name="ser_resp_err_map_mailbox_not_open">Nenhuma conta de e-mail</string>

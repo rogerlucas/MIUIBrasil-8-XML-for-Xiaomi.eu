@@ -195,9 +195,9 @@ Use apenas o carregador fornecido."</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mount_storage">Sim</string>
   <string name="nav_guide_cancel">Ignorar</string>
-  <string name="nav_guide_message">Você pode usar gestos para esconder/mostrar o botão da tela após a configuração</string>
+  <string name="nav_guide_message">Você pode usar gestos para ocultar/exibir os botões na tela após configurá-los.</string>
   <string name="nav_guide_ok">Configurações</string>
-  <string name="nav_guide_title">Ocultar botões na tela</string>
+  <string name="nav_guide_title">Ocultar botões da tela</string>
   <string name="no_notification_tips">Nenhuma notificação.</string>
   <string name="no_weather_description">Obtenha informações de clima &gt;</string>
   <string name="notification_header_title">Notificações</string>

@@ -22,7 +22,7 @@
   <string name="wifi_display_enable_menu_item">Ativar Tela Wi-Fi</string>
   <string name="wifi_display_listen_channel">Canal de escuta</string>
   <string name="wifi_display_listen_mode">Ativar modo de escuta</string>
-  <string name="wifi_display_no_devices_found">"Não foi possível encontrar dispositivos próximos."</string>
+  <string name="wifi_display_no_devices_found">"Não foi possível encontrar nenhum dispositivo próximo."</string>
   <string name="wifi_display_operating_channel">Canal de operação</string>
   <string name="wifi_display_options_done">Concluído</string>
   <string name="wifi_display_options_forget">Esquecer</string>

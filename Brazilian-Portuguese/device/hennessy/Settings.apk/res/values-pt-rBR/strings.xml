@@ -790,7 +790,7 @@ A transmissão usa sinais de Bluetooth de baixo consumo."</string>
 Para continuar usando seu smartphone, é necessário redefinir para as configurações originais. Quando você configurar seu smartphone após a redefinição, poderá restaurar todos os dados que foram salvos em backup em sua Conta do Google."</string>
   <string name="crypt_keeper_data_corrupt_title">Falha na descriptografia</string>
   <string name="crypt_keeper_decrypt_methods">Após você criptografar seu telefone, assumindo que você configurou um bloqueio de tela (padrão, senha ou PIN), você precisará desbloquear a tela para descriptografar o telefone sempre que você ligá-lo. A única outra forma de descriptografar o telefone é efetuando uma restauração para configurações de fábrica, apagando todos os seus dados.</string>
-  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você já criptografou seu telefone, você terá que digitar sua senha, PIN ou padrão cada vez que você reiniciar o dispositivo para descriptografá-lo."</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você criptografou seu telefone, você precisará inserir sua senha, PIN ou padrão de desbloqueio sempre que reiniciar o dispositivo para descriptografá-lo."</string>
   <string name="crypt_keeper_decrypt_methods_title">Descriptografando seu dispositivo</string>
   <string name="crypt_keeper_desc">"Você pode criptografar suas contas, configurações, apps transferidos e seus dados, mídia e outros arquivos. Após criptografar seu smartphone, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o smartphone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.
 
@@ -3408,7 +3408,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
   <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>
   <string name="usage_log">Estatísticas de uso do app</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>

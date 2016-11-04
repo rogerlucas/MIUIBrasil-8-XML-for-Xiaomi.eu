@@ -38,7 +38,7 @@
   <string name="error_sdcard_unmounted">Insira o cartão SD agora</string>
   <string name="export_to_note">Exportar para Anotações</string>
   <string name="invalid_argument">Argumento inválido</string>
-  <string name="low_battery_error">"Menos de 5% de bateria restante. Pare e salve sua gravação para garantir que não a perca."</string>
+  <string name="low_battery_error">"Menos de 5% de bateria restante. Pare e salve a gravação para garantir que ela não seja perdida."</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Bateria fraca</string>
   <string name="mark_point_list_title">Marcas</string>
@@ -46,7 +46,7 @@
   <string name="network_tip_dialog_cancel">Cancelar</string>
   <string name="network_tip_dialog_content">O mecanismo de reconhecimento de voz precisa se conectar à internet para funcionar normalmente.</string>
   <string name="network_tip_dialog_ok">Permitir</string>
-  <string name="network_tip_dialog_title">É necessária uma conexão com a Internet</string>
+  <string name="network_tip_dialog_title">Conexão com a internet necessária</string>
   <string name="new_record_name">Nova gravação</string>
   <string name="no_file">Vazio</string>
   <string name="notification_message_all_paused">Aguardando conexão Wi-Fi.</string>

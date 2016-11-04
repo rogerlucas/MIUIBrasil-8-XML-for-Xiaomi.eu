@@ -45,20 +45,20 @@
     <item>Personalizado</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
-    <item>Tentar novamente</item>
+    <item>Tente novamente</item>
     <item>""</item>
     <item>""</item>
-    <item>Cubra o leitor de digitais completamente e pressione-o</item>
+    <item>Cubra o leitor de impressão digital completamente e pressione-o</item>
     <item>""</item>
-    <item>Cubra o leitor de digitais completamente e pressione-o</item>
-    <item>Cubra o leitor de digitais completamente e pressione-o</item>
-    <item>""</item>
-    <item>""</item>
+    <item>Cubra o leitor de impressão digital completamente e pressione-o</item>
+    <item>Cubra o leitor de impressão digital completamente e pressione-o</item>
     <item>""</item>
     <item>""</item>
-    <item>Cubra o leitor de digitais completamente e pressione-o</item>
-    <item>Cubra o leitor de digitais completamente e pressione-o</item>
-    <item>"Muito rápido! Não foi possível reconhecer sua digital"</item>
+    <item>""</item>
+    <item>""</item>
+    <item>Cubra o leitor de impressão digital completamente e pressione-o</item>
+    <item>Cubra o leitor de impressão digital completamente e pressione-o</item>
+    <item>"Muito rápido! Não foi possível reconhecer a impressão digital"</item>
     <item>Mova seu dedo um pouco e tente novamente</item>
     <item>Levante seu dedo e coloque-o no leitor novamente</item>
     <item>Mantenha seu dedo no leitor por mais tempo</item>

@@ -214,7 +214,7 @@
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="separate_from_conference">Separar chamada</string>
   <string name="sip_call_not_support_record">"Não é possível gravar chamadas SIP"</string>
-  <string name="suspect_info">Tenha cuidado com as suas informações pessoais</string>
+  <string name="suspect_info">Tenha cuidado com suas informações pessoais.</string>
   <string name="unknown">Desconhecido</string>
   <string name="upgrade_vt_prompt">Você gostara de atualizar a chamada para chamada de vídeo?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Desative o modo TTY primeiro</string>

@@ -829,8 +829,8 @@ Nota: somente para o Ubuntu 8.04!"</item>
     <item>1 min</item>
   </string-array>
   <string-array name="screen_button_style">
-    <item>Estilo mão esquerda</item>
-    <item>Estilo mão direita</item>
+    <item>Estilo de mão esquerda</item>
+    <item>Estilo de mão direita</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Diariamente</item>
@@ -847,6 +847,181 @@ Nota: somente para o Ubuntu 8.04!"</item>
     <item>Fotos</item>
     <item>Arquivos</item>
     <item>Anotações</item>
-    <item>Modo criança</item>
+    <item>Modo Criança</item>
+  </string-array>
+  <string-array name="standard_configuration_version">
+    <item>3.00GB</item>
+    <item>32GB</item>
+    <item>Quad-Core 1.8GHz</item>
+  </string-array>
+  <string-array name="high_configuration_version">
+    <item>3.00GB</item>
+    <item>64GB</item>
+    <item>Quad-Core Max 2.15GHz</item>
+  </string-array>
+  <string-array name="enjoy_version">
+    <item>3.00GB</item>
+    <item>32GB</item>
+    <item>Quad-Core 2.15GHz</item>
+  </string-array>
+  <string-array name="standard_configuration_version_description_primary">
+    <item>Snapdragon 820</item>
+    <item>3000mAh</item>
+    <item>32GB</item>
+    <item>5.15 polegadas</item>
+    <item>Rede</item>
+    <item>16MP</item>
+  </string-array>
+  <string-array name="standard_configuration_version_description_secondary">
+    <item>Freq. máx. 1.8GHz</item>
+    <item>Standby</item>
+    <item>Armazenamento</item>
+    <item>Corpo em cerâmica ou vidro</item>
+    <item>Dual SIM 4G</item>
+    <item>OIS de 4 eixos</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_summary">
+    <item>Processador Snapdragon 820</item>
+    <item>OIS de 4 eixos</item>
+    <item>Vidro 3D curvo, 129gr</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_secondary">
+    <item>Processador Snapdragon 820, Velocidade aprimorada da CPU, 87% mais rápido com o armazenamento UFS</item>
+    <item>Câmera Sony 16MP IMX298 com lentes de safira</item>
+    <item>Proteção Gorilla Glass 4, GAMUT de 95% NTSC, brilho de 600nit</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_description_text_1">
+    <item>GB</item>
+    <item>16MP</item>
+    <item>95%NTSC</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_description_text_2">
+    <item>GB</item>
+    <item>Safira</item>
+    <item>600nit</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_description_text_3">
+    <item>RAM</item>
+    <item>Câmera Sony IMX298</item>
+    <item>Cores vivas e brilhantes</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_description_text_4">
+    <item>RAM</item>
+    <item>Proteção das lentes</item>
+    <item>Brilho da tela</item>
+  </string-array>
+  <string-array name="hardware_parameters_title">
+    <item>"Processador
+e Memória"</item>
+    <item>"Peso e
+Dimensões"</item>
+    <item>Especificações</item>
+    <item>Fotografia</item>
+    <item>Câmera</item>
+    <item>Tela</item>
+    <item>"Dual SIM
+3G/4G
+Dual standby"</item>
+    <item>Posicionamento</item>
+    <item>Processador</item>
+    <item>"Multimídia"</item>
+  </string-array>
+  <string-array name="hardware_parameters_summary">
+    <item>"Versão Standard
+Snapdragon 820 Quad-Core @ 1.8GHz
+GPU Adreno 530 @ 510MHz
+3GB RAM LPDDR4 1333MHz
+32GB ROM UFS2.0
+
+Versão Enhanced
+Snapdragon 820 Quad-Core @ 2.15GHz
+GPU Adreno 530 @ 624MHz
+3GB RAM LPDDR4 1866MHz
+64GB ROM UFS2.0
+
+Versão Pro
+Snapdragon 820 Quad-Core @ 2.15GHz
+GPU Adreno 530 @ 624MHz
+4GB RAM LPDDR4 1866MHz
+128GB ROM UFS2.0"</item>
+    <item>"Altura: 144.55 mm
+Largura: 69.2 mm
+Espessura: 7.25 mm
+Peso: Versão Standard/Enhanced/Pro Glass: 129g; Versão Pro cerâmica: 139g"</item>
+    <item>"Bateria de 3000mAh (típico) / 2910mAh (min)
+Bateria interna
+Carregamento rápido QuickCharge 3.0
+USB tipo C"</item>
+    <item>"Câmera traseira de 16MP
+
+OIS de 4 eixos, calibra em 8 direções
+6 lentes, abertura f/2.0
+Vidro de proteção em safira
+Flash led dual-tone
+Melhoria de imagem DTI
+Foto automático PDAF
+Exposição manual de 32s
+2a geração Qualcomm Spectra ISP
+Melhoria de imagem em ambientes escuros
+Ajustes de HDR
+Panorama
+HDR automático
+Captura sequencial
+Reconhecimento facial
+
+Câmera frontal de 4MP
+
+Modo beautiful com 26 filtros inteligentes
+Pixels grandes de 2 micron, abertura de  f/2.0 e lente de grande angular 80°
+Mi Vídeo Call com Beautiful em tempo real
+Contagem regressiva de Selfie
+Reconhecimento facial
+
+Gravação de vídeo
+
+Vídeo 4K @ 30fps
+Vídeo FHD @ 30fps
+Vídeo HD @ 30fps
+Vídeo HD slow-motion @ 120fps"</item>
+    <item>"Gravação em 4K @ 30fps
+Gravação em FHD @ 30fps
+Gravação em HD @ 30fps
+Gravalão em FHD slow-motion @ 120fps"</item>
+    <item>"Tela de 5.15 polegadas de alto brilho
+Brilho máximo de 600nit
+Resolução de 1920x1080, 428 PPI
+Razão de contraste de 1500:1
+95% NTSC color gamut
+Sunlight Display
+Night Display
+Modo de leitura
+Ajuste de temperatura de cor"</item>
+    <item>"4G dual SIM (2 x slots nano SIM)
+802.11a/b/g/n/ac dual-band Wi-Fi, MU-MIMO
+Wi-Fi Display，Wi-Fi Direct
+Bluetooth 4.2, Bluetooth HID
+Full-feature NFC, suporta leitura e escrita, emulação de cartões e P2P"</item>
+    <item>"GPS
+A-GPS
+GLONASS
+BeiDou"</item>
+    <item>"Infravermelho
+Giroscópio
+Acelerômetro
+Sensor de proximidade
+Sensor de luminosidade
+Hall sensor
+Bússola eletrônica
+Barômetro"</item>
+    <item>"Suporte a MP4/M4V/MKV/XVID/WAV/AAC/MP3/AMR/FLAC/APE/DSD
+Suporta formatos de vídeo H.265/HEVC(Main profile)、H.264 (Baseline/Main/High profile)、MPEG4 (Simple profile/ASP)VC-1(Simple/Main/Advanced profile) PCM、AAC/AAC+/eAAC+、MP3、AMR–NB and WB、FLAC、APE、DSD、WAV"</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_info_title">
+    <item>Mi 5</item>
+    <item>Especificações para Xiaomi Mi 5</item>
+  </string-array>
+  <string-array name="standard_configuration_version_share_text">
+    <item>"Saiba mais sobre o Mi5!
+http://m.mi.com"</item>
   </string-array>
 </resources>

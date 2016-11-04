@@ -147,7 +147,7 @@ O Economizador de bateria irá tratar apps importantes de forma seletiva."</stri
   <string name="select_items">%d selecionado(s)</string>
   <string name="set_brightness">Brilho máximo da tela</string>
   <string name="set_cpu_powermode">Uso da CPU</string>
-  <string name="set_cpufreq_max">Frequência máxima da CPU</string>
+  <string name="set_cpufreq_max">Frequência máx. da CPU</string>
   <string name="set_lcd_mode">Modo de tela</string>
   <string name="settings_safetylegal_activity_loading">Aguarde\u2026</string>
   <string name="still">Imagem</string>

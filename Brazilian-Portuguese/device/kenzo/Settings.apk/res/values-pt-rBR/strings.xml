@@ -637,7 +637,7 @@ A transmissão usa sinais de Bluetooth de baixo consumo."</string>
   <string name="bootloader_apply_step_4">O uso incorreto deste modo pode causar a perda de dados e até mesmo danos irreparáveis ao hardware do dispositivo.</string>
   <string name="bootloader_apply_step_5">Certifique-se de que você saiba usar o modo Fastboot antes de ativá-lo.</string>
   <string name="bootloader_apply_title">Alerta importante</string>
-  <string name="bootloader_device_bind_already">A Conta Mi foi adicionada e vinculada com sucesso a este dispositivo.</string>
+  <string name="bootloader_device_bind_already">A Conta Mi foi adicionada com sucesso e vinculada com este dispositivo.</string>
   <string name="bootloader_device_bind_fail">"Não foi possível verificar, aguarde alguns minutos e tente novamente"</string>
   <string name="bootloader_device_bind_msg">Preparando-se para adicionar conta e dispositivo\u2026</string>
   <string name="bootloader_device_bind_no_account">Faça o login com sua Conta Mi primeiro</string>
@@ -858,7 +858,7 @@ A transmissão usa sinais de Bluetooth de baixo consumo."</string>
   <string name="crypt_keeper_data_corrupt_summary">A senha digitada está correta, mas os dados estão corrompidos. \n\nPara retomar o uso do seu smartphone, é necessário redefinir para as configurações originais. Quando você configurar seu smartphone após a redefinição, poderá restaurar todos os dados que foram salvos em backup na sua Conta do Google.</string>
   <string name="crypt_keeper_data_corrupt_title">Falha na descriptografia</string>
   <string name="crypt_keeper_decrypt_methods">Após você criptografar seu telefone, assumindo que você configurou um bloqueio de tela (padrão, senha ou PIN), você precisará desbloquear a tela para descriptografar o telefone sempre que você ligá-lo. A única outra forma de descriptografar o telefone é efetuando uma restauração para configurações de fábrica, apagando todos os seus dados.</string>
-  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você já criptografou seu telefone, você terá que digitar sua senha, PIN ou padrão cada vez que você reiniciar o dispositivo para descriptografá-lo."</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você criptografou seu telefone, você precisará inserir sua senha, PIN ou padrão de desbloqueio sempre que reiniciar o dispositivo para descriptografá-lo."</string>
   <string name="crypt_keeper_decrypt_methods_title">Descriptografando seu dispositivo</string>
   <string name="crypt_keeper_desc">Você pode criptografar suas contas, configurações, apps transferidos e seus dados, mídia e outros arquivos. Após criptografar seu smartphone, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o smartphone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.\n\nA criptografia leva uma hora ou mais. Você deve iniciar com a bateria carregada e manter seu smartphone conectado até que a criptografia seja concluída. Se você interromper o processo de criptografia, perderá alguns ou todos os seus dados.</string>
   <string name="crypt_keeper_dialog_need_password_message">É necessário definir um PIN ou uma senha para a Tela de bloqueio antes de iniciar a criptografia.</string>
@@ -1831,7 +1831,7 @@ para o Segundo Espaço"</string>
   <string name="lockscreen_glogin_checking_password">Verificando\u2026</string>
   <string name="lockscreen_glogin_password_hint">Senha</string>
   <string name="lockscreen_glogin_submit_button">Fazer login</string>
-  <string name="long_press_volume_down">Pressionar e segurar Volume -</string>
+  <string name="long_press_volume_down">Segurar Volume -</string>
   <string name="lte_ram_dump_off">Desativar descarga de ram do lte</string>
   <string name="lte_ram_dump_on">Ativar descarga de ram do lte</string>
   <string name="macaddr_label">Ender. MAC:</string>
@@ -3778,7 +3778,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
   <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access">Acesso de uso</string>
   <string name="usage_access_description">O acesso de uso permite que um app rastreie que outros apps você está usando e com que frequência, bem como sua operadora, as configurações de idioma e outros detalhes.</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>

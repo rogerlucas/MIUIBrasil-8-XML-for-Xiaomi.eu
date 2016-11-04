@@ -88,7 +88,7 @@
   <string name="resource_select">Selecionar</string>
   <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
   <string name="screen_button_notification_title">Botões de navegação desativados</string>
-  <string name="screen_on_proximity_sensor_hint">Para desligar essa função, pressione os botões volume + e voltar simultaneamente.</string>
+  <string name="screen_on_proximity_sensor_hint">Para desativar esta função, pressione Volume + e Voltar simultaneamente.</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Para desativar este recurso, pressione o botão Volume +.</string>
   <string name="screen_on_proximity_sensor_summary">"Não cubra a área do alto-falante"</string>
   <string name="screen_on_proximity_sensor_title">Modo de bolso</string>

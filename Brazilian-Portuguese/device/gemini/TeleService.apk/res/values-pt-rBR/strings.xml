@@ -4,7 +4,7 @@
   <string name="Result_title">Resultado</string>
   <string name="accessibility_settings_activity_title">Acessibilidade</string>
   <string name="active_phone_fail_nochoice">"Falha ao verificar o cartão SIM"</string>
-  <string name="active_phone_fail_toast">"Falha ao verificar o cartão SIM %1$s"</string>
+  <string name="active_phone_fail_toast">"Não foi possível verificar o cartão SIM %1$s"</string>
   <string name="active_phone_sim_absent">Insira o cartão SIM agora</string>
   <string name="active_phone_success_nochoice">Cartão SIM verificado</string>
   <string name="active_phone_success_toast">Cartão SIM %1$s verificado</string>
@@ -133,7 +133,7 @@
   <string name="call_advanced_setting_title">Configurações avançadas</string>
   <string name="call_background_default">Padrão</string>
   <string name="call_background_lock_wallpaper">Plano de fundo da Tela de bloqueio</string>
-  <string name="call_background_setting">Chamada em segundo plano</string>
+  <string name="call_background_setting">Plano de fundo de chamadas</string>
   <string name="call_barring">Bloqueio de chamadas</string>
   <string name="call_barring_incoming">Bloqueio de chamadas de entrada</string>
   <string name="call_barring_outgoing">Bloqueio de chamadas de saída</string>
@@ -187,7 +187,7 @@
   <string name="card_title_call_deflected">Chamada desviada</string>
   <string name="card_title_call_ended">Chamada encerrada</string>
   <string name="card_title_callconnectedect">Chamada ECT conectada</string>
-  <string name="card_title_callconnectingect">Conectando chamada ECT</string>
+  <string name="card_title_callconnectingect">Chamada ECT conectando</string>
   <string name="card_title_calliswaiting">Aguardando</string>
   <string name="card_title_callonhold">Colocar em espera</string>
   <string name="card_title_callonhold_released">Chamada liberada</string>
@@ -198,8 +198,8 @@
   <string name="card_title_cugcall">Chamada CUG</string>
   <string name="card_title_deflectedcall">Chamada desviada</string>
   <string name="card_title_dialing">Discando</string>
-  <string name="card_title_forwardcheckreceived">Chamada encaminhada confirmada &amp; recebida</string>
-  <string name="card_title_forwarded_MTcall">Chamada recebida encaminhada</string>
+  <string name="card_title_forwardcheckreceived">Chamada encaminhada verificada &amp; recebida</string>
+  <string name="card_title_forwarded_MTcall">Recebendo chamada encaminhada</string>
   <string name="card_title_hanging_up">Desligando</string>
   <string name="card_title_in_call">Em chamada</string>
   <string name="card_title_incoming_barred">Chamadas recebidas bloqueadas</string>
@@ -654,7 +654,7 @@ Recarregue e comece a falar"</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">"Este cartão está definido como padrão. Se parar de usá-lo, não será possível fazer chamadas ou usar os dados móveis. Você pode parar este cartão SIM depois de definir outro como seu cartão SIM padrão."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Você não será capaz de fazer chamadas ou usar sua conexão de dados móveis. Parar de usar o cartão SIM %s?</string>
-  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Não restringir seu cartão SIM secundário no modo de retorno de chamada de emergência."</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Não restringir seu cartão SIM segundário no modo de retorno de chamada de emergência."</string>
   <string name="msim_disable_sim_card_title">Parar de usar o cartão SIM</string>
   <string name="msim_enable_sim">Ativar</string>
   <string name="msim_general_setting">Configurações</string>
@@ -1300,7 +1300,7 @@ Entre em contato com sua operadora se o problema persistir."</string>
   <string name="voicemail_number_not_set">(Não definido)</string>
   <string name="voicemail_provider">Serviço</string>
   <string name="voicemail_provider_summary">Escolher serviço de correio de voz</string>
-  <string name="voicemail_settings">Configurações de correio de voz</string>
+  <string name="voicemail_settings">Configuração do correio de voz</string>
   <string name="voicemail_settings_number_hint">Insira o número do correio de voz</string>
   <string name="voicemail_settings_number_label">Número do correio de voz</string>
   <string name="voicemail_settings_number_title">Número do correio de voz</string>

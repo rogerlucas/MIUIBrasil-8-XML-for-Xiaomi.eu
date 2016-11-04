@@ -585,13 +585,13 @@ A transmissão usa sinais de Bluetooth de baixo consumo."</string>
   <string name="bootloader_device_bind_already">A Conta Mi foi adicionada e vinculada com sucesso a este dispositivo.</string>
   <string name="bootloader_device_bind_fail">"Não foi possível verificar, aguarde alguns minutos e tente novamente"</string>
   <string name="bootloader_device_bind_msg">Preparando para adicionar conta e o dispositivo\u2026</string>
-  <string name="bootloader_device_bind_no_account">Faça o login com sua Conta Mi primeiro</string>
+  <string name="bootloader_device_bind_no_account">Faça o login em sua Conta Mi primeiro</string>
   <string name="bootloader_device_bind_no_network">Conecte-se à internet e tente novamente</string>
   <string name="bootloader_locked_answer_1">"O bloqueio é feito para garantir sua segurança e impedir seus dados pessoais de serem acessados por terceiros. Caso precise do modo Fastboot para atualizações, você pode desbloqueá-lo."</string>
-  <string name="bootloader_locked_answer_1_warning">"Lembre-se: você não será capaz de usar o \"Encontrar dispositivo\" após o telefone ser desbloqueado."</string>
-  <string name="bootloader_locked_answer_2">"Toque no botão abaixo para associar sua Conta Mi com este dispositivo. Então, acesse o website do MIUI para fazer o download da ferramenta de desbloqueio e instalá-la em seu computador. Aqui está o endereço:"</string>
+  <string name="bootloader_locked_answer_1_warning">"Lembre-se: Você não conseguirá usar o \"Encontrar dispositivo\" depois de desbloquear o dispositivo."</string>
+  <string name="bootloader_locked_answer_2">"Toque no botão abaixo para associar sua Conta Mi a este dispositivo. Então, vá ao site do MIUI para fazer o download da ferramenta de desbloqueio. Aqui está o endereço:"</string>
   <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
-  <string name="bootloader_locked_question_1">Por que bloquear os dispositivos?</string>
+  <string name="bootloader_locked_question_1">Por que os dispositivos são bloqueados?</string>
   <string name="bootloader_locked_question_2">Eu entendo os riscos, mas ainda quero desbloquear meu dispositivo.</string>
   <string name="bootloader_status">Status do bloqueio</string>
   <string name="bootloader_status_locked">Bloqueado</string>
@@ -3428,7 +3428,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
   <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>
   <string name="usage_log">Estatísticas de uso do app</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>

@@ -53,7 +53,7 @@
   <string name="account_vip_level">Conta</string>
   <string name="account_xiaomi_service">Serviços</string>
   <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
-  <string name="activity_not_found_notice">"Não foi possível encontrar o aplicativo"</string>
+  <string name="activity_not_found_notice">"Não foi possível encontrar o app"</string>
   <string name="add_account">Conectar conta</string>
   <string name="alert_title_remove_account">Remover conta?</string>
   <string name="app_name">Conta Mi</string>
@@ -101,7 +101,7 @@
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">"Não foi possível remover dispositivo"</string>
   <string name="delete_device_notice">"Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta."</string>
-  <string name="delete_lock_device_success">Excluido com sucesso</string>
+  <string name="delete_lock_device_success">Excluído com sucesso</string>
   <string name="device_delete_success_message">"Se você não fez o login neste dispositivo, troque sua senha imediatamente."</string>
   <string name="device_delete_success_title">Desconectado</string>
   <string name="device_list__header">Meus dispositivos</string>

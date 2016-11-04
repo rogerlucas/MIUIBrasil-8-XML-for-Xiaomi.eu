@@ -426,7 +426,7 @@
   <string name="sum_video_call">Config. de chamada de vídeo</string>
   <string name="sum_voice_call">Config. de chamada de voz</string>
   <string name="sum_voice_mail">Serviço e número do cor. de voz</string>
-  <string name="suspect_info">Tenha cuidado com as suas informações pessoais.</string>
+  <string name="suspect_info">Tenha cuidado com suas informações pessoais.</string>
   <string name="turn_on_3g_service_message">O 3G está desativado, deseja ativá-lo?</string>
   <string name="umts_preferred_network_mode_dialogtitle">Modo de rede</string>
   <string name="unblock_pin2">Desbloquear PIN2</string>

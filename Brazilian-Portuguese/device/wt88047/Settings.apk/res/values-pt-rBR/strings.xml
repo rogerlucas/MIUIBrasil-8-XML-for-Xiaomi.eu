@@ -1704,7 +1704,7 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="lockscreen_glogin_checking_password">Verificando\u2026</string>
   <string name="lockscreen_glogin_password_hint">Senha</string>
   <string name="lockscreen_glogin_submit_button">Fazer login</string>
-  <string name="long_press_volume_down">Pressionar e segurar Volume -</string>
+  <string name="long_press_volume_down">Segurar Volume -</string>
   <string name="lte_ram_dump_off">Desativar descarga de ram do lte</string>
   <string name="lte_ram_dump_on">Ativar descarga de ram do lte</string>
   <string name="macaddr_label">Ender. MAC:</string>
@@ -3428,7 +3428,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
   <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>
   <string name="usage_log">Estatísticas de uso do app</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>

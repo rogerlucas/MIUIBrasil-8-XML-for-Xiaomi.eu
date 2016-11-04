@@ -626,18 +626,18 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="bootloader_apply_step_4">O uso incorreto deste modo pode causar a perda de dados e até mesmo danos irreparáveis ao hardware do dispositivo.</string>
   <string name="bootloader_apply_step_5">Certifique-se de que você saiba usar o modo Fastboot antes de ativá-lo.</string>
   <string name="bootloader_apply_title">Alerta importante</string>
-  <string name="bootloader_device_bind_already">Adicionado com sucesso. A Conta Mi está vinculada a este dispositivo agora.</string>
-  <string name="bootloader_device_bind_fail">"Não foi possível verificar, aguarde um ou dois minutos e tente novamente"</string>
+  <string name="bootloader_device_bind_already">A Conta Mi foi adicionada com sucesso e vinculada com este dispositivo.</string>
+  <string name="bootloader_device_bind_fail">"Não foi possível verificar, aguarde alguns minutos e tente novamente"</string>
   <string name="bootloader_device_bind_msg">Preparando-se para adicionar conta e dispositivo\u2026</string>
   <string name="bootloader_device_bind_no_account">Faça o login com sua Conta Mi primeiro</string>
-  <string name="bootloader_device_bind_no_network">Conecte-se a uma rede e tente novamente</string>
-  <string name="bootloader_locked_answer_1">"Nós bloqueamos os dispositivos para garantir sua segurança e impedir que seus dados pessoais sejam acessados por terceiros. Caso precise acessar o modo Fastboot e atualizar seu dispositivo, você pode desbloqueá-lo."</string>
-  <string name="bootloader_locked_answer_1_warning">"Lembre-se: Você não será capaz de usar o \"Encontrar dispositivo\" após o telefone ser desbloqueado."</string>
-  <string name="bootloader_locked_answer_2">"Toque no botão abaixo para associar sua Conta Mi a este dispositivo. Então, acesse o website do MIUI para fazer o download da ferramenta de desbloqueio e instalá-la em seu computador. Aqui está o endereço:"</string>
+  <string name="bootloader_device_bind_no_network">Conecte-se à internet e tente novamente</string>
+  <string name="bootloader_locked_answer_1">"Nós bloqueamos nossos dispositivos para garantir a sua segurança e impedir que seus dados pessoais sejam acessados por terceiros. Se você precisa acessar o modo Fastboot para atualizar o dispositivo, você pode desbloqueá-lo."</string>
+  <string name="bootloader_locked_answer_1_warning">"Lembre-se: você não será capaz de usar o \"Encontrar dispositivo\" após o telefone ser desbloqueado."</string>
+  <string name="bootloader_locked_answer_2">"Toque no botão abaixo para associar sua Conta Mi com este dispositivo. Então, acesse o website do MIUI para fazer o download da ferramenta de desbloqueio e instalá-la em seu computador. Aqui está o endereço:"</string>
   <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
-  <string name="bootloader_locked_question_1">Por que os dispositivos devem estar bloqueados?</string>
+  <string name="bootloader_locked_question_1">Por que bloquear os dispositivos?</string>
   <string name="bootloader_locked_question_2">Eu entendo os riscos, mas ainda quero desbloquear meu dispositivo.</string>
-  <string name="bootloader_status">Status do Bloqueio Mi</string>
+  <string name="bootloader_status">Status do Bloqueio</string>
   <string name="bootloader_status_locked">Bloqueado</string>
   <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
   <string name="bootloader_status_locked_summary">O telefone está seguro</string>
@@ -1812,7 +1812,7 @@ para o Segundo Espaço"</string>
   <string name="lockscreen_glogin_checking_password">Verificando\u2026</string>
   <string name="lockscreen_glogin_password_hint">Senha</string>
   <string name="lockscreen_glogin_submit_button">Fazer login</string>
-  <string name="long_press_volume_down">Pressionar e segurar Volume -</string>
+  <string name="long_press_volume_down">Segurar Volume -</string>
   <string name="lte_ram_dump_off">Desativar descarga de ram do lte</string>
   <string name="lte_ram_dump_on">Ativar descarga de ram do lte</string>
   <string name="macaddr_label">Ender. MAC:</string>
@@ -2507,7 +2507,7 @@ Selecione seu sistema operacional:"</string>
   <string name="preferred_network_type_title">Tipo de rede preferencial</string>
   <string name="preferred_sms_settings">Este app será definido como seu app padrão para ler e escrever mensagens de texto.</string>
   <string name="preferred_sms_title">App de mensagens padrão</string>
-  <string name="preferred_sms_warning_message">Utilizar \"%1$s\" como seu aplicativo padrão de mensagens poderá aumentar o consumo de dados ou colocar seus dados pessoais em risco, além de não poder usar o RCS.</string>
+  <string name="preferred_sms_warning_message">Usar \"%1$s\" como seu app de mensagens padrão poderá aumentar o consumo de dados ou colocar seus dados pessoais em risco, além de não poder usar o RCS.</string>
   <string name="preferred_sms_warning_use_system">"Não usar"</string>
   <string name="print_blocked_state_title_template">A impressora bloqueou %1$s</string>
   <string name="print_cancel">Cancelar</string>
@@ -2672,7 +2672,7 @@ Selecione seu sistema operacional:"</string>
   <string name="radio_info_smsc_refresh_label">Atualizar</string>
   <string name="radio_info_smsc_update_label">Atualizar</string>
   <string name="radio_info_toggle_dns_check_label">Ativar/desativar verificação de DNS</string>
-  <string name="rank_title">Classificação</string>
+  <string name="rank_title">Rankings</string>
   <string name="rarely_running">Raramente em execução (%s)</string>
   <string name="really_remove_account_message">A remoção desta conta excluirá todas as suas mensagens, contatos e outros dados do telefone!</string>
   <string name="really_remove_account_title">Remover conta?</string>
@@ -3316,7 +3316,7 @@ Para mais informações, entre em contato com o administrador."</string>
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Tela de bloqueio</string>
   <string name="status_bar_app_enable_message">Ícone de notificação</string>
-  <string name="status_bar_key_position_custom">Alterar posição dos botões</string>
+  <string name="status_bar_key_position_custom">Alternar posição dos botões</string>
   <string name="status_bar_screen_button_desc">Deslize para baixo para ocultar os botões da tela</string>
   <string name="status_bar_screen_button_key">Botões virtuais</string>
   <string name="status_bar_screen_button_key_can_hide">Os botões da tela podem ser ocultados</string>
@@ -3477,9 +3477,9 @@ Depois da formatação, este ^1 funcionará somente neste dispositivo.
   <string name="storage_wizard_format_confirm_next">Limpar e formatar</string>
   <string name="storage_wizard_format_confirm_public_body">"Isto requer que o ^1 seja formatado.
 
-"<b>A formatação apagará todos os dados salvos atualmente no ^!.</b>" Para evitar a perda de dados, considere fazer o backup de dados importantes."</string>
+"<b>A formatação apagará todos os dados salvos atualmente no ^1.</b>" Para evitar a perda de dados, considere fazer o backup de dados importantes."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar c/ armazenam. portátil</string>
-  <string name="storage_wizard_format_confirm_third_body">The ^1 está sento formatado</string>
+  <string name="storage_wizard_format_confirm_third_body">O ^1 está sendo formatado</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenam. interno</string>
   <string name="storage_wizard_format_progress_body">Não remova o ^1 enquanto ele estiver sendo formatado.</string>
   <string name="storage_wizard_format_progress_title">Formatando ^1\u2026</string>
@@ -3744,7 +3744,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
   <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access">Acesso de uso</string>
   <string name="usage_access_description">O acesso de uso permite que um app rastreie que outros apps você está usando e com que frequência, bem como sua operadora, as configurações de idioma e outros detalhes.</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>

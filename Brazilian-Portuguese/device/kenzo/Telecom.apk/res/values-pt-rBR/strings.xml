@@ -4,7 +4,7 @@
   <string name="accessibility_call_muted">Chamada silenciada.</string>
   <string name="accessibility_speakerphone_enabled">Viva-voz ativado.</string>
   <string name="add_vm_number_str">Adicionar número</string>
-  <string name="can_not_dial_vt_while_voice_prompt">"Não é possível realizar uma vídeochamada enquando uma chamada de voz está em andamento"</string>
+  <string name="can_not_dial_vt_while_voice_prompt">"Não é possível fazer uma vídeochamada quando uma chamada de voz está em andamento"</string>
   <string name="can_not_dial_while_vt_prompt">"Não é possível discar enquanto uma vídeochamada está em processo"</string>
   <string name="change_default_dialer_dialog_title">Alterar o app Discador padrão?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Usar %s como seu app Discador padrão?</string>

@@ -1,4 +1,4 @@
-# MIUIBrasil-8-XML-for-Xiaomi.eu
+# Main XML files for MIUI8 translated by MIUIBrasil
 
 Traduções em português brasileiro para MIUI ROMs feita pela MIUI Brasil.
 Pode ser utilizada somente pela MIUI Brasil e seu parceiro Xiaomi.eu

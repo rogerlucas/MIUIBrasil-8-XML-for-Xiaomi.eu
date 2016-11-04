@@ -18,7 +18,7 @@
     <item quantity="one">%s contato atualizado</item>
   </plurals>
   <plurals name="view_all_devices">
-    <item quantity="other">Ver todos os %d dispositivos</item>
+    <item quantity="other">Ver %d dispositivos</item>
     <item quantity="one">Ver %d dispositivo</item>
   </plurals>
   <plurals name="view_all_apps">
@@ -26,7 +26,7 @@
     <item quantity="one">Ver %d app</item>
   </plurals>
   <plurals name="view_all_browsers">
-    <item quantity="other">Ver todos os %d navegadores</item>
+    <item quantity="other">Ver %d navegadores</item>
     <item quantity="one">Ver %d navegador</item>
   </plurals>
 </resources>

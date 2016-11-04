@@ -27,7 +27,7 @@
   <string name="delete_folder">Excluir esta pasta?</string>
   <string name="delete_folders">Excluir %1$d pastas?</string>
   <string name="delete_success">Arquivo excluído</string>
-  <string name="download_failed">"Não foi possível concluir o download"</string>
+  <string name="download_failed">"Não foi possível fazer o download"</string>
   <string name="downloading">Fazendo download</string>
   <string name="downloading_in_3g">Fazendo download em 3G\u2026</string>
   <string name="downloading_in_wifi">Fazendo download\u2026</string>
@@ -45,7 +45,7 @@
   <string name="files">Arquivos</string>
   <string name="finished">Concluído</string>
   <string name="folder_exist">A pasta já existe.</string>
-  <string name="folder_name_empty">"O nome da pasta não pode estar vazio"</string>
+  <string name="folder_name_empty">"O nome da pasta não pode estar em branco"</string>
   <string name="folder_name_illegal">Nome da pasta inválido</string>
   <string name="folder_name_invalid">"Nomes de pastas não podem conter os seguintes caracteres: /\\;*?&lt;&gt;"</string>
   <string name="gigabyteShort">GB</string>
@@ -62,7 +62,7 @@
   <string name="need_get_accounts_permission">O Mi Drive requer permissões de acesso à conta para funcionar normalmente.</string>
   <string name="never_notify">"Não mostrar novamente"</string>
   <string name="no_app_found_to_open_file">Nenhum app encontrado para executar esta ação.</string>
-  <string name="no_more_space">Espaço de armazenamento insuficiente.</string>
+  <string name="no_more_space">Espaço livre insuficiente.</string>
   <string name="no_network">"Não foi possível conectar-se à rede. Verifique sua conexão de rede e tente novamente."</string>
   <string name="no_tasks">Nenhuma tarefa</string>
   <string name="open_changed_file_message">"O arquivo que você está tentando abrir foi alterado. 
@@ -104,7 +104,7 @@
   <string name="paused">Pausado</string>
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Atualize o Gerenciador de arquivos primeiro.</string>
-  <string name="quota_info">Mi Drive: %1$s disponível, %2$s total</string>
+  <string name="quota_info">Mi Drive: %1$s disponível, %2$s no total</string>
   <string name="rename_alert">"Se você alterar a extensão deste arquivo, você pode não conseguir abrí-lo."</string>
   <string name="rename_failed">Um arquivo de mesmo nome já existe.</string>
   <string name="sd_full">Seu cartão SD está cheio.</string>

@@ -22,7 +22,7 @@
   <string name="autosetmode">Configurações</string>
   <string name="best_update">Melhor atualização até agora</string>
   <string name="boot_recovery">Reiniciar no modo de Recovery?</string>
-  <string name="button_delay_update_reboot">Reiniciar &amp; atualizar</string>
+  <string name="button_delay_update_reboot">Reiniciar e atualizar</string>
   <string name="button_text_check">Verificar atualizações</string>
   <string name="button_text_later_reboot">Depois</string>
   <string name="button_text_reboot">Reiniciar agora</string>
@@ -108,8 +108,7 @@
   <string name="miui_summary_has_new_version">"Atualização disponível"</string>
   <string name="miui_summary_no_new_version">Nenhuma atualização disponível</string>
   <string name="miui_summary_now_version">"Não foi possível conectar-se à rede"</string>
-  <string name="miui_summary_slogan">"  Fansite MIUI Brasil  
-www.miuirom.com.br"</string>
+  <string name="miui_summary_slogan">\u0020\u0020Fansite MIUI Brasil\u0020\u0020\nwww.miuirom.com.br</string>
   <string name="miui_summary_updating">"  Atualizando\u2026  "</string>
   <string name="monthly_build">Mensal</string>
   <string name="my_best_update">Melhor atualização</string>
@@ -127,10 +126,10 @@ www.miuirom.com.br"</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo atualizado automaticamente</string>
   <string name="notification_delay_update_button">Atualizar em 2 horas</string>
   <string name="notification_delay_update_cancel">"Não atualizar esta noite"</string>
-  <string name="notification_delay_update_low_power">Parece que a bateria estava baixa à noite</string>
+  <string name="notification_delay_update_low_power">Parece que a bateria estava baixa durante a noite</string>
   <string name="notification_delay_update_msg">O dispositivo irá reiniciar &amp; atualizar em %ss</string>
   <string name="notification_delay_update_no_update">"As atualizações não foram aplicadas"</string>
-  <string name="notification_delay_update_shutdown">Parece que o dispositivo foi desligado durante a noite</string>
+  <string name="notification_delay_update_shutdown">Parece que o dispositivo estava desligado durante a noite</string>
   <string name="notification_downloading">Transferindo atualização\u2026</string>
   <string name="notification_fail_msg">Tente fazer o download da ROM completa</string>
   <string name="notification_load_body_alpha">Obtenha as últimas atualizações para seu dispositivo.</string>
@@ -145,8 +144,8 @@ www.miuirom.com.br"</string>
   <string name="notification_reboot_title_hm">Reinicie para aplicar a atualização</string>
   <string name="notification_restart">Atualizar novamente</string>
   <string name="notification_share">Compartilhar</string>
-  <string name="notification_uncrypt_summary_hm">Toque para reiniciar o dispositivo</string>
-  <string name="notification_uncrypt_title_hm">Reiniciar para aplicar atualização</string>
+  <string name="notification_uncrypt_summary_hm">Toque pare reiniciar seu dispositivo</string>
+  <string name="notification_uncrypt_title_hm">Reinicie para atualizar</string>
   <string name="notification_uncrypting">Descriptografando atualização\u2026</string>
   <string name="notification_update_new_version">Atualização disponível</string>
   <string name="notification_update_now">Atualizar agora</string>
@@ -218,7 +217,7 @@ http://miuirom.com.br/mi-pc-suite"</string>
   <string name="test">Testar</string>
   <string name="timer_title">O dispositivo será reiniciado em %d segundos.</string>
   <string name="title_toast_auto">As atualizações serão transferidas automaticamente</string>
-  <string name="toast_delay_update_tonight">Seu dispositivo irá atualizar entre 02:00AM e 05:00AM</string>
+  <string name="toast_delay_update_tonight">Seu dispositivo será atualizado entre 02:00 e 05:00</string>
   <string name="top_secret_build">Secreta</string>
   <string name="uncrypt_title">Descriptografando (%s)</string>
   <string name="unkown_error_title">"Não foi possível fazer o download"</string>

@@ -711,7 +711,7 @@ A transmissão usa sinais de Bluetooth de baixo consumo."</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_user_data_text">Limpar dados</string>
   <string name="close_dialog">OK</string>
-  <string name="close_gesture">Fechar usando gestos</string>
+  <string name="close_gesture">Fechar usando gesto</string>
   <string name="close_miui_optimization_title">Desativar otimização MIUI</string>
   <string name="close_miui_optimization_warning_message">Seu dispositivo será reiniciado para aplicar esta alteração. Nota: desativar este recurso acarretará em alterações drásticas em layouts e outros elementos da interface.</string>
   <string name="cmcc_hardware_version">Versão do hardware</string>
@@ -795,7 +795,7 @@ A transmissão usa sinais de Bluetooth de baixo consumo."</string>
 Para continuar usando seu smartphone, é necessário redefinir para as configurações originais. Quando você configurar seu smartphone após a redefinição, poderá restaurar todos os dados que foram salvos em backup em sua Conta do Google."</string>
   <string name="crypt_keeper_data_corrupt_title">Falha na descriptografia</string>
   <string name="crypt_keeper_decrypt_methods">Após você criptografar seu telefone, assumindo que você configurou um bloqueio de tela (padrão, senha ou PIN), você precisará desbloquear a tela para descriptografar o telefone sempre que você ligá-lo. A única outra forma de descriptografar o telefone é efetuando uma restauração para configurações de fábrica, apagando todos os seus dados.</string>
-  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você já criptografou seu telefone, você terá que digitar sua senha, PIN ou padrão cada vez que você reiniciar o dispositivo para descriptografá-lo."</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Se você criptografou seu telefone, você precisará inserir sua senha, PIN ou padrão de desbloqueio sempre que reiniciar o dispositivo para descriptografá-lo."</string>
   <string name="crypt_keeper_decrypt_methods_title">Descriptografando seu dispositivo</string>
   <string name="crypt_keeper_desc">"Você pode criptografar suas contas, configurações, apps transferidos e seus dados, mídia e outros arquivos. Após criptografar seu smartphone, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o smartphone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.
 
@@ -1701,7 +1701,7 @@ para o Segundo Espaço"</string>
   <string name="lockscreen_glogin_checking_password">Verificando\u2026</string>
   <string name="lockscreen_glogin_password_hint">Senha</string>
   <string name="lockscreen_glogin_submit_button">Fazer login</string>
-  <string name="long_press_volume_down">Pressionar e segurar Volume -</string>
+  <string name="long_press_volume_down">Segurar Volume -</string>
   <string name="lte_ram_dump_off">Desativar descarga de ram do lte</string>
   <string name="lte_ram_dump_on">Ativar descarga de ram do lte</string>
   <string name="macaddr_label">Ender. MAC:</string>
@@ -2327,7 +2327,7 @@ Selecione seu sistema operacional:"</string>
   <string name="pref_button_light_summary">Iluminar o botão de Menu, Início e Voltar</string>
   <string name="pref_edge_handgrip">Controles na borda</string>
   <string name="pref_operational_key">Botões de navegação</string>
-  <string name="pref_volume_launch_camera_summary">Pressionar Volume - 2 vezes para abrir a Câmera</string>
+  <string name="pref_volume_launch_camera_summary">Pressionar Volume - duas vezes para abrir a Câmera</string>
   <string name="pref_volume_launch_camera_title">Iniciar câmera</string>
   <string name="pref_volume_wake_summary">Pressionar os botões de volume ativa a tela do dispositivo</string>
   <string name="pref_volume_wake_title">Ligar a tela com botões de volume</string>
@@ -3132,7 +3132,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Tela de bloqueio</string>
   <string name="status_bar_app_enable_message">Ícone de notificação</string>
-  <string name="status_bar_key_position_custom">Alterar posição dos botões</string>
+  <string name="status_bar_key_position_custom">Alternar posição dos botões</string>
   <string name="status_bar_screen_button_key">Botões virtuais</string>
   <string name="status_bar_screen_key_back">Botão Voltar</string>
   <string name="status_bar_screen_key_home">Botão Início</string>
@@ -3426,7 +3426,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">Atualizando (%s)</string>
   <string name="upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="usage_access_title">Apps com acesso ao uso</string>
   <string name="usage_log">Estatísticas de uso do app</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>

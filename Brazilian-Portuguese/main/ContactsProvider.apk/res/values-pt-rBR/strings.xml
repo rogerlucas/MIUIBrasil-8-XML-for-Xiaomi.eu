@@ -21,7 +21,7 @@
   <string name="search_the_yellowpage">Pesquisar Páginas Amarelas</string>
   <string name="send_sms">Enviar mensagem</string>
   <string name="sharedUserLabel">Principais apps do Android</string>
-  <string name="third_party_delete_contact_info">"\"%s\" está tentando excluir seus contatos. Esta ação não pode ser executada por apps de terceiros. Para excluir contatos, utilize o app de contatos nativo da MIUI."</string>
+  <string name="third_party_delete_contact_info">"\"%s\" está tentando excluir seus contatos. Esta ação não pode ser executada por apps de terceiros. Para excluir contatos, utilize o app de contatos nativo do MIUI."</string>
   <string name="upgrade_msg">Atualizando banco de dados de contatos.</string>
   <string name="upgrade_out_of_memory_notification_text">Toque para concluir a atualização.</string>
   <string name="upgrade_out_of_memory_notification_ticker">A atualização requer mais memória.</string>

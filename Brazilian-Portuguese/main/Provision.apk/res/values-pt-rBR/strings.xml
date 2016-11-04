@@ -19,7 +19,7 @@
   <string name="input_method_category">"Escolha o teclado padrão que você usará ao escrever e-mails, anotações, etc. É possível alterar esta configuração mais tarde."</string>
   <string name="input_method_setting">Escolher teclado padrão</string>
   <string name="install_preinstall_app">Carregando apps\u2026</string>
-  <string name="locale_picker_title">Escolha sua região</string>
+  <string name="locale_picker_title">Escolher sua região</string>
   <string name="miui_privacy_policy_no_network">"Você não possui uma conexão com a internet. Veja a Política de Privacidade em %s."</string>
   <string name="miui_terms_no_network">"Você não possui uma conexão com a internet. Veja os Termos de Serviço em %s."</string>
   <string name="multisim_settings_category">Configurações do cartão SIM</string>
@@ -34,9 +34,9 @@
   <string name="other_settings_mifg_online_content">Carrossel de planos de fundo</string>
   <string name="other_settings_mifg_online_content_summary">Novos planos de fundo entregues regularmente para sua Tela de bloqueio.</string>
   <string name="other_settings_upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
-  <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
-  <string name="other_settings_user_experience_summary">Ajude a melhorar nossos produtos e serviços enviando dados de uso anônimos.</string>
+  <string name="other_settings_user_experience_summary">Ajude a melhorar nossos produtos e serviços ao enviar dados de uso anônimos.</string>
   <string name="pref_title_data_slot">Cartão SIM para internet</string>
   <string name="pref_title_voice_slot">Cartão SIM para chamadas</string>
   <string name="privacy_policy">Política de Privacidade</string>
