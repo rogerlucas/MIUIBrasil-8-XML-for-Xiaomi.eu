@@ -48,13 +48,4 @@
     <item>Poeira</item>
     <item>Neblina</item>
   </string-array>
-  <string-array name="editing_mode_entries">
-    <item>Mover apps</item>
-    <item>Widgets</item>
-    <item>Planos de fundo</item>
-    <item>Efeitos</item>
-  </string-array>
-  <string-array name="quality_business_devices">
-    <item>Lithium</item>
-  </string-array>
 </resources>
