@@ -4,10 +4,11 @@
   <string name="app_name">Pesquisar</string>
   <string name="application_desc">App</string>
   <string name="applications_search_label">Apps</string>
+  <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\" )</string>
   <string name="baidu_search_url_from_default">http://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_input">http://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_launcher">http://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_minus_one">about:blank</string>
+  <string name="baidu_search_url_from_minus_one">http://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_systemui">http://www.google.com/search?q=%s</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%s</string>
   <string name="clear_history">Limpar histórico</string>
@@ -25,7 +26,7 @@ Para limpar o histórico do navegador, acesse as configurações do Navegador."<
   <string name="corpus_hint_apps">Pesquisar apps</string>
   <string name="corpus_label_apps">Apps</string>
   <string name="corpus_label_global">Tudo</string>
-  <string name="corpus_label_web">Web</string>
+  <string name="corpus_label_web">Pesquisar apps, música, vídeo, páginas amarelas\u2026</string>
   <string name="corpus_selection_heading">Pesquisar</string>
   <string name="cta_declaration">"Este recurso precisa de uma conexão com a internet, acesso à localização do dispositivo e visualização do registro de chamadas para funcionar normalmente."</string>
   <string name="cta_declaration_ignore">"Não mostrar novamente"</string>
@@ -38,13 +39,10 @@ Para limpar o histórico do navegador, acesse as configurações do Navegador."<
   <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">Abrindo pesquisa</string>
   <string name="google_app_label">Pesquisa Google</string>
-  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Sugestões de pesquisa do Google</string>
   <string name="google_search_hint">Pesquisa Google</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Pesquisa Google</string>
-  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
   <string name="loading">Aguarde\u2026</string>
   <string name="menu_help">Ajuda</string>
@@ -55,10 +53,24 @@ Para limpar o histórico do navegador, acesse as configurações do Navegador."<
   <string name="permission_prompt_started_info">"Você permitiu a pesquisa global"</string>
   <string name="permission_prompt_title">Quer mais?</string>
   <string name="recent_apps">Apps recentes</string>
+  <string name="recent_apps_filter">"Ocultar apps sem uso"</string>
+  <string name="recent_close_content">"Desativar esta função agora?
+Você pode alterar isso em Configurações / Apps instalados / Pesquisa"</string>
+  <string name="recent_close_title">Desativar função</string>
+  <string name="recent_delete_content">"Ocultar estes apps agora?
+Você pode alterar isto em Configurações / Apps instalados / Pesquisar"</string>
+  <string name="recent_delete_negative">Cancelar</string>
+  <string name="recent_delete_positive">OK</string>
+  <string name="recent_delete_title">Ocultar apps</string>
+  <string name="recent_edit">Editar</string>
+  <string name="recent_edit_done">Concluído</string>
+  <string name="recent_filter_functions">Recursos desativados</string>
+  <string name="recent_function">Recursos</string>
   <string name="recently_shortcut_label">Atalhos recentes</string>
   <string name="remove_from_history">Você deseja remover este item do histórico de pesquisa?</string>
   <string name="remove_from_history_failed">"Não foi possível remover o item do histórico."</string>
   <string name="search_apps">Apps recentes</string>
+  <string name="search_button">Pesquisar</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Mais</string>
   <string name="search_history">Histórico</string>
@@ -92,6 +104,13 @@ Para limpar o histórico do navegador, acesse as configurações do Navegador."<
   <string name="switch_setting">Configurações</string>
   <string name="system_search_category_title">Telefone</string>
   <string name="top_clicked">Itens frequentes</string>
+  <string name="update_check">Procurar atualizações</string>
+  <string name="update_right_now">Atualizar</string>
+  <string name="update_title">Atualização disponível</string>
+  <string name="update_version_alpha">Alpha</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Stable</string>
+  <string name="updated_title">O MIUI está atualizado</string>
   <string name="voice_search_hint_title">Tente dizer </string>
   <string name="web_search_results">Resultados de pesquisa web</string>
   <string name="xiaomi_hint">Comece sua pesquisa aqui</string>

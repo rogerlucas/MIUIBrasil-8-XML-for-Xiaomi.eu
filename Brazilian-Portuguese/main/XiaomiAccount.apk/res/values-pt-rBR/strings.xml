@@ -55,11 +55,9 @@
   <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">"Não foi possível encontrar o app"</string>
   <string name="add_account">Conectar conta</string>
-  <string name="alert_title_remove_account">Remover conta?</string>
   <string name="app_name">Conta Mi</string>
   <string name="auth_fail_warning">Sessão expirada, faça o login novamente mais tarde</string>
   <string name="authorize_title">Autorização</string>
-  <string name="barcode_add_account_prompt">Para conectar uma conta, leia o código QR novamente após fazer o login.</string>
   <string name="bind_facebook">Conectar conta do Facebook</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Contas</string>
@@ -86,12 +84,9 @@
   <string name="continue_action">Continuar</string>
   <string name="cta_declaration_agree_and_continue">Aceitar</string>
   <string name="cta_declaration_exit">Sair</string>
-  <string name="cta_declaration_ignore">"Não exibir novamente"</string>
   <string name="cta_declaration_message">"Para fazer o Login em sua Conta Mi, você precisará estar conectado à internet. Os serviços de localização e a sincronização com a Mi Cloud serão ativados. Para fazer backup de seus dados, este app precisará de acesso aos seus contatos, mensagens, histórico e gravações de chamadas. Não utilizaremos seus dados para fins comerciais ou os compartilharemos com ninguém. Após o login na Conta Mi, os Serviços Mi poderão utilizar o acesso à internet."</string>
   <string name="cta_declaration_title">Termos e Condições</string>
   <string name="current_location_title">Localização atual</string>
-  <string name="data_keep_in_device">Manter neste dispositivo</string>
-  <string name="data_wipe_from_device">Excluir deste dispositivo</string>
   <string name="delete_action">Excluir</string>
   <string name="delete_app">Excluir app</string>
   <string name="delete_bank_card_message">Seu cartão bancário será excluído devido a razões de segurança após você sair</string>
@@ -138,6 +133,7 @@
   <string name="forward_to_bind">Adicionar</string>
   <string name="get_device_list_failed">"Não foi possível obter dispositivos"</string>
   <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
+  <string name="guest_account_label">Conta Mi de convidado</string>
   <string name="ignore">Agora não</string>
   <string name="input_email_address_notice">"Nós usaremos este e-mail para verificar sua conta"</string>
   <string name="io_error_title">Confirme a sua rede</string>
@@ -152,6 +148,7 @@
   <string name="login_guard_prompt">Exigir verificação de número de telefone ao fazer login em sua Conta Mi em um dispositivo ou app desconhecido pela primeira vez.</string>
   <string name="logout_failed">"Não foi possível fazer o logout"</string>
   <string name="mi_account_identity_title">Verificar identidade</string>
+  <string name="mi_family">Mi Home</string>
   <string name="mi_insurance">Seguro Mi</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identidade</string>
@@ -172,6 +169,10 @@
   <string name="notify_network_restricted_content_hidden_state">"A atividade em segundo plano da Conta Mi está restringida. Toque para permitir."</string>
   <string name="notify_network_restricted_content_mobile_network">"O acesso à internet pela Conta Mi está restringido. Toque para permitir."</string>
   <string name="notify_network_restricted_title">"A Conta Mi não pôde se conectar à rede"</string>
+  <string name="oauth_get_scopes_failed">"Não foi possível obter informações da conta"</string>
+  <string name="oauth_getting_scopes">Verificando conta\u2026</string>
+  <string name="oauth_scopes_intro"><font color="#%1$s">%2$s</font> receberá as seguintes permissões:<br><br>%3$s</string>
+  <string name="oauth_title">Fazer login na Conta Mi</string>
   <string name="other_devices_title">Outros dispositivos</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">E-mail ou Conta Mi</string>
@@ -187,6 +188,7 @@
   <string name="passport_auto_generate_pwd">Gerar senha segura</string>
   <string name="passport_back">Voltar</string>
   <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
+  <string name="passport_barcode_add_account_prompt">Para conectar-se a uma conta, leia o código QR após fazer o login.</string>
   <string name="passport_change_account"><u>Mudar conta</u></string>
   <string name="passport_change_phone_number">Trocar números</string>
   <string name="passport_checking_account">Verificando senha\u2026</string>
@@ -247,7 +249,7 @@ Para ativar sua conta, siga o
   <string name="passport_login_instead_reg">Usar este número</string>
   <string name="passport_login_instead_reg_with_email">Usar este E-mail</string>
   <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços.</string>
-  <string name="passport_login_title">Faça o login em sua Conta Mi</string>
+  <string name="passport_login_title">Entrar em sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outras formas de login</u></string>
   <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
   <string name="passport_next">Avançar</string>
@@ -315,7 +317,7 @@ Para ativar sua conta, siga o
   <string name="passport_user_agreement">Acordo do Usuário</string>
   <string name="passport_user_agreement_p1">Concordo com o\u0020</string>
   <string name="passport_user_agreement_p2">Acordo do Usuário</string>
-  <string name="passport_user_agreement_p3">&#160;e a&#160;</string>
+  <string name="passport_user_agreement_p3">\u0020e a\u0020</string>
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
   <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
   <string name="passport_vcode_prompt_long">Insira o código de verificação</string>
@@ -329,7 +331,6 @@ Para ativar sua conta, siga o
   <string name="phone_activated">%s ativado</string>
   <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
   <string name="qq">QQ</string>
-  <string name="remove_account_notice">O que você gostaria de fazer com as mensagens, contatos, e outros dados que foram sincronizados de sua Conta Mi?</string>
   <string name="remove_device_success_notice">Se você remover esse dispositivo de seus dispositivos confiáveis, vocÊ precisará fazer o processo de verificação novamente quando fazer o login.</string>
   <string name="remove_trust_btn">Remover dos dispositivos confiáveis</string>
   <string name="remove_trust_notice">Remover dos dispositivos confiáveis e fazer logout</string>
@@ -364,12 +365,11 @@ Certifique-se de lembrar das respostas para estas perguntas."</string>
   <string name="trusted_browsers">Navegadores confiáveis</string>
   <string name="trusted_browsers_prompt">O navegador não será mais confiável se você excluir seus cookies.</string>
   <string name="turn_off_find_device_failed_title">"Não foi possível desativar o Encontrar dispositivo"</string>
-  <string name="turning_off_find_device">Desativando o Encontrar dispositivo\u2026</string>
   <string name="unbind_sns_description">"Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer o login em sua Conta Mi."</string>
   <string name="unlock_help_notice">"Ajuda:
 - Caso você esqueça sua senha, acesse id.mi.com para redefiní-la.
-- Se você não conseguir desbloquear o dispositivo, acesse i.mi.com para desativar o Encontrar dispositivo
-- Diga este número de desbloqueio para o serviço de atendimento: %s"</string>
+- Se você não conseguir desbloquear o dispositivo, acesse i.mi.com para desativar o Encontrar dispositivo.
+- Diga este código para o serviço de atendimento ao consumidor: %s"</string>
   <string name="update_contacts">Atualizar contatos</string>
   <string name="update_email_address_dialog_message">Você precisa verificar sua identidade antes de atualizar o e-mail.</string>
   <string name="update_email_address_dialog_title">Atualizar e-mail</string>
@@ -381,7 +381,4 @@ Certifique-se de lembrar das respostas para estas perguntas."</string>
   <string name="verified_devices">Dispositivos verificados</string>
   <string name="verify_phone_prompt">Selecionar número de telefone para verificar</string>
   <string name="verify_phone_title">Verificar número de telefone</string>
-  <string name="wipe_data_dialog_msg">%s será excluído se você continuar.</string>
-  <string name="wipe_data_dialog_msg_separator">,\u0020</string>
-  <string name="wipe_data_dialog_title">"Alguns itens não foram sincronizados"</string>
 </resources>

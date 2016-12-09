@@ -389,7 +389,7 @@ Cartões de contatos estão desativados"</string>
   <string name="editContactNameExpandOpenDescription">Expandir nome</string>
   <string name="editGroupDescription">Editar grupo</string>
   <string name="edit_contact">Editar contato</string>
-  <string name="edit_contact_card_title">Editar contato</string>
+  <string name="edit_contact_card_title">Selecionar itens para compartilhar</string>
   <string name="edit_contact_photo">Editar a foto do contato</string>
   <string name="email">Enviar e-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
@@ -551,6 +551,11 @@ Motivo: \"%s\""</string>
   <string name="list_filter_customize">Personalizar</string>
   <string name="list_filter_phones">Todos os contatos com números de telefone</string>
   <string name="list_filter_single">Contato</string>
+  <string name="live_talk_switch_on_toast">Live talk ativado</string>
+  <string name="livetalk_charge">Cobrar</string>
+  <string name="livetalk_left">Livetalk restante</string>
+  <string name="livetalk_switch_on">Ativar</string>
+  <string name="livetalk_title">Live talk</string>
   <string name="loading_accounts">Aguarde\u2026</string>
   <string name="loading_group_members">Aguarde\u2026</string>
   <string name="loading_groups">Aguarde\u2026</string>
@@ -560,6 +565,7 @@ Motivo: \"%s\""</string>
   <string name="local_search_label">Todos os contatos</string>
   <string name="locale_change_in_progress">A lista de contatos está sendo atualizada para incorporar a alteração do idioma.</string>
   <string name="login_ok">Fazer login</string>
+  <string name="low_memory_toast">"Não é possível continuar pois o espaço de armazenamento é insuficiente."</string>
   <string name="lunarBirthdayLabelsGroup">Aniversário lunar</string>
   <string name="make_primary">Não mostrar novamente</string>
   <string name="map_custom">Mostrar endereço de %s</string>
@@ -1147,6 +1153,7 @@ Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>"
   <string name="toast_making_personal_copy">Criando uma cópia pessoal\u2026</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="today">Hoje</string>
+  <string name="tomorrow">Amanhã</string>
   <string name="transfer_accounts">Transferir contas</string>
   <string name="type_incoming">Chamada recebida</string>
   <string name="type_missed">Chamada perdida</string>
@@ -1211,9 +1218,10 @@ Escolha uma das seguintes opções:"</string>
   <string name="wipe_data">Limpar dados</string>
   <string name="yellowPageNavigationIconLabel">Páginas amarelas</string>
   <string name="yellowPageNavigationLabel">Páginas amarelas</string>
+  <string name="yellowpage_fc_toast">"Não é possível continuar pois o serviço de Diretório parou."</string>
   <string name="yellowpage_navigation_ad_hint">Anúncio</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"Dados de saldo não puderam ser verificados. Tente novamente mais tarde."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Saldo e dados foram verificados</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Saldo e dados móveis não puderam ser verificados, tente novamente mais tarde."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Saldo e dados móveis não puderam ser verificados</string>
   <string name="yellowpage_navigation_clear_search_history">Limpar histórico</string>
   <string name="yellowpage_navigation_more_items">Mais</string>
   <string name="yellowpage_navigation_more_items_title">Mais serviços</string>
@@ -1233,5 +1241,6 @@ conectar-se à rede"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado à tela inicial</string>
   <string name="yellowpage_search_the_yellowpage">Pesquisar nas Páginas Amarelas</string>
   <string name="yellowpage_user_profile">Perfil</string>
+  <string name="yesterday">Ontem</string>
   <string name="zero_items_selected">Selecione os itens</string>
 </resources>

@@ -20,7 +20,7 @@
   <string name="administrative_enable">Administrativo ativado</string>
   <string name="advanced_settings">Configurações opcionais</string>
   <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
-  <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
+  <string name="advanced_settings_show">Toque para mostrar todos</string>
   <string name="advertisements_disable">Anúncios desativados</string>
   <string name="advertisements_enable">Anúncios ativados</string>
   <string name="alert_dialog_close">Fechar perfil</string>
@@ -59,7 +59,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Somente com fones de ouvido</string>
   <string name="auto_answer_scenario_title">Atendimento automático</string>
   <string name="auto_answer_setting_title">Atendimento automático</string>
-  <string name="auto_answer_summary_delay">" (atraso: %s segundos)"</string>
+  <string name="auto_answer_summary_delay">" atraso: %s segundos"</string>
   <string name="auto_answer_summary_not_enabled">Desativado</string>
   <string name="auto_record_yellowpage">Páginas amarelas</string>
   <string name="auto_redial_pref_summary">Rediscar automaticamente se a linha estiver ocupada</string>
@@ -348,7 +348,7 @@
   <string name="fdn_summary">Restringe chamadas efetuadas para números listados no FDN ou com determinados prefixos</string>
   <string name="feedback">Feedback</string>
   <string name="flash_when_ring_summary">Piscar LED de notificação para chamadas recebidas</string>
-  <string name="flash_when_ring_title">Piscar LED de notificação quando tocar</string>
+  <string name="flash_when_ring_title">Piscar led de flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contato com sua operadora se o problema persistir."</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e salvar as configurações de número atual de encaminhamento.

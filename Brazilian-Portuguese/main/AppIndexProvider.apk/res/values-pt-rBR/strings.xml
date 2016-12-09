@@ -5,4 +5,5 @@
   <string name="application_desc">App</string>
   <string name="search_label">Configurações</string>
   <string name="settings_description">Configurações</string>
+  <string name="update_keywords">""</string>
 </resources>

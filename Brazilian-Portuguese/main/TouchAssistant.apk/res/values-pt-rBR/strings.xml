@@ -18,6 +18,8 @@
   <string name="motion_behavior">Gesto preferencial</string>
   <string name="name_alipay_payment_code">Pagamento Alipay</string>
   <string name="name_alipay_scan">Leitor QR Alipay</string>
+  <string name="name_all_mipay_cards">Mi Pay</string>
+  <string name="name_handy_mode">Modo de uma mão</string>
   <string name="name_long_press_power_key">Segurar botão Liga/Desliga</string>
   <string name="name_memory_clean">Limpar cache</string>
   <string name="name_music_next_song">Próxima música</string>
@@ -31,12 +33,16 @@
   <string name="name_quick_search">Pesquisar</string>
   <string name="name_scan_to_pay">Escanear para pagar</string>
   <string name="name_screenshot">Capturar tela</string>
+  <string name="name_trans_cards">Cartão de transporte</string>
   <string name="name_wechat_payment_code">Pagamento WeChat</string>
   <string name="name_wechat_scan">Leitor QR WeChat</string>
+  <string name="nfc_all_mipay_card_not_in_use">"O Mi Pay não está ativado"</string>
+  <string name="nfc_trans_card_not_in_use">"O cartão de transporte não está ativado"</string>
   <string name="not_working">%s (Não funcionando)</string>
   <string name="open_panel">Ativar Menu de atalhos</string>
   <string name="pay_entry_dialog_title_select">Selecionar app para abrir</string>
   <string name="pay_entry_dialog_title_setting">Configurar app</string>
+  <string name="pref_category_mipay">Atalhos de NFC</string>
   <string name="pref_category_others">Outros</string>
   <string name="pref_category_quick_pay">Pagamento rápido</string>
   <string name="pref_category_quick_settings">Configurações rápidas</string>

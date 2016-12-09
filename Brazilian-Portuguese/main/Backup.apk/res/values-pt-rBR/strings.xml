@@ -339,8 +339,8 @@ e o Mi Mover ativado"</string>
   <string name="user_notice_title">Atenção</string>
   <string name="wifi_title">Configurações de Wi-Fi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">"Não foi possível conectar-se ao Gerenciador de Downloads, verifique o status do Gerenciador de Downloads no Gerenciador de Tarefas."</string>
-  <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
+  <string name="xiaomi_connect_download_manager_fail">"Não foi possível iniciar o download. Certifique-se de que o Gerenciador de downloads funciona normalmente."</string>
+  <string name="xiaomi_external_storage_unavailable">"O armazenamento está indisponível, verifique seu cartão SD."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>

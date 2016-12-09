@@ -18,7 +18,7 @@
   <string name="auto_dialog_msg_check_again">"Você deve concordar com nossa Política de Privacidade atualizada antes de atualizar seu sistema. "</string>
   <string name="auto_dialog_title_check_again">Cancelar atualização?</string>
   <string name="auto_update">Atualizar automaticamente</string>
-  <string name="auto_update_sum">Fazer download de atualizações automaticamente quando conectado à rede Wi-Fi e instalá-las durante a noite</string>
+  <string name="auto_update_sum">Fazer download de atualizações quando conectado ao Wi-Fi e instalá-las à noite</string>
   <string name="autosetmode">Configurações</string>
   <string name="best_update">Melhor atualização até agora</string>
   <string name="boot_recovery">Reiniciar no modo de Recovery?</string>
@@ -61,9 +61,6 @@
   <string name="dialog_delay_update_msg">"Seu dispositivo irá reiniciar para aplicar as atualizações quando estiver ligado e com a bateria acima de 30% de carga"</string>
   <string name="dialog_delay_update_title">Atualização disponível</string>
   <string name="dialog_delay_update_tonight">Atualizar esta noite</string>
-  <string name="dialog_reboot_message">"O MIUI está prestes a ser atualizado. O processo poderá levar de 5 a 20 minutos. Mantenha o dispositivo ligado e não o reinicie durante a atualização."</string>
-  <string name="dialog_reboot_title">Atualização de sistema</string>
-  <string name="dialog_reboot_yes">Atualizar</string>
   <string name="download_again">Tentar novamente</string>
   <string name="download_cancel">Cancelar</string>
   <string name="download_current_rom">Reinicie para aplicar a atualização</string>
@@ -108,7 +105,7 @@
   <string name="miui_summary_has_new_version">"Atualização disponível"</string>
   <string name="miui_summary_no_new_version">Nenhuma atualização disponível</string>
   <string name="miui_summary_now_version">"Não foi possível conectar-se à rede"</string>
-  <string name="miui_summary_slogan">\u0020\u0020Fansite MIUI Brasil\u0020\u0020\nwww.miuirom.com.br</string>
+  <string name="miui_summary_slogan">Fansite oficial - www.miuirom.com.br</string>
   <string name="miui_summary_updating">"  Atualizando\u2026  "</string>
   <string name="monthly_build">Mensal</string>
   <string name="my_best_update">Melhor atualização</string>

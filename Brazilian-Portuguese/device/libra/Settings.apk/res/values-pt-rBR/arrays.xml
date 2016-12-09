@@ -597,24 +597,9 @@
     <item>Branco</item>
     <item>Violeta</item>
   </string-array>
-  <string-array name="wifi_security_only_wapi_cert_entries">
-    <item>WAPI CERT</item>
-  </string-array>
   <string-array name="wifi_wapi_key_type">
     <item>WAPI ASCII</item>
     <item>WAPI hexadecimal</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim_for_cmcc">
-    <item>PEAP</item>
-    <item>SIM</item>
   </string-array>
   <string-array name="screen_key_press_action">
     <item>Mostrar apps recentes</item>
@@ -828,6 +813,15 @@ Nota: somente para o Ubuntu 8.04!"</item>
     <item>EEG</item>
     <item>EEEG</item>
   </string-array>
+  <string-array name="max_number_titles">
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>Ilimitado</item>
+  </string-array>
   <string-array name="common_password_business_names">
     <item>Tela de bloqueio</item>
     <item>Senha de privacidade</item>
@@ -851,6 +845,6 @@ Nota: somente para o Ubuntu 8.04!"</item>
     <item>Fotos</item>
     <item>Arquivos</item>
     <item>Anotações</item>
-    <item>Modo criança</item>
+    <item>Modo Criança</item>
   </string-array>
 </resources>

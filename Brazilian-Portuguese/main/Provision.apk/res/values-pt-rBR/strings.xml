@@ -3,7 +3,7 @@
 <resources>
   <string name="agree">Aceitar</string>
   <string name="agree_terms">"Eu li e concordo com os Termos de Serviço e a Política de Privacidade."</string>
-  <string name="app_name">Provisões</string>
+  <string name="app_name">Configuração inicial</string>
   <string name="back">Voltar</string>
   <string name="congratulation_label">"Está tudo pronto!"</string>
   <string name="congratulation_title">Configuração concluída</string>
@@ -19,10 +19,10 @@
   <string name="input_method_category">"Escolha o teclado padrão que você usará ao escrever e-mails, anotações, etc. É possível alterar esta configuração mais tarde."</string>
   <string name="input_method_setting">Escolher teclado padrão</string>
   <string name="install_preinstall_app">Carregando apps\u2026</string>
-  <string name="locale_picker_title">Escolher sua região</string>
+  <string name="locale_picker_title">Escolha sua região</string>
   <string name="miui_privacy_policy_no_network">"Você não possui uma conexão com a internet. Veja a Política de Privacidade em %s."</string>
   <string name="miui_terms_no_network">"Você não possui uma conexão com a internet. Veja os Termos de Serviço em %s."</string>
-  <string name="multisim_settings_category">Configurações do cartão SIM</string>
+  <string name="multisim_settings_category">Configurar cartão SIM</string>
   <string name="multisim_settings_title">2 cartões SIM detectados</string>
   <string name="next">Avançar</string>
   <string name="next_fingerprint">Avançar</string>
@@ -46,12 +46,12 @@ Ver a Política de Privacidade do teclado selecionado."</string>
   <string name="setting_locale">Configurando região\u2026</string>
   <string name="shut_down">Desligar</string>
   <string name="sim_card_detecting">Verificando o cartão SIM\u2026</string>
-  <string name="sim_card_detecting_title">Verificação de cartão SIM</string>
-  <string name="sim_card_detection">Inserir cartão SIM</string>
+  <string name="sim_card_detecting_title">Verificar cartão SIM</string>
+  <string name="sim_card_detection">Insira um cartão SIM</string>
   <string name="sim_card_detection_info">Para inserir seu cartão SIM, leia as instruções que acompanham o seu dispositivo.</string>
   <string name="sim_dectection_next">Continuar</string>
   <string name="sim_redetection">Verificar novamente</string>
-  <string name="skip_underline"><u>Pular esta etapa</u></string>
+  <string name="skip_underline">Pular esta etapa</string>
   <string name="summary_not_set">Não definido</string>
   <string name="terms_of_use">Termos e Condições</string>
   <string name="terms_of_use_label">"Sua privacidade é muito importante. Leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações nós coletamos, como as utilizamos e quais escolhas estão disponíveis para você.

@@ -636,7 +636,7 @@
   <string-array name="long_press_volume_down_action">
     <item>Nenhuma ação</item>
     <item>Captura rápida (selecionar na Câmera)</item>
-    <item>Atalhos de Transporte Público</item>
+    <item>Atalhos de transporte público</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 segundo</item>
@@ -826,6 +826,15 @@ Nota: somente para o Ubuntu 8.04!"</item>
     <item>EEG</item>
     <item>EEEG</item>
   </string-array>
+  <string-array name="max_number_titles">
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>Ilimitado</item>
+  </string-array>
   <string-array name="common_password_business_names">
     <item>Tela de bloqueio</item>
     <item>Senha de privacidade</item>
@@ -859,6 +868,6 @@ Nota: somente para o Ubuntu 8.04!"</item>
     <item>Fotos</item>
     <item>Arquivos</item>
     <item>Anotações</item>
-    <item>Modo criança</item>
+    <item>Modo Criança</item>
   </string-array>
 </resources>

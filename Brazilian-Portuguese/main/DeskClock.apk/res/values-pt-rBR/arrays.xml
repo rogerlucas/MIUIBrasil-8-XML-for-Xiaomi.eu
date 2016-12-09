@@ -38,7 +38,7 @@
     <item>O alarme irá disparar em %3$s.</item>
     <item>O alarme irá disparar em %1$s e %3$s.</item>
     <item>O alarme irá disparar em %2$s e %3$s.</item>
-    <item>O alarme irá disparar em %1$s, %2$s e %3$s.</item>
+    <item>O alarme irá disparar em %1$s %2$s e %3$s.</item>
   </string-array>
   <string-array name="snooze_duration_entries">
     <item>1 minuto</item>

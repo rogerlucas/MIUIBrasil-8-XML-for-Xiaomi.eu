@@ -51,7 +51,7 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
   <string name="cloud_space_upgrade_message">Toque para adicionar %sGB em sua nuvem.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Não foi possível obter informações de armazenamento"</string>
   <string name="cloud_space_upgrade_title">Mais espaço para a Mi Cloud</string>
-  <string name="cloud_storage_full">Armazenamento Mi Cloud</string>
+  <string name="cloud_storage_full">Armazenamento Mi Cloud cheio</string>
   <string name="cloud_storage_is_full">Cheio</string>
   <string name="cloudservice_new_sync">Sincronizar %s com a Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use a Mi Cloud para sincronizar seus dados, localizar seu dispositivo, e compartilhar coisas com amigos.</string>
@@ -184,7 +184,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
   <string name="micloud_detail_lastest_with_off">Sincronizado</string>
   <string name="micloud_detail_not_sync">%d itens para sincronizar</string>
-  <string name="micloud_detail_not_synced">não sincronizado</string>
+  <string name="micloud_detail_not_synced">Não sincronizado</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pending">Aguardando</string>
   <string name="micloud_detail_preference_sync_items">Itens</string>
@@ -196,8 +196,6 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
   <string name="micloud_detail_syncing">Sincronizando</string>
   <string name="micloud_detail_upload_syncing">Enviando %s</string>
   <string name="micloud_detail_wlan">%d item(ns) para sincronizar</string>
-  <string name="micloud_detail_wlan_contact">Fotos de contatos aguardando sincronização: %d</string>
-  <string name="micloud_detail_wlan_mms">%d MMS para sincronizar</string>
   <string name="micloud_dspt">Use a Mi Cloud para sincronizar seus dados, localizar seu dispositivo,</string>
   <string name="micloud_dspt_provision">Use a Mi Cloud para sincronizar dados, encontrar seu dispositivo e compartilhar coisas com amigos.</string>
   <string name="micloud_find_device_finish">Concluído</string>
@@ -234,7 +232,6 @@ Para corrigir isto, você pode excluir alguns arquivos antigos para liberar espa
   <string name="micloud_main_battery_low">Bateria fraca</string>
   <string name="micloud_main_battery_message">Conecte seu dispositivo ao carregador para sincronizar</string>
   <string name="micloud_main_clear_now">Limpar</string>
-  <string name="micloud_main_data_unsynced">Itens aguardando sincronização: %d</string>
   <string name="micloud_main_detail">Ver detalhes</string>
   <string name="micloud_main_last_sync_time">Última sincronização: %s</string>
   <string name="micloud_main_memory_low_message">"Para sincronizar, exclua alguns itens armazenados na Mi Cloud."</string>
@@ -247,7 +244,6 @@ Para corrigir isto, você pode excluir alguns arquivos antigos para liberar espa
   <string name="micloud_main_multi_user_error_title">Erro da Mi Cloud</string>
   <string name="micloud_main_network_abnormal">"Não foi possível conectar-se à rede"</string>
   <string name="micloud_main_network_error">"Não foi possível conectar-se à rede"</string>
-  <string name="micloud_main_not_sync">Itens aguardando sincronização: %d</string>
   <string name="micloud_main_query_error_message">"Não é possível confirmar se a sincronização foi concluída para alguns serviços"</string>
   <string name="micloud_main_query_error_title">"Falha ao obter info. do progresso da sincronização"</string>
   <string name="micloud_main_set_internet">Rede</string>
@@ -303,7 +299,6 @@ Para corrigir isto, você pode excluir alguns arquivos antigos para liberar espa
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o dispositivo agora.</string>
   <string name="micloud_notif_title_battery_low">"Não foi possível sincronizar com a Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Conteúdo copiado para a área de transferência</string>
-  <string name="micloud_notif_title_depend_wifi">Itens aguardando sincronização: %d</string>
   <string name="micloud_notif_title_master_depend_wifi">"Não foi possível sincronizar com a Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Não foi possível sincronizar com a Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"Não é possível sincronizar com a Mi Cloud"</string>
@@ -363,6 +358,10 @@ Para corrigir isto, você pode excluir alguns arquivos antigos para liberar espa
   <string name="micloud_web_discription_02">para armazenar e acessar seus arquivos de qualquer lugar</string>
   <string name="micloud_web_discription_international">Visite www.mi.com/micloud</string>
   <string name="micloud_website">Itens na Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_label">Remover dados da Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_title">Remover itens sincronizados com a Mi Cloud do telefone após o logout?</string>
+  <string name="micloud_wipe_data_remove">Remover</string>
+  <string name="micloud_wipe_data_retain">Sair</string>
   <string name="microsoft_cloud">Serviço Cloud da Microsoft</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Cerca de RMB 80 por ano</string>
@@ -385,11 +384,10 @@ Este recurso criptografa e envia a ID do dispositivo para os servidores da Xiaom
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Mi Voice</string>
   <string name="mx_voip_dspt">Mi Voice</string>
-  <string name="network_unconnected">Não conectado à rede</string>
+  <string name="network_unconnected">"Não foi possível conectar-se à rede"</string>
   <string name="next">Avançar</string>
   <string name="noRemind">"Lembrar minha escolha"</string>
   <string name="no_sim">Nenhum cartão SIM detectado</string>
-  <string name="one_sync_item_close">%d está desativado</string>
   <string name="open_micloud_sync">Ativar sincronização com a Mi Cloud</string>
   <string name="other_settings">Outras configurações</string>
   <string name="other_sync_item">Outros itens sincronizando</string>
@@ -411,7 +409,7 @@ Este recurso criptografa e envia a ID do dispositivo para os servidores da Xiaom
   <string name="search_cloudbackup_pref">Backup na Mi Cloud</string>
   <string name="search_cloudbackup_pref_desc">Ativar/Desativar backup na Mi Cloud</string>
   <string name="search_cloudbackup_pref_key_words">cloudbackup, backup na mi cloud</string>
-  <string name="search_cloudbackup_pref_path">Conta Mi/Mi Cloud/Backup e restauração</string>
+  <string name="search_cloudbackup_pref_path">Conta Mi/Mi Cloud/Fazer backup</string>
   <string name="search_finddevice_pref">Encontrar dispositivo</string>
   <string name="search_finddevice_pref_desc">Ativar/Desativar Encontrar dispositivo</string>
   <string name="search_finddevice_pref_key_words">encontrar, encontrar dispositivo</string>
@@ -432,7 +430,6 @@ Este recurso criptografa e envia a ID do dispositivo para os servidores da Xiaom
   <string name="sina_token_expired_warning">Conta Weibo expirada. Por favor, vincule-a novamente</string>
   <string name="sina_token_invalid_warning">Conta Weibo inválida. Por favor, vincule-a novamente</string>
   <string name="sms">Mensagens</string>
-  <string name="some_sync_item_close">%d está desativado</string>
   <string name="soundrecorder_sync_only_in_wifi">Sincronizar somente por Wi-Fi</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">O Gravador não usará dados móveis para fazer o download ou upload de gravações</string>
   <string name="soundrecorder_sync_records">Sincronizar com a Mi Cloud</string>
@@ -495,6 +492,10 @@ Este recurso criptografa e envia a ID do dispositivo para os servidores da Xiaom
   <string name="view_storage_title">Espaço de armazenamento</string>
   <string name="virtual_sim_desc">Ative o Mi SIM para encontrar o dispositivo sem um cartão SIM</string>
   <string name="voip_choose_sim">Escolher o número do telefone para ativar o Mi Voice</string>
+  <string name="wipe_data_dialog_button_check_sync">Verificar se sincronizado</string>
+  <string name="wipe_data_dialog_msg">"%s não foram sincronizados e permanecerão em seu telefone."</string>
+  <string name="wipe_data_dialog_msg_and_on">, e alguns outros itens</string>
   <string name="wipe_data_dialog_msg_separator">,\u0020</string>
+  <string name="wipe_data_dialog_title">"Alguns itens não foram sincronizados"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>

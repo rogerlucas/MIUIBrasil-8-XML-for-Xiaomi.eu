@@ -4,6 +4,7 @@
   <string name="account_info">Minha conta</string>
   <string name="account_name_not_login">Fazer login</string>
   <string name="account_unactivated">Conta não ativada</string>
+  <string name="add_resource_detail_fail">"Não foi possível adicionar o recurso"</string>
   <string name="all_resources">Tudo</string>
   <string name="app_name">Temas</string>
   <string name="apply_default_font_tip">"Continuar usando as fontes do sistema?"</string>
@@ -41,7 +42,7 @@
   <string name="description_version_szie">Versão: %1$s - Tamanho: %2$s</string>
   <string name="desktop_wallpaper">Tela inicial</string>
   <string name="dev_options">Opções do desenvolvedor</string>
-  <string name="dev_options_summary">Recursos Web</string>
+  <string name="dev_options_summary">Recursos web</string>
   <string name="download_failed">Falha no download</string>
   <string name="download_preview_failed">"Falha ao carregar visualização"</string>
   <string name="download_success">Download concluído</string>
@@ -96,7 +97,7 @@
   <string name="lockscreen_wallpaper">Tela de bloqueio</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
   <string name="mi_wallpaper">Fundos do MIUI</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Toque aplicado para o cartão SIM 1 e 2 ao mesmo tempo.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">O som de chamada é aplicado para os dois cartões SIM.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">OK</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Não mostrar novamente"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
@@ -110,7 +111,7 @@
   <string name="present_online_themes">Obtenha mais temas gratuitamente</string>
   <string name="provision_default_theme_title">Padrão</string>
   <string name="provision_loading_tips">Aguarde\u2026</string>
-  <string name="provision_second_title">Selecione um dos 5 temas padrão</string>
+  <string name="provision_second_title">Selecione um dos vários temas padrão</string>
   <string name="provision_title">Escolha um tema</string>
   <string name="purchased_list">Adquiridos</string>
   <string name="purchased_list_current">MIUI 8</string>

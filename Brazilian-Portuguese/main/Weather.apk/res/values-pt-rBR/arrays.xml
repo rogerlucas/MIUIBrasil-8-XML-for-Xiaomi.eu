@@ -61,12 +61,4 @@
     <item>Vento O</item>
     <item>Vento NO</item>
   </string-array>
-  <string-array name="aqi_value">
-    <item>Boa</item>
-    <item>Satisfatória</item>
-    <item>Moderadamente poluído</item>
-    <item>Baixa</item>
-    <item>Muito baixa</item>
-    <item>Severa</item>
-  </string-array>
 </resources>

@@ -15,11 +15,14 @@
   <string name="activity_find_city_dialog_set">Configurações</string>
   <string name="activity_find_city_dialog_title">Acesso ao local</string>
   <string name="activity_main_update_time">Atualizado: %1$s</string>
+  <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
   <string name="activity_weathermain_locationg">Localizando\u2026</string>
   <string name="activity_weathermain_locationg_error">"Não foi possível obter localização"</string>
   <string name="add_city">Adicionar</string>
   <string name="alert_warning">Alertas de clima</string>
+  <string name="already_voted">Já votado</string>
+  <string name="already_voted_toast">Você já votou hoje</string>
   <string name="app_name">Clima</string>
   <string name="aqi_data_source">Fornecido por Caiyun Weather</string>
   <string name="aqi_desc">Índice de Qualidade do Ar</string>
@@ -45,8 +48,8 @@
   <string name="button_exit">Sair</string>
   <string name="button_not_allow">Cancelar</string>
   <string name="button_sure_abandon">Descartar alterações?</string>
+  <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
-  <string name="close">Fechar</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde\u2026</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
@@ -57,14 +60,14 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s depois.</string>
   <string name="daily_forcast_whirl_wind">Furacão</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+  <string name="daily_forecast_detail">Detalhes da previsão</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="edit_alert_city_title">Gerenciar alertas</string>
-  <string name="edit_city">Editar</string>
+  <string name="edit_city">Editar cidade</string>
   <string name="first_start_network_msg">Este app precisa de uma conexão com a internet e de acesso à sua localização para funcionar normalmente.</string>
   <string name="first_start_network_title">Conexão à internet e localização</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
   <string name="gps_hint">Localização atual</string>
-  <string name="hide_topic">Ocultar</string>
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_title">Previsão por hora</string>
   <string name="index_item_install_now">Instalar agora</string>
@@ -103,6 +106,8 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="network_not_available">"Não foi possível conectar-se à rede"</string>
   <string name="network_unavailable">"Não foi possível conectar-se à rede."</string>
   <string name="no_network_btn">Repetir</string>
+  <string name="no_vote_num">%1$s pessoas |&#160;</string>
+  <string name="no_vote_ratio">contra %1$s%%</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no Navegador</string>
   <string name="pressure_connect">%1$s mb</string>
@@ -128,6 +133,7 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="sunrise">Nascer do sol</string>
   <string name="sunset">Pôr do Sol</string>
   <string name="title_share_link">Compartilhar URL</string>
+  <string name="total_voted_num_text">"<font color="#20a7ff">%1$s</font> pessoas votaram"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Depois de amanhã: %1$s</string>
   <string name="traffic_control_today_numbers">Hoje: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Amanhã: %1$s</string>
@@ -141,4 +147,6 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="weather_alert">Alertas de clima</string>
   <string name="wind_miles_unit">%1$smi/h</string>
   <string name="wind_unit">%1$skm/h</string>
+  <string name="yes_vote_num">\u0020| %1$s pessoas</string>
+  <string name="yes_vote_ratio">prós %1$s%%</string>
 </resources>

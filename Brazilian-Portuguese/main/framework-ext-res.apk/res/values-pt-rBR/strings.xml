@@ -29,6 +29,7 @@
   <string name="call_record_sample_prefix_miui">Chamar</string>
   <string name="caller_info_name_delimiter">" ou "</string>
   <string name="cancel_action">Cancelar</string>
+  <string name="configure_input_methods">Escolher teclado</string>
   <string name="copy">Copiar</string>
   <string name="cut">Recortar</string>
   <string name="default_name">Padrão</string>
@@ -136,6 +137,7 @@
   <string name="status_bar_toggle_vibrate">Vibrar</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="translation_more">Mais</string>
   <string name="translation_query_error">"Nada encontrado"</string>
   <string name="translation_query_error_network">"Não foi possível conectar-se à rede. Verifique a conexão e tente novamente"</string>
   <string name="turn_off">Desativar</string>

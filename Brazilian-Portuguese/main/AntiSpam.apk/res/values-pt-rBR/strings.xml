@@ -296,8 +296,8 @@
   <string name="st_sub_title_customize_mode_name">Nome</string>
   <string name="st_sub_title_whiteblack_list_group">Lista de bloqueio</string>
   <string name="st_sum_call_wait">Sua mensagem de ausência será também reproduzida como sinal de ocupado para todas as chamadas recebidas.</string>
-  <string name="st_summary_blacklist_numbers">Bloquear chamadas e mensagens usando números e códigos de área</string>
-  <string name="st_summary_blacklist_numbers_international">Bloquear chamadas e mensagens usando números </string>
+  <string name="st_summary_blacklist_numbers">Bloquear chamadas e mensagens de números e áreas específicas</string>
+  <string name="st_summary_blacklist_numbers_international">Bloquear chamadas e mensagens de números específicos</string>
   <string name="st_summary_keywords_blacklist">Adicionar palavras-chave para bloquear mensagens</string>
   <string name="st_summary_special_numbers">Bloquear números de telefone sinalizados</string>
   <string name="st_summary_whitelist_numbers">Permitir chamadas e mensagens de números e áreas específicas</string>
@@ -344,7 +344,7 @@
   <string name="tab_block_log_unKnowNumber">Número privado</string>
   <string name="tab_call">Chamadas</string>
   <string name="tab_sms">SMS</string>
-  <string name="tab_title">AntiSpam</string>
+  <string name="tab_title">Lista de bloqueio</string>
   <string name="toast_keyword_blank">Você precisa inserir uma palavra-chave</string>
   <string name="toast_keyword_exist">Palavra-chave adicionada</string>
   <string name="toast_keyword_invalid">Palavra-chave inválida</string>

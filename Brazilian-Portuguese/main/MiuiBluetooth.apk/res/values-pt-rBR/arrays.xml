@@ -7,7 +7,7 @@
     <item>Vibrar quando alarme disparar</item>
   </string-array>
   <string-array name="ble_profile_mi_key">
-    <item>Tirar Foto</item>
+    <item>Tirar foto</item>
     <item>Localizar telefone</item>
     <item>Encontrar Mi Key</item>
   </string-array>

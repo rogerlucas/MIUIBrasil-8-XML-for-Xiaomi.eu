@@ -94,7 +94,7 @@
   <string name="clean_content_three">3 itens</string>
   <string name="clean_content_two">2 itens</string>
   <string name="clean_content_zero">Nenhum</string>
-  <string name="clear_bigfiles">Excluir arquivos grandes, fotos duplicadas e outros itens desnecessários</string>
+  <string name="clear_bigfiles">Excluir arquivos grandes, fotos duplicadas e outros itens obsoletos</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Barra do app nas notificações</string>
   <string name="clip_board_history_desc">Conteúdo da área de transferência</string>
@@ -151,7 +151,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">O mecanismo de limpeza foi corrompido.</string>
   <string name="dialog_msg_stop_scan">Interromper a verificação de limpeza atual?</string>
   <string name="dialog_msg_uninstall_apps">Desinstalar estes apps?</string>
-  <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estes apps (incluindo suas versões duplicadas)?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estes apps, incluindo seus apps clonados?</string>
   <string name="dialog_ok_add_white_list_error">OK</string>
   <string name="dialog_title_add_white_list_error">Atenção</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup e desinstalar</string>
@@ -166,12 +166,13 @@
   <string name="empty_content_no_ignore_image">Vazio</string>
   <string name="empty_content_no_privacy">Vazio</string>
   <string name="empty_content_no_similar_image">Nenhuma foto</string>
-  <string name="empty_title_ad">Nenhum arquivo de anúncio encontrado</string>
+  <string name="empty_title_ad">Nenhum arquivo obsoleto encontrado</string>
   <string name="empty_title_apk">Nenhum pacote de instalação encontrado</string>
   <string name="empty_title_garbage_cache">Nada para limpar</string>
   <string name="empty_title_garbage_white_list">Segure nos itens para adicioná-los às exceções.</string>
   <string name="empty_title_installed_apps">Vazio</string>
   <string name="empty_title_large_files">Vazio</string>
+  <string name="empty_title_photos">Nenhuma foto encontrada</string>
   <string name="empty_title_residual">Nenhum resíduo encontrado</string>
   <string name="empty_title_video">Nenhum vídeo para excluir</string>
   <string name="flow_rank_title">Uso de dados</string>
@@ -186,7 +187,7 @@
   <string name="harass_detail">Bloqueadas %1$d SMS e %2$d chamadas</string>
   <string name="header_optimizer">Ao usar este recurso, você estará concordando com os %s.</string>
   <string name="hint_clean_select_items">Excluindo duplicados\u2026</string>
-  <string name="hints_ad_header_left">Arquivos de anúncios</string>
+  <string name="hints_ad_header_left">Arquivos obsoletos</string>
   <string name="hints_apk_header_left">Pacotes</string>
   <string name="hints_apk_version">Versão %s</string>
   <string name="hints_app_uninstall_residual">Limpar arquivos residuais da desinstalação?</string>
@@ -280,7 +281,7 @@
   <string name="msg_update_error_code_unknown_error">Erro desconhecido</string>
   <string name="name_debuglog_dir">Registo de Depuração Bsp</string>
   <string name="name_optimizer">Política de Privacidade</string>
-  <string name="nb_clear_set">Limpar ROM, ver informações de bateria e lista de bloqueio na aba de notificações</string>
+  <string name="nb_clear_set">Limpar cache, ver info. de bateria e lista de bloqueio na aba de notificações</string>
   <string name="net_assistant_detail">Usado %1$s, economizado %2$s</string>
   <string name="net_assistant_title">%s de dados móveis usados este mês</string>
   <string name="network_not_available">"Não foi possível conectar-se à rede"</string>
@@ -426,7 +427,7 @@
   <string name="traffic_top">Top 5 de apps consumindo dados</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Antivírus</string>
-  <string name="white_list_ad_header">Arquivos de anúncios: %d</string>
+  <string name="white_list_ad_header">Arquivos obsoletos: %d</string>
   <string name="white_list_apk_header">Pacotes de instalação: %d</string>
   <string name="white_list_cache_header">Arquivos em cache: %d</string>
   <string name="white_list_large_file_header">Arquivos grandes: %d</string>

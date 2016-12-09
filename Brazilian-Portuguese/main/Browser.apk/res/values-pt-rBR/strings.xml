@@ -48,6 +48,7 @@
   <string name="action_menu_useful_page">Adicionar atalho</string>
   <string name="action_menu_useful_page_added">Adicionado à Página inicial</string>
   <string name="actionbar_share">Compartilhar</string>
+  <string name="actionbar_textselection_title">Seleção de texto</string>
   <string name="actionbar_web_search">Pesquisa web</string>
   <string name="adblock_force_updating_rules_toast">Atualizando bloqueador de anúncios</string>
   <string name="adblock_notification">%d anúncios bloqueados</string>
@@ -58,7 +59,7 @@
   <string name="adblock_websites_settings_title">Sites bloqueados</string>
   <string name="add_bookmark_group">Adicionar grupo</string>
   <string name="add_bookshelf_popup_text">Adicionado à estante</string>
-  <string name="add_favorites_to">Adicionar favoritos a</string>
+  <string name="add_favorites_to">Adicionar aos favoritos</string>
   <string name="add_new_bookmark">Adicionar favorito</string>
   <string name="add_new_quicklink">Adicionar à página inicial</string>
   <string name="add_ql_bm_title">Adicionar</string>
@@ -85,6 +86,7 @@
   <string name="aqi_quality_index_moderate">Moderada</string>
   <string name="aqi_quality_index_pure">Excelente</string>
   <string name="aqi_quality_index_unhealthy">Insalubre</string>
+  <string name="autofill_keyboard_accessory_content_description">Sugestões disponíveis</string>
   <string name="autofill_popup_content_description">Exibindo pop-up de preenchimento automático</string>
   <string name="autologin_bar_error">"Não foi possível fazer o login"</string>
   <string name="autologin_bar_hide_text">Ocultar</string>
@@ -191,9 +193,9 @@
 está prestes a acontecer"</string>
   <string name="custom_head_card_text_incognito">"Você está anônimo!
 Páginas visualizadas não aparecerão no histórico."</string>
-  <string name="data_traffic_prompt_change">"Usar seus dados móveis para assistir vídeos irá aumentar seu consumo de dados. Caso você exceda o limite de seu plano de dados, sua operadora poderá cobrar tarifas adicionais."</string>
-  <string name="data_traffic_prompt_message">"Usar seus dados móveis para navegar entre vídeos irá aumentar seu consumo de dados. Caso você exceda o limite de seu plano de dados, sua operadora poderá cobrar tarifas adicionais."</string>
-  <string name="data_traffic_prompt_message_short">"Usar seus dados móveis para assistir vídeos irá aumentar seu consumo de dados."</string>
+  <string name="data_traffic_prompt_change">Usar sua conexão de dados móveis para assistir vídeos aumentará seu uso de dados. Se você ultrapassar o limite de seu plano, sua operadora poderá cobrar tarifas adicionais.</string>
+  <string name="data_traffic_prompt_message">Usar sua conexão de dados móveis para navegar entre vídeos aumentará seu uso de dados. Se você ultrapassar o limite de seu plano, sua operadora poderá cobrar tarifas adicionais.</string>
+  <string name="data_traffic_prompt_message_short">Usar sua conexão de dados móveis para assistir vídeos por streaming aumentará seu uso de dados.</string>
   <string name="data_traffic_prompt_title">Alerta de uso de dados</string>
   <string name="date_picker_dialog_clear">Limpar</string>
   <string name="date_picker_dialog_other_button_label">Outro</string>
@@ -350,7 +352,7 @@ Sair desta página?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">"Não foi possível fazer o login, atualize e tente novamente"</string>
   <string name="low_memory_error">Não foi possível concluir a operação anterior por falta de memória</string>
-  <string name="low_memory_toast">"Não é possível usar o navegador devido a falta de memória"</string>
+  <string name="low_memory_toast">"Não é possível usar o navegador devido à memoria estar baixa"</string>
   <string name="max_tabs_warning">"Não é possível abrir mais guias"</string>
   <string name="maximum_input_alert">"Não é possível introduzir mais do que 2048 caracteres"</string>
   <string name="media_error_action_refresh">Atualizar</string>
@@ -363,9 +365,9 @@ Sair desta página?"</string>
   <string name="media_error_timeout">Tempo limite de conexão atingido</string>
   <string name="media_error_video_not_exist">"O vídeo não existe"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"Este vídeo não pode ser assistido neste dispositivo."</string>
-  <string name="media_player_error_text_unknown">"Este vídeo não pode ser reproduzido."</string>
-  <string name="media_player_error_title">"Não foi possível reproduzir o vídeo"</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Desculpe, este vídeo não é válido para streaming neste dispositivo.</string>
+  <string name="media_player_error_text_unknown">Desculpe, este vídeo não pode ser reproduzido.</string>
+  <string name="media_player_error_title">Não foi possível reproduzir o vídeo</string>
   <string name="media_player_loading_video">Carregando vídeo</string>
   <string name="menu_addtodesk">Adicionar à Tela inicial</string>
   <string name="menu_exit_nightmode">Sair</string>
@@ -478,6 +480,8 @@ Sair desta página?"</string>
   <string name="paused_waiting_to_retry">Aguardando para repetir\u2026</string>
   <string name="pay_failed_toast">"Não foi possível concluir o pagamento"</string>
   <string name="pay_success_toast">Pagamento concluído</string>
+  <string name="permission_alert_window">Permita janelas pop-up para usar este recurso</string>
+  <string name="permission_unknown">Ação desconhecida</string>
   <string name="popup_window_attempt">Permitir que este site abra uma janela pop-up?</string>
   <string name="positive_confirm_message">Desligar mesmo assim</string>
   <string name="pref_accessibility">Acessibilidade</string>
@@ -722,6 +726,7 @@ Sair desta página?"</string>
   <string name="unsecurity_url_toast">"Este website não é seguro"</string>
   <string name="up_to_loading_tips">Solte para atualizar</string>
   <string name="update_no_network_toast">"Não foi possível conectar-se à rede"</string>
+  <string name="updating_chrome">Atualizando Chrome\u2026</string>
   <string name="uploads_disabled">O upload de arquivos está desativado</string>
   <string name="url_copy_done">URL copiada para a área de transferência</string>
   <string name="url_find_on_page_result">Ver no Navegador</string>

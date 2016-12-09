@@ -36,7 +36,7 @@
   <string name="alert_dialog_no">Não</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Sim</string>
-  <string name="alertdialogtitle">Resultado\u2026</string>
+  <string name="alertdialogtitle">Resultados</string>
   <string name="allContactdeleteFailed">"Não foi possível excluir os contatos do cartão SIM."</string>
   <string name="allContactdeleteSuccess">Contatos do cartão SIM excluídos</string>
   <string name="all_day">O dia todo</string>
@@ -72,7 +72,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Somente com fones de ouvido</string>
   <string name="auto_answer_scenario_title">Atendimento automático</string>
   <string name="auto_answer_setting_title">Atendimento automático</string>
-  <string name="auto_answer_summary_delay"> (atraso: %s segundos)</string>
+  <string name="auto_answer_summary_delay"> atraso: %s segundos</string>
   <string name="auto_answer_summary_not_enabled">Desativado</string>
   <string name="auto_record_yellowpage">Páginas amarelas</string>
   <string name="auto_redial_pref_summary">Rediscar automaticamente se a linha estiver ocupada</string>
@@ -91,6 +91,7 @@
   <string name="autoip_exception_summary">%d no total</string>
   <string name="autoip_exception_summary_more">, %d no total</string>
   <string name="autoip_no_exceptions">"Adicionar números que não exigem um prefixo IP"</string>
+  <string name="autoip_phone">Discagem IP automática</string>
   <string name="autoip_prefix">Prefixo IP</string>
   <string name="autoip_prefix_summary">"Prefixo IP da operadora: %s"</string>
   <string name="autoip_setting">Configurações de IP automáticas</string>
@@ -440,7 +441,7 @@
   <string name="fdn_with_label">Números de Discagem Fixa (%s)</string>
   <string name="feedback">Feedback</string>
   <string name="flash_when_ring_summary">Piscar LED de notificação para chamadas recebidas</string>
-  <string name="flash_when_ring_title">Piscar LED de notificação quando tocar</string>
+  <string name="flash_when_ring_title">Piscar led de flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contato com sua operadora se o problema persistir."</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e salvar as configurações de número atual de encaminhamento.
@@ -839,6 +840,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_antispam_setting">Apps do sistema/Telefone/Lista de bloqueio</string>
   <string name="path_app_name">Apps do sistema/Telefone</string>
   <string name="path_auto_answer_pref_title">Apps do sistema/Telefone/Atendimento automático</string>
+  <string name="path_auto_retry_mode_title">Apps do sistema/Telefone/Configurações avançadas/Rediscagem automática</string>
   <string name="path_autoip">Apps do sistema/Telefone/Configurações avançadas/Discagem IP automática</string>
   <string name="path_call_background_setting_name">Apps do sistema/Telefone/Configurações avançadas/Plano de fundo de chamadas</string>
   <string name="path_call_forwarding_settings">Apps do sistema/Telefone/Encaminhamento de chamadas</string>
@@ -851,10 +853,10 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_cloud_antispam_title">Apps do sistema/Telefone/Identificar números desconhecidos</string>
   <string name="path_connect_disconnect_vibrate_title">Apps do sistema/Telefone/Configurações avançadas/Vibrar quando a chamada é atendida</string>
   <string name="path_dtmf_tones_title">Apps do sistema/Telefone/Configurações avançadas/Tons DTMF</string>
-  <string name="path_enable_antispam_strange_title">Apps do sistema/Telefone/Silenciar primeiro toque</string>
+  <string name="path_enable_antispam_strange_title">Apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar primeiro toque</string>
   <string name="path_enable_proximity_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Sensor de proximidade</string>
   <string name="path_fdn">Apps do sistema/Telefone/Configurações avançadas/Números de discagem fixa (FDN)</string>
-  <string name="path_flash_when_ring_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Piscar LED de notificação quando tocar</string>
+  <string name="path_flash_when_ring_title">Apps do sistema/Telefone/Configurações de chamadas recebidas/Piscar led de flash quando tocar</string>
   <string name="path_handon_ringer_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Silenciar toque quando pego</string>
   <string name="path_missed_call_notify_times_title">Apps do sistema/Telefone/Configurações avançadas/Lembrete de chamadas perdidas</string>
   <string name="path_preference_dial_pad_touch_tone_title">Apps do sistema/Telefone/Configurações avançadas/Tons do teclado de discagem</string>

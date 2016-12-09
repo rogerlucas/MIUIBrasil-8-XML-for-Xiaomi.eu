@@ -38,6 +38,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Quilômetros por hora</string>
   <string name="from_unit_short">km/h</string>
+  <string name="home_title_calculator">Calculadora</string>
   <string name="item_title_aa_payment">Dividir conta</string>
   <string name="item_title_area_conversion">Área</string>
   <string name="item_title_calculator">Calculadora</string>
@@ -105,6 +106,18 @@
   <string name="piDesc">pi</string>
   <string name="plusDesc">mais</string>
   <string name="powerDesc">potência</string>
+  <string name="preference_about_calculator">Sobre a Calculadora</string>
+  <string name="preference_alert_follow_wechat">Copie e cole no WeChat para seguir</string>
+  <string name="preference_alert_follow_wechat_button">Copiar</string>
+  <string name="preference_check_update_title">Procurar atualizações</string>
+  <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_us">Siga-nos</string>
+  <string name="preference_follow_web_title">Site oficial</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Configurações</string>
+  <string name="preference_use_degress_summary">Sibstituir radianos por ângulos em funções trigonométricas</string>
+  <string name="preference_use_degress_title">Usar ângulos</string>
   <string name="rate_data_provider">Taxas de juros fornecidas por hexun.com</string>
   <string name="rightParenDesc">parêntese direito</string>
   <string name="sinDesc">seno</string>
@@ -112,11 +125,13 @@
   <string name="tanDesc">tangente</string>
   <string name="tax_accumulation_fund">Fundo acumulado</string>
   <string name="tax_annual_bonus_hint">Insira seu bônus bruto</string>
+  <string name="tax_annual_bonus_number">Bônus</string>
   <string name="tax_birth">Aniversário</string>
   <string name="tax_cal_method_annual">Cálculo de bônus anual</string>
   <string name="tax_cal_method_fixed_salary">Forma de cálculo do imposto</string>
   <string name="tax_cal_method_format">Entrada pessoal: %s</string>
   <string name="tax_city">Cidade</string>
+  <string name="tax_city_error">Insira a cidade correta</string>
   <string name="tax_city_located">Localização</string>
   <string name="tax_city_picker">Cidade</string>
   <string name="tax_endowment">Aposentadoria</string>
@@ -131,6 +146,8 @@
   <string name="tax_individual_income_tax_result">Resultados</string>
   <string name="tax_injury">Acidentes</string>
   <string name="tax_insurance_and_fund">Seguro</string>
+  <string name="tax_last_salary_hint">Insira sua renda</string>
+  <string name="tax_last_salary_number">Renda</string>
   <string name="tax_medical">Médico</string>
   <string name="tax_param_error">Insira as taxas de seguro corretas</string>
   <string name="tax_result_real_get">Valor líquido</string>
@@ -316,4 +333,11 @@
   <string name="unit_year_format">Ano %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Caracteres financeiros</string>
+  <string name="xiaomi_connect_download_manager_fail">Falha na conexão ao Gerenciador de Downloads. Verifique o seu status no Gerenciamento de apps.</string>
+  <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
+  <string name="xiaomi_update_dialog_message">"Introduzindo a versão %1$s
+Tamanho: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s
+Tamanho: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Atualização de %1$s!</string>
 </resources>

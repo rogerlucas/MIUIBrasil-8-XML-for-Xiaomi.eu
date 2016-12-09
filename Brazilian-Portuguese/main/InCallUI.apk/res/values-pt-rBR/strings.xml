@@ -114,6 +114,7 @@
   <string name="incall_call_type_label_sip">Chamada pela internet</string>
   <string name="incall_error_supp_service_conference">"Não é possível usar a conferência telefônica."</string>
   <string name="incall_error_supp_service_hangup">"Não é possível desligar a chamada."</string>
+  <string name="incall_error_supp_service_hold">"Não é possível colocar chamadas em espera."</string>
   <string name="incall_error_supp_service_reject">"Não é possível rejeitar a chamada."</string>
   <string name="incall_error_supp_service_separate">Não é possível separar a chamada.</string>
   <string name="incall_error_supp_service_switch">Não é possível alternar chamadas.</string>
@@ -138,7 +139,7 @@
   <string name="keep_wait_call_back">Continuar aguardando</string>
   <string name="livetalk_dial">Usando pacote de recarga</string>
   <string name="livetalk_hangup">Desligar</string>
-  <string name="livetalk_left_minute">%s min restando</string>
+  <string name="livetalk_left_minute">%s min restante(s)</string>
   <string name="manageConferenceLabel">Gerenciar conferência telefônica</string>
   <string name="miprofile_stranger_card">Desconhecido</string>
   <string name="modify_call_failure_str">"Falha ao modificar solicitação de chamada

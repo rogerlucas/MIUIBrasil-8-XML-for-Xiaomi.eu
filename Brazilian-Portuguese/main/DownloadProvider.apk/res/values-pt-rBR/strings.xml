@@ -34,8 +34,13 @@
   <string name="notification_download_failed">Falha no download.</string>
   <string name="notification_download_failed_more">"Não foi possível transferir %1$d itens"</string>
   <string name="notification_download_success_more">%1$d transferido</string>
-  <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
+  <string name="notification_need_wifi_for_size">O tamanho do download exige Wi-Fi.</string>
   <string name="notification_paused_in_background">Pausado em segundo plano.</string>
+  <string name="notify_disabled_net_by_app">Conexão com a internet restrita pelo app de Segurança</string>
+  <string name="notify_install_guide_forward_text">Abrir</string>
+  <string name="notify_install_guide_msg">Instalado com sucesso</string>
+  <string name="notify_install_guide_title">%s instalado com sucesso</string>
+  <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
   <string name="paused_waiting_for_network">Aguardando rede</string>
   <string name="permdesc_accessAllDownloads">Permite que o app visualize e modifique todos os downloads iniciados por qualquer app no sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permite que o app faça download de arquivos no cache de downloads, que não podem ser excl. automatic. quando o gerenc. de download precisar de mais espaço."</string>
@@ -62,7 +67,7 @@
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Esta tarefa já existe</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"Você não está mais conectado ao Wi-Fi. Usar sua conexão de dados móveis para concluir o download aumentará seu consumo de dados. Caso você exceda seu limite de dados, sua operadora poderá cobrar tarifas adicionais."</string>
+  <string name="warning_tip_content">"Você não está mais conectado a uma rede Wi-Fi. Usar a conexão de dados móveis para concluir este download aumentará seu consumo de dados. Caso você exceda o limite de seu plano, sua operadora poderá cobrar tarifas adicionais."</string>
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Alerta sobre o uso de dados</string>
   <string name="wifi_recommended_body" formatted="false">"Iniciar este download %s agora pode resultar em uso excessivo de seus dados móveis, que podem gerar cobranças por sua operadora dependendo de seu plano de dados.

@@ -79,12 +79,14 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="add_device_admin_msg">Ativar o administrador do dispositivo?</string>
   <string name="add_fingerprint_done_msg">Agora você pode desbloquear seu dispositivo usando sua impressão digital.</string>
   <string name="add_fingerprint_done_title">"Você está pronto para começar!"</string>
-  <string name="add_fingerprint_finished_button_text">OK</string>
+  <string name="add_fingerprint_finished_button_text">Concluído</string>
   <string name="add_fingerprint_instruction_msg">Desbloqueie seu dispositivo ou verifique pagamentos com sua impressão digital.</string>
   <string name="add_fingerprint_instruction_title">Adicionar impressão digital</string>
+  <string name="add_fingerprint_name_suggest_text">Nome da digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo um pouco e coloque-o novamente no sensor para adicionar todas as partes de sua impressão digital.</string>
   <string name="add_fingerprint_put_finger_msg">Coloque seu dedo no sensor e retire-o ao sentir uma vibração.</string>
   <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
+  <string name="add_fingerprint_success_msg">Impressão inserida</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque seu dedo no sensor</string>
   <string name="additional_system_update_settings_list_item_title">Atualizações adicionais do sistema</string>
@@ -249,7 +251,7 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="band_mode_succeeded">Feito</string>
   <string name="band_mode_title">Definir frequência GSM/UMTS</string>
   <string name="baseband_version">Banda de base</string>
-  <string name="batch_delete_saved_network">Excluir rede selecionada: %s?</string>
+  <string name="batch_delete_saved_network">Excluir redes selecionadas: %s?</string>
   <string name="batch_delete_saved_networks">Excluir todas as redes selecionadas</string>
   <string name="battery_action_app_details">Informações do app</string>
   <string name="battery_action_app_settings">Configurações do app</string>
@@ -479,6 +481,8 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo atual.</string>
   <string name="bluetooth_unlock_change_matched_device">Escolha outro dispositivo</string>
   <string name="bluetooth_unlock_confirm_device_text">Toque no dispositivo Bluetooth para confirmar.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Toque no botão do relógio para desbloquear.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Toque no botão do dispositivo para desbloquear.</string>
   <string name="bluetooth_unlock_delete_device">Excluir este dispositivo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Excluir este dispositivo?</string>
   <string name="bluetooth_unlock_device_matched_text">Usando o dispositivo para desbloquear.</string>
@@ -526,9 +530,12 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="button_light_timeout">Manter luz dos botões ativada</string>
   <string name="button_text_accept">Aceitar</string>
   <string name="button_text_accept_timer">Aceitar (%d)</string>
+  <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_login">Fazer login</string>
   <string name="button_text_next_step">Próximo</string>
   <string name="button_text_next_step_timer">Próximo (%d)</string>
+  <string name="button_text_ok">OK</string>
+  <string name="button_text_ok_timer">OK (%d)</string>
   <string name="button_text_reboot_now">Reiniciar</string>
   <string name="button_text_reject">Rejeitar</string>
   <string name="cache_header_label">Cache</string>
@@ -591,6 +598,7 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="children_mode_tips_off">Após ativar o Modo Criança, toque no botão Início para retornar à Tela Inicial.</string>
   <string name="children_mode_tips_on">Após desativar o Modo Criança, toque no botão Início para retornar à Tela Inicial.</string>
   <string name="children_mode_title">Modo Criança</string>
+  <string name="choose_smartcover_type">Escolher tipo de case</string>
   <string name="choose_timezone">Escolher fuso horário</string>
   <string name="cleaner">Limpeza</string>
   <string name="clear_activities">Limpar padrão</string>
@@ -650,7 +658,7 @@ Caso o dispositivo tenha vários usuários, este atalho na tela de bloqueio pode
   <string name="credential_storage_type">Tipo de armazenamento</string>
   <string name="credential_storage_type_hardware">Suportado por hardware</string>
   <string name="credential_storage_type_software">Somente software</string>
-  <string name="credentials_configure_lock_screen_hint">É necessário configurar PIN ou senha para a tela de bloqueio antes de usar o armazenamento de credenciais.</string>
+  <string name="credentials_configure_lock_screen_hint">Defina uma senha ou PIN de bloqueio antes de usar o armaz. de credenciais.</string>
   <string name="credentials_enabled">O armazenamento de credenciais foi ativado.</string>
   <string name="credentials_erased">O armazenamento de credenciais foi apagado.</string>
   <string name="credentials_install">Instalar do cartão SD</string>
@@ -798,6 +806,7 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
   <string name="debug_layout">Mostrar limites de layout</string>
   <string name="debug_layout_summary">Mostrar limites de corte, margens, etc.</string>
   <string name="debug_monitoring_category">Monitoramento</string>
+  <string name="defalut_launcher_title">Launcher padrão</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Escolher teclado padrão</string>
   <string name="default_usb_mode">Conexão USB</string>
@@ -806,7 +815,7 @@ Como o uso de dados é calculado por seu telefone, e sua operadora pode entender
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Excluir</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
-  <string name="delete_saved_network">Excluir rede salva</string>
+  <string name="delete_saved_network">Excluir redes salvas</string>
   <string name="deny">Negar</string>
   <string name="deny_sms_message">"Não permitir que os apps instalados enviem SMS"</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -1027,13 +1036,17 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="filter_apps_third_party">Instalados</string>
   <string name="filter_dlg_title">Escolher opções de filtro</string>
   <string name="fingerprint_and_password_entrance_title">Bloqueio de tela &amp; Impressão digital</string>
+  <string name="fingerprint_apply_to_privacy_password">Senha de proteção de privacidade</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">A senha de proteção de privacidade protege suas mensagens, fotos, arquivos, anotações e apps.</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Impressão digital (configure primeiro a senha da Tela de bloqueio)</string>
   <string name="fingerprint_for_keyguard_disabled">O serviço de impressão digital foi desativado pelas configurações de segurança.</string>
   <string name="fingerprint_identify_input_password_msg">Inserir senha</string>
   <string name="fingerprint_identify_msg">Lendo impressão digital\u2026</string>
   <string name="fingerprint_identify_try_again_msg">"Não foi possível ler a impressão digital, tente novamente"</string>
-  <string name="fingerprint_list_title">Impressão digital</string>
+  <string name="fingerprint_list_title">Digital</string>
   <string name="fingerprint_lock_first">Desbloquear Espaço principal</string>
   <string name="fingerprint_lock_second">Desbloquear Segundo Espaço</string>
+  <string name="fingerprint_manage">Gerenciar imp. digitais</string>
   <string name="fingerprint_not_identified_msg">"Não foi possível ler a impressão digital. Insira sua senha"</string>
   <string name="finish_application">Forçar parada</string>
   <string name="finish_button_label">Concluir</string>
@@ -1095,6 +1108,7 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="free_xiaomi_wifi_connect_summary">Toque para conectar-se na rede %1$s.</string>
   <string name="frequently_fragment_delete">Remover</string>
   <string name="frequently_fragment_tempty">Itens utilizados frequentemente serão listados aqui</string>
+  <string name="full_transparent_smarrcover_title">Tampa frontal transparente</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automático</string>
   <string name="gadget_brightness_state_full">máximo</string>
@@ -1225,6 +1239,7 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="keyboard_layout_picker_title">Layouts de teclado</string>
   <string name="keyboard_settings_category">Teclados &amp; métodos de entrada</string>
   <string name="keyboard_settings_title">Teclado Android</string>
+  <string name="keyguard_advance_setting_title">Configurações avançadas</string>
   <string name="keyguard_left_function_chooser_hint_text">Atalho da esquerda alterado para %s</string>
   <string name="keyguard_left_function_chooser_title">App</string>
   <string name="keyguard_left_function_title">Esquerda</string>
@@ -1239,7 +1254,10 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="language_settings_category">Configurações de idioma</string>
   <string name="large_font">Grande</string>
   <string name="last_synced">Última sincronização em %1$s</string>
+  <string name="lattice_smartcover_title">Tampa frontal estrutural</string>
   <string name="launch_count_label">Contagem</string>
+  <string name="launcher_auto_fill_empty_title">Preencher espaços vazios automaticamente</string>
+  <string name="launcher_title">Launcher</string>
   <string name="launching_cit">Iniciando CIT</string>
   <string name="launching_pho">Carregando informações do telefone, aguarde.</string>
   <string name="launching_rep">Enviando relatório\u2026</string>
@@ -1331,9 +1349,12 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="location_title">Minha localização</string>
   <string name="lock_after_timeout">Bloquear automaticamente</string>
   <string name="lock_after_timeout_summary">%1$s após suspensão</string>
+  <string name="lock_screen_cells_title">Bloquear células na tela</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Senha requerida imediatamente</string>
   <string name="lock_screen_secure_after_timeout_summary">Senha requerida em %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Senha requerida</string>
+  <string name="lock_screen_signature_summary">A assinatura será exibida na Tela de bloqueio</string>
+  <string name="lock_screen_signature_title">Assinatura na Tela de bloqueio</string>
   <string name="lock_screen_unlock_show">Ignorar deslizar a tela</string>
   <string name="lock_screen_unlock_show_summary">Ir diretamente à Tela inicial ou de senha ao ativar a tela</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Toque para alterar</string>
@@ -1436,6 +1457,7 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="man_add_application">Adicionar apps</string>
   <string name="manage_device_admin">Administradores do dispositivo</string>
   <string name="manage_device_admin_summary">Visualizar ou desativar administradores do dispositivo</string>
+  <string name="manage_fingerprint_text">Gerenciar imp. digitais</string>
   <string name="manage_mobile_plan_title">Plano da operadora</string>
   <string name="manage_notification_access">Acesso a notificações</string>
   <string name="manage_notification_access_summary_zero">Os apps não podem ler notificações</string>
@@ -1446,6 +1468,9 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="manually_add_network">Adicionar rede</string>
   <string name="master_clear_accounts">\n\nNo momento você está conectado às seguintes contas:\n</string>
   <string name="master_clear_all">"Apagar todos os seus dados da memória interna de seu telefone? Esta ação não pode ser desfeita!"</string>
+  <string name="master_clear_apply_step_1"><b>Redefinir o telefone apagará todos os dados em seu telefone</b>, incluindo fotos, músicas, anotações, e outros dados pessoais. Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador, por exemplo.</string>
+  <string name="master_clear_apply_step_2">Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador, por exemplo. Todos os dados neste dispositivo serão excluídos durante a restauração. <b>Você não será capaz de restaurar os itens dos quais você não fez o backup.</b>;</string>
+  <string name="master_clear_apply_title">Atenção</string>
   <string name="master_clear_button_text">Redefinir telefone</string>
   <string name="master_clear_confirm_title">Redefinir?</string>
   <string name="master_clear_desc">Essa ação apagará todos os dados do <b>armazenamento interno</b> de seu telefone, incluindo:\n\n\<li>Sua Conta do Google</li>\n<li>Configurações e dados do sistema e dos apps</li>\n<li>Apps baixados</li></string>
@@ -1523,6 +1548,7 @@ Alguns apps podem não funcionar até que sejam atualizados por seus desenvolved
   <string name="misc_files">Arquivos variados</string>
   <string name="misc_files_selected_count">selecionados %1$d de %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
+  <string name="miui_screen_config_title">Configurações do Launcher MIUI</string>
   <string name="mms_breathing_light_color_title">Cor do LED para mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequêcia de pulsação para SMS</string>
   <string name="mms_privacy_password_role_instruction">Suas conversas com contatos privados serão armazenadas aqui.</string>
@@ -1567,7 +1593,7 @@ Selecione seu sistema operacional:"</string>
   <string name="multi_touch_points_preference">Esta configuração terá efeito após você reiniciar seu dispositivo</string>
   <string name="music_audio_effect_optimize">Configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, fones de ouvido e outras configurações de áudio</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, áudio HD, fones de ouvido e outras configurações de áudio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, fones de ouvido e outras configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, fones de ouvido e outras configurações de áudio</string>
   <string name="music_audio_effect_settings">Configuração de efeitos</string>
   <string name="music_dirac_control">Otimizar qualidade de áudio</string>
@@ -1631,6 +1657,10 @@ Selecione seu sistema operacional:"</string>
   <string name="networks_title">Redes móveis</string>
   <string name="never">Nunca</string>
   <string name="new_backup_pw_prompt">Digite uma nova senha para backups completos aqui</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Adicione sua impressão digital para desbloquear o dispositivo com ela.</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancelar</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Adicionar</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Adicionar impressão digital</string>
   <string name="next_button_label">Avançar</string>
   <string name="next_label">Avançar</string>
   <string name="nfc_category_title">NFC</string>
@@ -1659,6 +1689,7 @@ Selecione seu sistema operacional:"</string>
   <string name="no_updates_warning2">"Não se preocupe, nós lhe avisaremos quando houver uma atualização :)"</string>
   <string name="noise_suppression">Redução de ruído ambiente</string>
   <string name="normal_date_format">Regional (%s)</string>
+  <string name="normal_smartcover_title">Tampa frontal opaca</string>
   <string name="not_installed">Não instalado</string>
   <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
   <string name="notification_breathing_light_color_title">Cor do LED para notificações</string>
@@ -1694,7 +1725,7 @@ Selecione seu sistema operacional:"</string>
   <string name="other_relative">Outras</string>
   <string name="overlay_display_devices_title">Simular displays secund.</string>
   <string name="owner_info_settings_edit_text_hint">Digite o texto a ser exibido na Tela de bloqueio</string>
-  <string name="owner_info_settings_title">Info. do proprietário</string>
+  <string name="owner_info_settings_title">Assinatura na Tela de bloqueio</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
   <string name="page_layout_1">Domingo, 16 de Agosto</string>
   <string name="page_layout_10">Configurações</string>
@@ -1751,6 +1782,8 @@ Selecione seu sistema operacional:"</string>
   <string name="passwordIncorrect">A senha inserida está incorreta</string>
   <string name="password_entrance_title">Bloqueio de tela</string>
   <string name="password_guard">Senha</string>
+  <string name="password_turned_off_text">A senha foi desativada</string>
+  <string name="password_turned_on_text">A senha foi ativada</string>
   <string name="path_about_about_settings">Configurações/Sobre o telefone</string>
   <string name="path_accelerometer_settings">Configurações/Tela/Girar tela</string>
   <string name="path_access_control_settings">Configurações/Configurações adicionais/Privacidade/Configurações de privacidade</string>
@@ -1781,6 +1814,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_brightness_settings">Configurações/Tela/Nível de brilho</string>
   <string name="path_button_light_timeout">Configurações/Configurações adicionais/Botões/Manter luz dos botões ativada</string>
   <string name="path_calendar_sound_title">Configurações/Sons &amp; vibração/Toque da Agenda</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Configurações/Configurações adicionais/Captura de tela</string>
   <string name="path_children_mode_settings">Configurações/Configurações adicionais/Modo Criança</string>
   <string name="path_choose_timezone">Configurações/Configurações adicionais/Data &amp; hora/Escolher fuso horário</string>
   <string name="path_cloud_backup_settings_section_title">Configurações/Configurações adicionais/Fazer backup &amp; redefinir/Configurações de backup</string>
@@ -1803,6 +1837,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_do_not_disturb_settings">Configurações/Não perturbe</string>
   <string name="path_dtmf_tone_enable_title">Configurações/Sons &amp; vibração/Tons do discador</string>
   <string name="path_edge_handgrip">Configurações/Controles na borda</string>
+  <string name="path_enable_adb">Configurações/Configurações adicionais/Opções do desenvolvedor/Depuração USB</string>
   <string name="path_equalizer">Configurações/Sons &amp; vibração/Configurações de áudio/Equalizador</string>
   <string name="path_fluency_mode">Configurações/Bateria &amp; performance/Animações do sistema</string>
   <string name="path_font_settings">Configurações/Tela/Fonte do sistema</string>
@@ -1842,6 +1877,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_other_advanced_settings">Configurações/Configurações adicionais</string>
   <string name="path_owner_info_settings">Configurações/Bloqueio de tela &amp; senhas/Info. do proprietário</string>
   <string name="path_page_layout_settings">Configurações/Tela/Tamanho do texto</string>
+  <string name="path_permission_settings_title">Configurações/Permissões/Permissões do app</string>
   <string name="path_pointer_speed">Configurações/Configurações adicionais/Idioma &amp; entrada/Velocidade do ponteiro</string>
   <string name="path_power_checker">Configurações/Configurações adicionais/Funções beta/Verificação de energia</string>
   <string name="path_power_hide_mode_title">Configurações/Bateria &amp; performance/Gerenciar uso de bateria por apps</string>
@@ -2250,6 +2286,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="screen">Tela</string>
   <string name="screen_button">Botões na tela</string>
   <string name="screen_button_tips">Deslize para baixo para ocultar os botões da tela</string>
+  <string name="screen_cells_config_title">Config. de células da tela</string>
   <string name="screen_color_and_optimize">Cores &amp; contraste</string>
   <string name="screen_color_temperature">Cores</string>
   <string name="screen_color_temperature_and_saturation">Cores &amp; saturação</string>
@@ -2360,6 +2397,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="search_brightness">Brilho;Brilho da tela;Brilho do display</string>
   <string name="search_button_light_timeout">Mannter luz dos botões ativada;Luz dos botões</string>
   <string name="search_calendar_sound_title">Toque da Agenda;toque da agenda;agenda</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Captura de tela</string>
   <string name="search_children_mode_settings">Modo Criança;Bloquear SMS;Controle parental;Parental;Restringir SMS</string>
   <string name="search_children_mode_title">Modo Criança;Criança;Controle parental</string>
   <string name="search_choose_timezone">Escolher fuso horário;Fuso horário;Fusos horários</string>
@@ -2369,7 +2407,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="search_credentials_install">Instalar do armazenamento;Instalação direta;Instalar APK</string>
   <string name="search_date_time">Data &amp; hora;Data e hora;Data;Hora</string>
   <string name="search_description">Configurações de pesquisa</string>
-  <string name="search_development_settings">Opções do desenvolvedor</string>
+  <string name="search_development_settings">Opções do desenvolvedor;Assistente</string>
   <string name="search_device_name">Nome do dispositivo</string>
   <string name="search_device_status">Status</string>
   <string name="search_display">Display;Tela;Luz ambiente;Bolso;Discagem acidental;Temperatura de cor;Cor;Cores;Saturação;Girar tela automaticamente;Girar automaticamente;Girar tela;Brilho;Fonte;Fontes;Tamanho da fonte</string>
@@ -2384,6 +2422,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="search_dtmf_tone_enable_title">Tons do discador;Tons do teclado de discagem;tons do discador;tons de toque;tons do discador;tons do teclado de discagem</string>
   <string name="search_edge_handgrip">Controles na borda</string>
   <string name="search_empty">Nenhum resultado para a busca</string>
+  <string name="search_enable_adb">Depuração USB</string>
   <string name="search_equalizer">Equalizador</string>
   <string name="search_fluency_mode">Animações do sistema</string>
   <string name="search_font">Fonte do sistema;Fonte;Fontes;Tamanho da fonte;Tamanho da fonte</string>
@@ -2424,6 +2463,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="search_other_advanced_settings">Configurações adicionais;Mais configurações</string>
   <string name="search_owner_info_settings">Informações do proprietário</string>
   <string name="search_page_layout_settings">Tamanho do texto;Tamanho da fonte;Fonte pequena;Fonte grande;Fonte média;Fonte EEG;Fonte enorme;Tamanho de fonte</string>
+  <string name="search_permission_settings_title">Permissões do app</string>
   <string name="search_pointer_speed">Velocidade do ponteiro</string>
   <string name="search_power_checker">Verificação de energia</string>
   <string name="search_power_hide_mode_title">Gerenciar uso de bateria por apps;Uso de bateria por apps;Uso de bateria;Estatísticas da bateria</string>
@@ -2583,7 +2623,7 @@ Esta configuração afeta todos os usuários do telefone."</string>
   <string name="show_hw_screen_updates_summary">Piscar visualizações em janelas ao desenhar c/GPU</string>
   <string name="show_magnifier_when_input">Lupa para texto</string>
   <string name="show_non_rect_clip">Depurar operações de corte não retangulares</string>
-  <string name="show_owner_info_on_lockscreen_label">Mostrar informações do proprietário na Tela de bloqueio</string>
+  <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
   <string name="show_password">Tornar as senhas visíveis</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil na Tela de bloqueio</string>
   <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
@@ -2637,6 +2677,9 @@ PIN possivelmente incorreto."</string>
   <string name="skip_step">Pular</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequeno</string>
+  <string name="smallwindow_smartcover_title">Tampa frontal transparente</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Modo Smart cover</string>
+  <string name="smartcover_sensitive_summary">Bloquear ou desbloquear o telefone automaticamente usando um smart cover</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">App de SMS padrão</string>
   <string name="sms_change_default_dialog_text" formatted="false">Usar o %1$s em vez do %2$s como app de SMS?</string>
@@ -2891,8 +2934,12 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="tts_status_requires_network">%1$s requer conexão de rede</string>
   <string name="tts_status_title">Status de idioma padrão</string>
   <string name="turn_off_common_password_confirm_msg">O bloqueio de tela também será desativado.</string>
+  <string name="turn_off_keyguard_password_alert_title">Desativar</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Desativar senha da Tela de bloqueio?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"Você não será capaz de desbloquear o dispositivo com sua impressão digital após desativar a senha da Tela de bloqueio"</string>
   <string name="turn_off_radio">Desativar o rádio</string>
   <string name="turn_off_security_lock">Desativar bloqueio</string>
+  <string name="turn_on_keyguard_password">Ativar senha da Tela de bloqueio</string>
   <string name="turn_on_radio">Ativar o rádio</string>
   <string name="turn_on_security_lock">Escolher bloqueio de tela</string>
   <string name="under_keyguard">Tela desligada</string>

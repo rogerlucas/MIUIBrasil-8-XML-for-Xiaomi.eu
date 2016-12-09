@@ -3,13 +3,8 @@
 <resources>
   <string name="Result_title">Resultado</string>
   <string name="accessibility_settings_activity_title">Acessibilidade</string>
-  <string name="active_phone_fail_nochoice">"Falha ao verificar o cartão SIM"</string>
-  <string name="active_phone_fail_toast">"Falha ao verificar o cartão SIM %1$s"</string>
+  <string name="account_changed_title">Conta alterada</string>
   <string name="active_phone_sim_absent">Insira o cartão SIM agora</string>
-  <string name="active_phone_success_nochoice">Cartão SIM verificado</string>
-  <string name="active_phone_success_toast">Cartão SIM %1$s verificado</string>
-  <string name="activing_simcard">Verificando cartão SIM %1$d</string>
-  <string name="activing_simcard_alone">Verificando cartão SIM</string>
   <string name="add">Adicionar</string>
   <string name="addSimEntries"> Adicionar contato do SIM</string>
   <string name="add_by_input">Inserir número</string>
@@ -28,14 +23,13 @@
   <string name="advanced_settings_show">Toque para mostrar todos</string>
   <string name="advertisements_disable">Anúncios desativados</string>
   <string name="advertisements_enable">Anúncios ativados</string>
-  <string name="agree_provision">Aceitar e continuar</string>
   <string name="alert_dialog_close">Fechar perfil</string>
   <string name="alert_dialog_dismiss">Descartar</string>
   <string name="alert_dialog_in_ecm_call">"A ação selecionada não está disponível durante uma chamada de emergência."</string>
   <string name="alert_dialog_no">Não</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Sim</string>
-  <string name="alertdialogtitle">Resultado\u2026</string>
+  <string name="alertdialogtitle">Resultados</string>
   <string name="allContactdeleteFailed">"Não foi possível excluir os contatos do cartão SIM."</string>
   <string name="allContactdeleteSuccess">Contatos do cartão SIM excluídos</string>
   <string name="all_day">O dia todo</string>
@@ -47,9 +41,7 @@
   <string name="antispam_notification_title">Número desconhecido</string>
   <string name="antispam_setting">Lista de bloqueio</string>
   <string name="apn_settings">Nomes dos Pontos de Acesso (APN)</string>
-  <string name="area_code_preference_be_set_summary">Localização atual: %s</string>
   <string name="area_code_preference_summary">Discar código de área automaticamente</string>
-  <string name="areacode_set_default">Padrão</string>
   <string name="atr_disable">Relatório de tráfego da área desativado</string>
   <string name="atr_enable">Relatório de tráfego da área ativado</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -71,7 +63,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Somente com fones de ouvido</string>
   <string name="auto_answer_scenario_title">Atendimento automático</string>
   <string name="auto_answer_setting_title">Atendimento automático</string>
-  <string name="auto_answer_summary_delay"> (atraso: %s segundos)</string>
+  <string name="auto_answer_summary_delay"> atraso: %s segundos</string>
   <string name="auto_answer_summary_not_enabled">Desativado</string>
   <string name="auto_record_yellowpage">Páginas amarelas</string>
   <string name="auto_redial_pref_summary">Rediscar automaticamente se a linha estiver ocupada</string>
@@ -90,10 +82,12 @@
   <string name="autoip_exception_summary">%d no total</string>
   <string name="autoip_exception_summary_more">, %d no total</string>
   <string name="autoip_no_exceptions">"Adicionar números que não exigem um prefixo IP"</string>
+  <string name="autoip_phone">Discagem IP automática</string>
   <string name="autoip_prefix">Prefixo IP</string>
   <string name="autoip_prefix_summary">"Prefixo IP da operadora: %s"</string>
   <string name="autoip_setting">Configurações de IP automáticas</string>
   <string name="autoip_summary">Adicione um prefixo IP para chamadas internacionais</string>
+  <string name="autoip_summary_more">, %d no total</string>
   <string name="autoip_support_local_numbers">Sempre usar o prefixo IP</string>
   <string name="back">Voltar</string>
   <string name="badPin">"O PIN antigo digitado não está correto. Tente novamente."</string>
@@ -142,6 +136,7 @@
   <string name="call_forwarding_number_hint">Encaminhar chamadas para</string>
   <string name="call_forwarding_settings">Encaminhamento de chamadas</string>
   <string name="call_forwarding_settings_with_label">Encaminhamento de chamadas (%s)</string>
+  <string name="call_log">Registro de chamadas</string>
   <string name="call_record_add_numbers">Adicionar números</string>
   <string name="call_record_auto_always">Todos os números</string>
   <string name="call_record_auto_scenario_title">Gravar chamadas de</string>
@@ -179,7 +174,6 @@
   <string name="caller_id_title">ID da chamada</string>
   <string name="calling_via_template">Chamando via %s</string>
   <string name="callwait_open_hint">A função de \"Chamada em espera\" é fornecida por sua operadora. Se você receber uma notificação de erro, entre em contato com sua operadora móvel para certificar-se de que esta função é suportada.</string>
-  <string name="can_not_call_self">"Não é possível discar para o próprio número"</string>
   <string name="can_not_use_for_not_data_sim">"(Falha: O SIM deve ser o padrão para dados)"</string>
   <string name="cancel">Cancelar</string>
   <string name="card_title_MOcall_forwarding">Chamada de saída encaminhada</string>
@@ -243,8 +237,6 @@
   <string name="change_password">Alterar senha de restrição</string>
   <string name="change_pin">Alterar PIN do SIM</string>
   <string name="change_pin2">Alterar PIN2</string>
-  <string name="chose_product_summary">Ligue mais barato</string>
-  <string name="chose_product_title">Pacote de recarga</string>
   <string name="clir_choices_hide_number">Ocultar número</string>
   <string name="clir_choices_network_default">Padrão de rede</string>
   <string name="clir_choices_show_number">Mostrar número</string>
@@ -253,9 +245,9 @@
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
   <string name="cmcc_ut_data_enable_prompt">Este serviço requer uma conexão de dados móveis. Ative-a para continuar.</string>
   <string name="command_error_fdn_failure">É preciso desativar o FDN primeiro</string>
-  <string name="common_problem_message">Saiba mais em %1$s, ou entre em contato com o SAC em 400-100-5678</string>
   <string name="common_setting">Configurações gerais</string>
   <string name="config_default_data_sim">Configurações</string>
+  <string name="confirm">Confirmar</string>
   <string name="confirmPin2Label">Confirme o novo PIN2</string>
   <string name="confirmPinLabel">Confirmar novo PIN</string>
   <string name="confirm_password_label">Confirmar nova senha</string>
@@ -315,11 +307,10 @@
   <string name="dial_emergency_error">"%s não é um número de emergência."</string>
   <string name="dial_related_setting_catory">Discador</string>
   <string name="dialerKeyboardHintText">Use o teclado para discar</string>
-  <string name="dialog_activate_livetalk">Verificar</string>
-  <string name="dialog_call_ordinary_telephone">Usar cartão SIM</string>
+  <string name="dialog_activate_livetalk">Verificar número</string>
+  <string name="dialog_call_ordinary_telephone">Chamada regular (%ds)</string>
   <string name="dialog_network_priority_title">Prioridade</string>
   <string name="dialog_no">Não</string>
-  <string name="dialog_purchase">Recarregar</string>
   <string name="dialog_yes">Sim</string>
   <string name="disable">Desativar</string>
   <string name="disable_all_cf">Desativar todos os encaminhamentos</string>
@@ -332,7 +323,6 @@
   <string name="disable_sim_pin">Desativar PIN do SIM</string>
   <string name="display_name_summary">(Igual ao nome de usuário)</string>
   <string name="display_name_title">Nome de exibição</string>
-  <string name="do_not_ask">"Não mostrar novamente"</string>
   <string name="domain_address_title">Servidor</string>
   <string name="domestic_calls">Somente domésticas</string>
   <string name="doneButton">Concluído</string>
@@ -358,6 +348,7 @@
   <string name="enable">Ativar</string>
   <string name="enable_antispam_strange_summary">Silenciar o primeiro toque de números desconhecidos</string>
   <string name="enable_antispam_strange_title">Silenciar primeiro toque</string>
+  <string name="enable_button_text">Avançar</string>
   <string name="enable_disable_administrative">Administrativo</string>
   <string name="enable_disable_advertisements">Anúncios</string>
   <string name="enable_disable_atr">Relatórios de trânsito da área</string>
@@ -404,12 +395,6 @@
   <string name="entertainment_news_settings">Notícias de entretenimento</string>
   <string name="eo_disable">Oportunidades de emprego desativadas</string>
   <string name="eo_enable">Oportunidades de emprego ativadas</string>
-  <string name="error_type_account_201">Saldo insuficiente</string>
-  <string name="error_type_account_203">"O tipo do número discado não é suportado"</string>
-  <string name="error_type_account_208">"Não foi possível concluir a chamada para este número"</string>
-  <string name="error_type_account_500">"Não foi possível conectar-se à rede móvel"</string>
-  <string name="error_type_network">Erro de rede</string>
-  <string name="error_type_unknown">Erro desconhecido</string>
   <string name="error_updating_title">Erro de configuração da chamada</string>
   <string name="exception_error">Erro de rede ou do cartão SIM.</string>
   <string name="exportAllcontatsFailed">"Falha ao exportar todos os contatos para o cartão SIM."</string>
@@ -437,12 +422,13 @@
   <string name="fdn_with_label">Números de Discagem Fixa (%s)</string>
   <string name="feedback">Feedback</string>
   <string name="flash_when_ring_summary">Piscar LED de notificação para chamadas recebidas</string>
-  <string name="flash_when_ring_title">Piscar LED de notificação quando tocar</string>
+  <string name="flash_when_ring_title">Piscar led de flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contato com sua operadora se o problema persistir."</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e salvar as configurações de número atual de encaminhamento.
 Mudar para o novo provedor?"</string>
   <string name="general_news_settings">Notícias gerais</string>
+  <string name="general_remove">Remover</string>
   <string name="general_setting">Configurações</string>
   <string name="get_pin2">Digitar PIN2</string>
   <string name="get_product_list_failed">"Não foi possível carregar a lista"</string>
@@ -490,6 +476,7 @@ Mudar para o novo provedor?"</string>
   <string name="incall_error_wfc_only_no_wireless_network">Conecte-se a uma rede sem fio para fazer a chamada.</string>
   <string name="incall_status_dialed_mmi">Iniciando sequência MMI\u2026</string>
   <string name="input_password">Insira a senha</string>
+  <string name="internation_remain_minutes">（ou %1$s %2$s de tempo de chamada internacional）</string>
   <string name="international_calls">Somente internacionais</string>
   <string name="international_dial_complete_intention">Faça chamadas internacionais com tarifas mais baixas</string>
   <string name="international_dial_complete_no">Agora não</string>
@@ -513,6 +500,7 @@ Mudar para o novo provedor?"</string>
   <string name="ivr_parameter_settings">Configurações de parâmetros IVR</string>
   <string name="ivr_type_settings">Configurações do plano de dados</string>
   <string name="ivr_type_settings_hint">Insira o código do seu plano de dados</string>
+  <string name="keep_wait_call_back">Continuar aguardando</string>
   <string name="labelCDMAMore">Configurações de chamada CDMA</string>
   <string name="labelCF">Encam. de chamadas</string>
   <string name="labelCFB">Encaminhar quando ocupado</string>
@@ -552,67 +540,33 @@ Mudar para o novo provedor?"</string>
   <string name="lable_network_not_supported">"Sem suporte da rede"</string>
   <string name="lafs_disable">Programação de voos do Aeroporto Local desativada</string>
   <string name="lafs_enable">Programação de voos do Aeroporto Local ativada</string>
-  <string name="left_minutes">min</string>
   <string name="list_language_dtitle">Idiomas</string>
   <string name="list_language_summary">Selecione o idioma das notícias</string>
   <string name="list_language_title">Idioma</string>
-  <string name="livetalk_activate">Ativar pacote de recarga</string>
-  <string name="livetalk_activate_number">Verificar cartão SIM</string>
-  <string name="livetalk_activate_number_1">Verificar SIM 1</string>
-  <string name="livetalk_activate_number_2">Verificar SIM 2</string>
   <string name="livetalk_activate_summary">Um SMS será enviado para verificar este serviço.</string>
   <string name="livetalk_add_white_list_info">Adicione um número de telefone para discar diretamente.</string>
-  <string name="livetalk_before_provision">"Eu li e aceitei os"</string>
   <string name="livetalk_common_problem">FAQ</string>
-  <string name="livetalk_complete">Concluído</string>
-  <string name="livetalk_complete_domestic_phone">Faça chamadas domésticas com o pacote de recarga.</string>
-  <string name="livetalk_complete_international_phone">Faça chamadas internacionais com o pacote de recarga.</string>
-  <string name="livetalk_complete_introduction">O pacote de recarga foi adicionado à sua Conta Mi e será usado em sua próxima chamada.</string>
-  <string name="livetalk_complete_name">Alternar para pacote de recarga</string>
-  <string name="livetalk_complete_title">Faça uma chamada para concluir</string>
-  <string name="livetalk_continue_button">Começar o uso</string>
-  <string name="livetalk_continue_button_creat_account">Criando conta</string>
-  <string name="livetalk_creat_account_fialed">Erro na conta</string>
   <string name="livetalk_enable_switch">Usar pacote de recarga</string>
-  <string name="livetalk_experience_button">Testar agora</string>
-  <string name="livetalk_introduction_text">Chamadas internacionais com tarifas excelentes</string>
-  <string name="livetalk_last_step">Voltar</string>
-  <string name="livetalk_login_message">"Faça login com a Conta Mi
-para começar a usar o pacote de recarga"</string>
+  <string name="livetalk_manual">Manual de operação</string>
   <string name="livetalk_name">Pacote de recarga</string>
-  <string name="livetalk_network_confirm">OK</string>
-  <string name="livetalk_network_confirm_summary">O pacote de recarga usa cerca de 1KB de dados móveis sempre que uma chamada é conectada.</string>
-  <string name="livetalk_network_unavailable">Rede indisponível</string>
-  <string name="livetalk_next_step">Avançar</string>
-  <string name="livetalk_package_introduction_text">"Chamadas baratas para qualquer telefone
-Recarregue e comece a falar"</string>
-  <string name="livetalk_package_name">Saldo do pacote de recarga</string>
+  <string name="livetalk_package_introduction_text">Chamadas baratas para qualquer telefone</string>
   <string name="livetalk_provider">Fornecido por %1$s</string>
   <string name="livetalk_provision">Termos de Serviço</string>
-  <string name="livetalk_provision_content">Você precisa aceitar os %1$s para começar a usar o Pacote de recarga. Para usar este serviço, você precisa estar conectado à internet. Um SMS regular poderá ser enviado para a ativação do serviço. Você aceita os termos?</string>
+  <string name="livetalk_provision_content">Você precisa concordar com o(a) %1$s. A conexão com a internet e um SMS poderão ser usados para ativar o serviço.</string>
   <string name="livetalk_provision_title">Provisão</string>
-  <string name="livetalk_remain_minutes_title">Tempo restante de chamada</string>
   <string name="livetalk_setting">Pacote de recarga</string>
   <string name="livetalk_shortcut_title">Pacote de recarga</string>
-  <string name="livetalk_terms_conditions">Termos e Condições</string>
-  <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>
   <string name="livetalk_user_config_title">Verificação do SIM</string>
-  <string name="livetalk_welcome_description_text">"- Economize até 70% em suas tarifas de chamada.
-- Ligue para qualquer telefone do mundo, sem restrições.
-- Recarregue e comece a usar, não existem configurações complicadas."</string>
-  <string name="livetalk_welcome_notes_text">"Nota: Cada chamada requer 1KB de dados móveis; Números de serviço ou números curtos não são suportados. Caso você pague por chamadas recebidas, você ainda será cobrado por elas quando o roaming estiver ativo. Sua operadora poderá cobrá-lo por 1 SMS usado para verificar este número de telefone."</string>
   <string name="livetalk_white_list_number_title">Lista de exceções ao Pacote de recarga</string>
   <string name="load_networks_progress">Pesquisando\u2026</string>
   <string name="loading">Aguarde\u2026</string>
   <string name="loading_order">Aguarde\u2026</string>
-  <string name="loading_product">Carregando\u2026</string>
   <string name="local_disable">Notícias locais desativadas</string>
   <string name="local_enable">Notícias locais ativadas</string>
   <string name="local_weather_disable">Previsão do tempo local desativada</string>
   <string name="local_weather_enable">Previsão do tempo local ativada</string>
   <string name="lodgings_disable">Alojamentos desativados</string>
   <string name="lodgings_enable">Alojamentos ativados</string>
-  <string name="login_account_button_text">Login</string>
   <string name="maintenance_disable">Manutenção desativada</string>
   <string name="maintenance_enable">Manutenção ativada</string>
   <string name="manageConferenceLabel">Gerenciar conferência telefônica</string>
@@ -621,6 +575,7 @@ Recarregue e comece a falar"</string>
   <string name="managed_roaming_title">Roaming assistido</string>
   <string name="managed_roaming_title_sub">Roaming assistido (SIM %d)</string>
   <string name="menu_add">Adicionar contato</string>
+  <string name="menu_add_numbers">Adicionar número</string>
   <string name="menu_delete">Excluir contato</string>
   <string name="menu_edit">Editar contato</string>
   <string name="messageCFB">Encaminhar chamadas para</string>
@@ -687,8 +642,6 @@ Recarregue e comece a falar"</string>
   <string name="national_enable">Notícias nacionais ativadas</string>
   <string name="network_4G">4G (recomendado)</string>
   <string name="network_error_message">Não foi possível conectar-se à rede</string>
-  <string name="network_error_message_livetalk">Tente efetuar uma chamada regular. Tarifas de sua operadora poderão ser aplicadas.</string>
-  <string name="network_error_title">Erro de rede</string>
   <string name="network_global">Global</string>
   <string name="network_id">ID de rede</string>
   <string name="network_info_message">Mensagem de rede</string>
@@ -710,8 +663,6 @@ Recarregue e comece a falar"</string>
   <string name="network_settings_warn_message">Seu dispositivo só irá se conectar a redes que você selecionar manualmente.</string>
   <string name="network_type_3g_preferred_cmcc">3G/2G</string>
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
-  <string name="network_unconnected_message_livetalk">Erro de rede, tente fazer uma chamada regular. Ela poderá ser cobrada pela operadora.</string>
-  <string name="network_unconnected_title">Erro de rede</string>
   <string name="network_unlock">Desbloquear</string>
   <string name="networks">Operadoras de rede</string>
   <string name="networks_title">Redes móveis</string>
@@ -720,30 +671,20 @@ Recarregue e comece a falar"</string>
   <string name="new_password_label">Nova senha de 4 dígitos</string>
   <string name="new_pin2_label">Novo PIN2</string>
   <string name="new_pin_label">Novo PIN</string>
-  <string name="no_balance_message">Saldo insufiente em seu pacote de recarga. Você pode tentar fazer uma chamada regular.</string>
-  <string name="no_balance_title">Saldo insuficiente</string>
   <string name="no_call_barring">Bloqueio de chamadas desativado</string>
   <string name="no_change">Nenhuma alteração foi feita.</string>
   <string name="no_data">Sem dados</string>
   <string name="no_internet_available">Antes de fazer uma chamada SIP, verifique sua conexão com a internet.</string>
   <string name="no_more">Nada a exibir</string>
   <string name="no_number">Nenhum número de telefone</string>
-  <string name="no_sim_card">Inserir cartão SIM</string>
+  <string name="no_sim_card">Sem cartão SIM</string>
   <string name="no_vm_number">Número do correio de voz ausente</string>
   <string name="no_vm_number_msg">Não há um número de correio de voz armazenado no cartão SIM.</string>
   <string name="no_voip">Chamada SIP não suportada</string>
   <string name="no_wifi_available">Você precisa estar conectado a uma rede Wi-Fi para fazer chamadas SIP (use as Configurações de Wi-Fi &amp; redes móveis).</string>
   <string name="not_a_valid_port">O número da porta deve estar entre 1000 e 65534.</string>
-  <string name="not_activate_sim_card_content">"O pacote de recarga ainda não foi verificado para o cartão SIM que você selecionou. Tente usar seu cartão SIM padrão para fazer esta chamada. Sua operadora poderá cobrá-lo pela chamada."</string>
-  <string name="not_activate_sim_card_content_title">"O número do telefone não foi verificado"</string>
-  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s (%2$s) selecionado. Tente usar seu cartão SIM padrão para fazer esta chamada. Sua operadora poderá cobrá-lo pela chamada."</string>
   <string name="not_allowed">"Seu cartão SIM não permite uma conexão com esta rede."</string>
-  <string name="not_sufficient_funds_content">Não há saldo suficiente em sua conta. Tente usar seu cartão SIM padrão para fazer esta chamada. Sua operadora poderá cobrá-lo pela chamada.</string>
-  <string name="not_sufficient_funds_content_title">Saldo insuficiente</string>
-  <string name="not_support_message">"O pacote de recarga não suporta este tipo de número. Você pode tentar fazer uma chamada regular."</string>
-  <string name="not_support_title">"Número não suportado"</string>
   <string name="not_supported_number_content">"O pacote de recarga não suporta números de serviço. Tente usar seu cartão SIM padrão para fazer esta chamada. Sua operadora poderá cobrá-lo pela chamada."</string>
-  <string name="not_supported_number_content_title">Não suportado</string>
   <string name="not_voice_capable">Chamada de voz não suportada</string>
   <string name="notification_network_selection_text">A rede selecionada (%s) não está disponível</string>
   <string name="notification_network_selection_title">Sem serviço</string>
@@ -774,7 +715,6 @@ Recarregue e comece a falar"</string>
   <string name="onscreenVideoCallText">Vídeochamada</string>
   <string name="open_miui">Abrir</string>
   <string name="operation_successfully">Concluído</string>
-  <string name="operator_first">"Dar prioridade ao plano da operadora"</string>
   <string name="operator_first_mins_hint">xx minutos</string>
   <string name="operator_first_mins_none_summary">Priorizar pacote de recarga</string>
   <string name="operator_first_mins_none_title">Pacote de minutos da operadora acabou</string>
@@ -784,10 +724,11 @@ Recarregue e comece a falar"</string>
   <string name="operator_first_sim_card_changed_title">Alterar cartão SIM</string>
   <string name="operator_first_title">Priorizar operadora</string>
   <string name="operator_mins_first">"Dar prioridade ao plano da operadora"</string>
-  <string name="operator_mins_first_close">Desativar</string>
   <string name="operator_remain_mins">Pacote de minutos da operadora</string>
   <string name="optional_summary">(Opcional)</string>
-  <string name="order_by_recent">Frequência</string>
+  <string name="order_error_network">Falha ao carregar, rede indisponível.</string>
+  <string name="order_error_retry">Repetir</string>
+  <string name="order_error_unknown">Falha ao carregar, erro desconhecido.</string>
   <string name="order_id">ID da compra: %1$s</string>
   <string name="order_time">%1$s min</string>
   <string name="ota_activate">Ativar</string>
@@ -817,7 +758,6 @@ Depois de pressionar “Ativar”, ouça as instruções fornecidas para ativar 
 Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo de uma janela ou ao ar livre). 
 
 Tente novamente ou ligue para o serviço de atendimento ao cliente para obter mais opções."</string>
-  <string name="other">Outros</string>
   <string name="other_settings">Outras configurações de chamada</string>
   <string name="other_settings_category">Outras</string>
   <string name="overseas_roaming_setting">Roaming de dados</string>
@@ -827,6 +767,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_antispam_setting">Apps do sistema/Telefone/Lista de bloqueio</string>
   <string name="path_app_name">Apps do sistema/Telefone</string>
   <string name="path_auto_answer_pref_title">Apps do sistema/Telefone/Atendimento automático</string>
+  <string name="path_auto_retry_mode_title">Apps do sistema/Telefone/Configurações avançadas/Rediscagem automática</string>
   <string name="path_autoip">Apps do sistema/Telefone/Configurações avançadas/Discagem IP automática</string>
   <string name="path_call_background_setting_name">Apps do sistema/Telefone/Configurações avançadas/Plano de fundo de chamadas</string>
   <string name="path_call_forwarding_settings">Apps do sistema/Telefone/Encaminhamento de chamadas</string>
@@ -839,10 +780,10 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_cloud_antispam_title">Apps do sistema/Telefone/Identificar números desconhecidos</string>
   <string name="path_connect_disconnect_vibrate_title">Apps do sistema/Telefone/Configurações avançadas/Vibrar quando a chamada é atendida</string>
   <string name="path_dtmf_tones_title">Apps do sistema/Telefone/Configurações avançadas/Tons DTMF</string>
-  <string name="path_enable_antispam_strange_title">Apps do sistema/Telefone/Silenciar primeiro toque</string>
+  <string name="path_enable_antispam_strange_title">Apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar primeiro toque</string>
   <string name="path_enable_proximity_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Sensor de proximidade</string>
   <string name="path_fdn">Apps do sistema/Telefone/Configurações avançadas/Números de discagem fixa (FDN)</string>
-  <string name="path_flash_when_ring_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Piscar LED de notificação quando tocar</string>
+  <string name="path_flash_when_ring_title">Apps do sistema/Telefone/Configurações de chamadas recebidas/Piscar led de flash quando tocar</string>
   <string name="path_handon_ringer_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Silenciar toque quando pego</string>
   <string name="path_missed_call_notify_times_title">Apps do sistema/Telefone/Configurações avançadas/Lembrete de chamadas perdidas</string>
   <string name="path_preference_dial_pad_touch_tone_title">Apps do sistema/Telefone/Configurações avançadas/Tons do teclado de discagem</string>
@@ -900,7 +841,10 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="pin_progress_set_fdn_lock">Configurando estado de bloqueio FDN\u2026</string>
   <string name="pin_progress_set_icc_lock">Configurando estado de bloqueio ICC\u2026</string>
   <string name="pin_progress_unlock_icc">Desbloqueando cartão SIM\u2026</string>
+  <string name="please_connect_network_message">Por favor conecte-se à rede</string>
+  <string name="please_connect_network_title">Nenhuma rede</string>
   <string name="please_enter_phone_number">Insira o número do telefone</string>
+  <string name="please_login_mi_accout">Fazer login</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desativado</string>
   <string name="preference_category_ringtone">Toque &amp; vibração</string>
@@ -962,8 +906,12 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tipo de rede preferencial</string>
   <string name="private_num">Número privado</string>
-  <string name="product_reflash_button">Atualizar\u2026</string>
   <string name="progress_dialog_exiting_ecm">Saindo do modo de retorno de chamada de emergência</string>
+  <string name="propmpt_dialog_do_not_ask">Não mostrar novamente</string>
+  <string name="propmpt_dialog_network_failed_title">Tempo limite da chamada</string>
+  <string name="propmpt_dialog_no_call_back_content">Está levando muito tempo para conectar a chamada. Alternando para uma chamada regular, que poderá ser cobrada pela operadora.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Verifique seu número de telefone para começar a usar o Pacote de recarga. Você ainda poderá fazer chamadas regulares, que serão cobradas pela operadora.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">Número do telefone não verificado</string>
   <string name="proxy_address_title">Endereço do proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM integrados</string>
   <string name="pstn_phone">Chamada para celular</string>
@@ -979,17 +927,9 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="puk_unlock_failed">Falha na requisição do desbloqueio por PUK.</string>
   <string name="puk_unlock_success">Desbloqueio por PUK bem-sucedido.</string>
   <string name="puk_unlocked">O seu cartão SIM foi desbloqueado. O seu telefone está desbloqueando\u2026</string>
-  <string name="purchase_description_summary">"- Ligue para qualquer telefone no mundo, sem restrições.
-- Sem conflitos com seu plano atual.
-- Recarregue e comece a falar.
-- Não existem configurações complicadas."</string>
-  <string name="purchase_description_title">Sobre</string>
   <string name="purchase_limit">Você atingiu o limite de recargas</string>
-  <string name="purchase_list">Histórico de compras</string>
-  <string name="purchase_notes">Nota: Pode ser usado para chamadas internacionais. O valor para 1 min de chamadas internacionais equivale a 6 minutos de chamadas domésticas.</string>
-  <string name="purchase_primary">Comprar</string>
-  <string name="purchase_summary">Economize até 70% em suas tarifas de chamadas</string>
-  <string name="query">Consulta</string>
+  <string name="purchase_summary">Economize até 70%</string>
+  <string name="purchase_title">Comprar</string>
   <string name="quickly_verify">Verificar</string>
   <string name="radio_off_error">Ligue o rádio antes de ver essas configurações.</string>
   <string name="rc_unlock_failed">Falha na requisição do desbloqueio do RUIM Corporativo.</string>
@@ -1014,10 +954,10 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="reject_via_sms">Respostas rápidas</string>
   <string name="reject_via_sms_summary">Editar mensagens predefinidas</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
-  <string name="remain_mins_divider">ou</string>
-  <string name="remain_mins_domestic">Doméstica</string>
-  <string name="remain_mins_international">Internacional</string>
-  <string name="remain_mins_unit">min</string>
+  <string name="remain_mins_unit">minuto</string>
+  <string name="remain_mins_unit_plural">minutos</string>
+  <string name="remain_minutes">Tempo de conversação</string>
+  <string name="remain_minutes_summary">Países diferentes, tarifas diferentes. Sujeito à verificação na fatura final.</string>
   <string name="remove">Remover</string>
   <string name="remove_sip_account">Remover conta</string>
   <string name="removing_account">Removendo conta\u2026</string>
@@ -1088,20 +1028,17 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="set_smsc_address_timeout">Tempo limite atingido</string>
   <string name="set_smsc_address_title">Inserir número do Centro de Mensagens</string>
   <string name="set_time_period">Definir período</string>
+  <string name="setting">Configurações</string>
   <string name="settings_label">Configurações de rede</string>
-  <string name="sim1_activated">Cartão SIM 1</string>
   <string name="sim1_no_activated">"Falha ao verificar o cartão SIM 1"</string>
-  <string name="sim2_activated">, cartão SIM 2</string>
   <string name="sim2_no_activated">"Falha ao verificar o cartão SIM 2"</string>
   <string name="simContacts_airplaneMode">Para importar contatos do cartão SIM, desative o Modo avião.</string>
   <string name="simContacts_empty">Não há contatos no seu cartão SIM.</string>
   <string name="simContacts_emptyLoading">Lendo a partir do cartão SIM\u2026</string>
   <string name="simContacts_title">Gerenciar contatos do SIM</string>
   <string name="simFdnContacts_empty">Nenhum contato de FDN.</string>
-  <string name="sim_activated">Verificado</string>
   <string name="sim_card_activate">Verificação do SIM</string>
   <string name="sim_card_num">Cartão SIM %s</string>
-  <string name="sim_card_summary_no_sim_card">Por favor insira o cartão SIM</string>
   <string name="sim_contact_name">Nome</string>
   <string name="sim_contact_number">Número</string>
   <string name="sim_description_default">Cartão SIM %s</string>
@@ -1225,20 +1162,14 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="time_formate_am">AM</string>
   <string name="time_formate_pm">PM</string>
   <string name="time_start">De</string>
-  <string name="title_country">Localização</string>
-  <string name="title_duration">Duração</string>
-  <string name="title_purchase">Recarregar</string>
-  <string name="title_rates">Tarifas</string>
-  <string name="title_user_config">Ativar cartão SIM</string>
-  <string name="top_up_first">Recarregue primeiro</string>
   <string name="transport_title">Tipo de transporte</string>
   <string name="tty_mode_not_allowed_video_call">Alteração do modo TTY não é permitida durante uma chamada de vídeo</string>
   <string name="tty_mode_option_summary">Definir modo TTY</string>
   <string name="tty_mode_option_title">Modo TTY</string>
   <string name="turnover_mute_summary">"Quando o telefone estiver na horizontal, vire a tela para baixo para silenciar o toque"</string>
   <string name="turnover_mute_title">Virar telefone para silenciar toque</string>
-  <string name="unable_dial_livetalk">"Não foi possível completar a chamada"</string>
   <string name="undefined">Nenhum</string>
+  <string name="undefined_setting">Nenhum</string>
   <string name="unknown">Desconhecido</string>
   <string name="unlock_failed">Falha na solicitação de desbloqueio de rede.</string>
   <string name="unlock_success">Desbloqueio de rede bem-sucedido.</string>
@@ -1248,16 +1179,15 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Novo PLMN</string>
   <string name="uplmn_list_setting_title">Redes preferenciais</string>
   <string name="uplmn_numeric_is_empty">Insira uma ID de rede</string>
-  <string name="use_current_account_creat_livetalk">"Você fez o login com a Conta Mi %1$s.
-Usá-la para o pacote de recarga?"</string>
-  <string name="use_current_account_creat_livetalk_button">Usar</string>
+  <string name="use_current_account_creat_livetalk">Avançar</string>
+  <string name="use_current_account_creat_livetalk_info">Você pode usar o Pacote de recarga usando a Conta Mi %1$s</string>
   <string name="use_history">Atividade</string>
   <string name="use_history_duration_min">%1$s min</string>
   <string name="use_range">Intervalo</string>
   <string name="username_title">Usuário</string>
   <string name="ussdRunning">Código USSD em execução\u2026</string>
   <string name="verified">Verificado</string>
-  <string name="verify_fialed">"Não foi possível verificar"</string>
+  <string name="verify_failed">Erro na verificação</string>
   <string name="verifying">Verificando\u2026</string>
   <string name="vibrate_after_connected_summary">Vibrar quando a chamada for atendida</string>
   <string name="vibrate_after_connected_title">Vibrar após conectar</string>

@@ -17,6 +17,8 @@
   <string name="experimental_validate_username">Usuário</string>
   <string name="experimental_validate_warning">Obrigado por ajudar a melhorar o MIUI!</string>
   <string name="find_device_turn_off_flight_mode">Desativar modo avião</string>
+  <string name="fingerprint_add_text">A interface de impressão digital foi atualizada. Adicione sua impressão digital novamente.</string>
+  <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_enter_second_psw_msg">Insira a senha do Segundo Espaço após reiniciar o dispositivo para poder utilizar o reconhecimento de impressão digital</string>
   <string name="fingerprint_enter_second_psw_title">Inserir senha do Segundo Espaço</string>
   <string name="fingerprint_lockout_msg">Aguarde um momento e tente desbloquear novamente com a impressão digital</string>

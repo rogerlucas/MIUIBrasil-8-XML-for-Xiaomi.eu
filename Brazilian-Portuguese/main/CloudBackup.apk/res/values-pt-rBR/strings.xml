@@ -23,6 +23,8 @@
   <string name="button_cancel">Cancelar</string>
   <string name="button_delete">Excluir</string>
   <string name="button_next">Avançar</string>
+  <string name="can_not_backup_in_lite_mode">"Não é possível fazer o backup no Modo simplificado"</string>
+  <string name="can_not_restore_in_lite_mode">"Não é possível fazer a restauração no Modo simplificado"</string>
   <string name="cancel_recover_settings"><u>Cancelar</u></string>
   <string name="click_try_to_restore_again">Toque para tentar novamente</string>
   <string name="cloud_app_backup_success">Backup de apps finalizado</string>
@@ -98,8 +100,6 @@ Nota: Dados de apps instalados não serão salvos na Mi Cloud."</string>
   <string name="open_wifi_description">Conecte-se a uma rede Wi-Fi para restaurar o app</string>
   <string name="open_wifi_setting">Configurações de Wi-Fi</string>
   <string name="process_whole_recovery">Restaurando \"%s\"</string>
-  <string name="provision_arrow_back">&lt;</string>
-  <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Backup na Mi Cloud</string>
   <string name="query_restore_description">Restaurar apps, layout da Tela inicial e configurações usando este backup. Isto irá substituir dados de alguns apps já instalados em seu dispositivo. Apps não incluídos no último backup serão movidos para a última Tela inicial.</string>
   <string name="query_restore_summary">Backup na Mi Cloud encontrado para este dispositivo. Restaurar apps, layout da Tela inicial e configurações para ele, ou usá-lo como um novo dispositivo, excluindo backups anteriores?</string>

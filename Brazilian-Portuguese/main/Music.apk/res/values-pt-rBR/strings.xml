@@ -27,7 +27,7 @@
   <string name="ad_mark">Anúncio</string>
   <string name="add_music">Adicionar músicas</string>
   <string name="add_to_last_of_playlist">Adicionar ao final da playlist</string>
-  <string name="alaka_required">"Esta música não está disponível."</string>
+  <string name="alaka_required">É necessário pagar por esta música para ouví-la</string>
   <string name="album_name">Álbum</string>
   <string name="album_search_title">Álbum</string>
   <string name="all_artist">Todos os artistas</string>
@@ -483,7 +483,8 @@
   <string name="notification_recommend_title">Notificações importantes</string>
   <string name="notification_setting">Configurações de notificação</string>
   <string name="notification_title_no_song">"Confira o que todos estão escutando!"</string>
-  <string name="nowplaying_menu_item_delete">Excluir</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Remover da playlist?</string>
+  <string name="nowplaying_menu_item_delete">Remover</string>
   <string name="ok">OK</string>
   <string name="one_month">1 mês</string>
   <string name="online_bill">Listas</string>

@@ -4,8 +4,6 @@
   <string name="add_account_desc">Sincronizar suas anotações com sua Conta Mi?</string>
   <string name="alarm_bar_title">Lembrete</string>
   <string name="alert_action_edit_anyway">Continuar editando</string>
-  <string name="alert_edit_action_delete">Remover</string>
-  <string name="alert_edit_action_update">Alterar</string>
   <string name="alert_message_delete">Excluir %1$s?</string>
   <string name="alert_message_delete_note">Excluir esta anotação?</string>
   <string name="alert_message_edit_anyway">Se você editar esta anotação, alguns dos seus conteúdos já terão sido perdidos.</string>
@@ -18,17 +16,12 @@
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Anotações</string>
   <string name="app_widget">Anotações</string>
-  <string name="attachment_camera">Tirar uma foto</string>
-  <string name="attachment_contact">Contatos</string>
-  <string name="attachment_gallery">Escolher da Galeria</string>
-  <string name="button_new_note">Novo</string>
   <string name="call_folder_name">Anotações de chamada</string>
   <string name="default_folder_name">Pasta sem nome</string>
   <string name="delete_folder_dialog_tile">Excluir pasta</string>
   <string name="dlg_btn_set_password">Definir senha</string>
   <string name="dlg_check_reminder">"Não mostrar novamente"</string>
   <string name="dlg_delete_message">Excluindo\u2026</string>
-  <string name="dlg_desc_confirm_alarm_silent">Os alarmes ativos não tocarão quando o toque estiver silenciado.</string>
   <string name="dlg_hide_message">Ocultando\u2026</string>
   <string name="dlg_info_creating_message">Criando mensagem\u2026</string>
   <string name="dlg_message_password_reset">"A senha de anotações ocultas será substituída pela senha de proteção de privacidade, que funciona para mensagens, fotos e pastas ocultas"</string>
@@ -38,13 +31,10 @@
   <string name="dlg_quick_delete_title">Exclusão rápida</string>
   <string name="dlg_restore_message">Restaurando\u2026</string>
   <string name="dlg_stick_message">Fixando\u2026</string>
-  <string name="dlg_title_confirm_alarm_silent">Silenciar alarmes</string>
   <string name="dlg_title_password_reset">Atualizar senha</string>
   <string name="dlg_title_set_password">Definir senha</string>
   <string name="dlg_title_use_privacy_password">Usar senha de proteção de privacidade</string>
   <string name="dlg_unhide_message">Desocultando\u2026</string>
-  <string name="empty_folder_hint">"Nenhuma pasta
-Toque no sinal de + para criar uma pasta"</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">Sincronizar suas anotações com sua Conta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">"O contato não existe"</string>
@@ -78,7 +68,6 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="menu_send_as_image">Enviar como imagem</string>
   <string name="menu_send_as_text">Enviar como SMS</string>
   <string name="menu_send_to_desktop">Colocar na Tela inicial</string>
-  <string name="menu_send_wechat">Enviar para o WeChat</string>
   <string name="menu_send_weibo">Enviar para o Weibo</string>
   <string name="menu_source">De %1$s</string>
   <string name="menu_stick">Fixar</string>
@@ -95,13 +84,10 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="note_sort_way">Selecione como você deseja ordenar suas anotações</string>
   <string name="notealert_enter">Abrir anotação</string>
   <string name="notealert_ok">Dispensar</string>
-  <string name="notelist_menu_new">Nova anotação</string>
   <string name="notify_alarm_title">Lembrete da anotação</string>
   <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
   <string name="permlab_accessNote">Acessar anotações</string>
-  <string name="pref_desc_alarm_when_silent">Os alarmes para lembretes ainda soarão mesmo no modo silencioso</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Não pedir a confirmação ao excluir uma anotação usando o gesto"</string>
-  <string name="pref_title_alarm_when_silent">"Não silenciar lembretes"</string>
   <string name="pref_title_common">Configurações adicionais</string>
   <string name="pref_title_font_size">Tamanho do texto</string>
   <string name="pref_title_note_style">Estilo</string>
@@ -133,7 +119,6 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="sns_choose_quality_title">Escolher qualidade da imagem</string>
   <string name="sns_content_default">Compartilhar foto</string>
   <string name="sns_desc_image_preview">Pré-visualização da mensagem</string>
-  <string name="sns_desc_preview_wechat">Pré-visualização de mensagem WeChat</string>
   <string name="sns_desc_preview_weibo">Pré-visualização de mensagem Weibo</string>
   <string name="sns_footer_text">Criado com o Mi Notes</string>
   <string name="sns_hint_content">Insira a mensagem</string>
@@ -156,7 +141,6 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="theme_title_star">Estrelado</string>
   <string name="theme_title_yellow">Amarela</string>
   <string name="toast_message_add_image_fail">"Não foi possível adicionar imagem"</string>
-  <string name="toast_message_add_text_warn">"Este tipo de arquivo não é suportado"</string>
   <string name="toast_notes_delete_success">Excluído com sucesso</string>
   <string name="toast_notes_hidden">Anotação ocultada com sucesso</string>
   <string name="toast_notes_hidden_count">%1$s anotações ocultadas com sucesso</string>

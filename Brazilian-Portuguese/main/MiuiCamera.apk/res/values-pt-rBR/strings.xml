@@ -74,7 +74,7 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="face_beauty_intelligent_level_3">Alto</string>
   <string name="face_beauty_smart">Inteligente</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
-  <string name="message_snap_double_confirm">A função atual de pressionamento longo dos volumes está relacionada ao NFC. Substituir?</string>
+  <string name="message_snap_double_confirm">No momento, pressionar e segurar os botões de volume ativa o NFC. Substituir esta função?</string>
   <string name="no_storage">Insira o cartão SD antes de utilizar a câmera</string>
   <string name="not_enough_space">O armazenamento está cheio</string>
   <string name="object_track_enable_toast">Toque em ambas as extremidades do objeto com dois dedos para rastreá-lo.</string>
@@ -121,7 +121,7 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="pref_camera_coloreffect_entry_light_tunnel">Túnel</string>
   <string name="pref_camera_coloreffect_entry_long_face">Esticar</string>
   <string name="pref_camera_coloreffect_entry_mirror">Espelho</string>
-  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_mono">P&amp;B</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_sketch">Rascunho</string>
@@ -149,7 +149,7 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="pref_camera_focusmode_entry_normal">Padrão</string>
   <string name="pref_camera_focusmode_title">Modo de foco</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
+  <string name="pref_camera_groupshot_mode_title">Selfie em grupo</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Autom.</string>
   <string name="pref_camera_hdr_entry_live">Tempo real</string>
@@ -174,7 +174,7 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="pref_camera_long_pressing_shutter_title">Pressione e segure o botão do obturador para bloqueiar AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Espelho mágico</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
-  <string name="pref_camera_mono_mode_title">Mono</string>
+  <string name="pref_camera_mono_mode_title">P&amp;B</string>
   <string name="pref_camera_movie_solid_title">Estabilização de imagem</string>
   <string name="pref_camera_multilevel_entry_high">Alto</string>
   <string name="pref_camera_multilevel_entry_higher">Muito alto</string>
@@ -281,7 +281,7 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="pref_front_mirror_entry_off">Desativado</string>
   <string name="pref_front_mirror_entry_on">Ativado</string>
   <string name="pref_front_mirror_title">Espelhar a câmera frontal</string>
-  <string name="pref_groupshot_with_primitive_title">Salvar foto RAW em modo GroupShot</string>
+  <string name="pref_groupshot_with_primitive_title">Salvar também a foto original</string>
   <string name="pref_manual_exposure_title">Exposição</string>
   <string name="pref_priority_storage_title">Salvar para o cartão SD</string>
   <string name="pref_qc_focus_position_title">Foco</string>
@@ -340,11 +340,11 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="simple_mode_button_text_fast_video">Desativar câmera lenta</string>
   <string name="simple_mode_button_text_fisheye">Desativar Olho de peixe</string>
   <string name="simple_mode_button_text_gradienter">Desativar modo Endireitar</string>
-  <string name="simple_mode_button_text_groupshot">Desativar GroupShot</string>
+  <string name="simple_mode_button_text_groupshot">Desativar Selfie em grupo</string>
   <string name="simple_mode_button_text_hand_night">Desativar HHT</string>
   <string name="simple_mode_button_text_magic_mirror">Desativar Espelho mágico</string>
   <string name="simple_mode_button_text_manual">Desativar modo Manual</string>
-  <string name="simple_mode_button_text_mono">Desativar Mono</string>
+  <string name="simple_mode_button_text_mono">Desativar P&amp;B</string>
   <string name="simple_mode_button_text_panorama">Desativar panorama</string>
   <string name="simple_mode_button_text_raw">Desativar RAW</string>
   <string name="simple_mode_button_text_scene">Desativar modo de cena</string>
@@ -354,14 +354,14 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="simple_mode_button_text_tilt_shift">Desativar Tilt-Shift</string>
   <string name="simple_mode_button_text_ubifocus">Desativar Re-focalização</string>
   <string name="snap_cancel">Cancelar</string>
-  <string name="snap_confirmed">Confirmar</string>
+  <string name="snap_confirmed">Substituir</string>
   <string name="spaceIsLow_content_external_storage_priority">O cartão SD está ficando sem espaço</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento está ficando sem espaço</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Toque para ajustar a exposição</string>
   <string name="tap_to_focus">Toque para ajustar o foco</string>
   <string name="time_lapse_error">"Não foi possível utilizar este tamanho de vídeo para a gravação de time-lapse"</string>
-  <string name="title_snap_double_confirm">Confirme novamente</string>
+  <string name="title_snap_double_confirm">Confirmar novamente</string>
   <string name="toast_burst_snap_finished_end">fotos</string>
   <string name="toast_burst_snap_finished_start">Disparo contínuo</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Não é possível tirar fotos sequenciais com a captura por áudio ativada"</string>

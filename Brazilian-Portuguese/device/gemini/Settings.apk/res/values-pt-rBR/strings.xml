@@ -249,13 +249,14 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="application_permission_manager">Permissões do app</string>
   <string name="application_restrictions">Permitir apps e conteúdo</string>
   <string name="application_size_label">App</string>
-  <string name="applications_settings">Apps</string>
+  <string name="applications_settings">Apps instalados</string>
   <string name="applications_settings_header">Configurações do app</string>
   <string name="applications_settings_summary">Gerenciar apps, configurar atalhos de inicialização rápida</string>
   <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a\u2026</string>
   <string name="apply_now_button_text">Atualizar</string>
   <string name="apply_password_to_category_title">Exigir desbloqueio</string>
   <string name="apply_update_fail">" Não foi possível atualizar"</string>
+  <string name="approve_title">Verificação</string>
   <string name="apps_storage">Armazenamento de apps</string>
   <string name="apps_with_restrictions_header">Apps com restrições</string>
   <string name="apps_with_restrictions_settings_button">Expandir configuração para app</string>
@@ -602,6 +603,8 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo atual.</string>
   <string name="bluetooth_unlock_change_matched_device">Escolha outro dispositivo</string>
   <string name="bluetooth_unlock_confirm_device_text">Toque no dispositivo Bluetooth para confirmar.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Toque no botão do relógio para desbloquear.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Toque no botão do dispositivo para desbloquear.</string>
   <string name="bluetooth_unlock_delete_device">Excluir este dispositivo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Excluir este dispositivo?</string>
   <string name="bluetooth_unlock_device_matched_text">Usando o dispositivo para desbloquear.</string>
@@ -750,6 +753,7 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="children_mode_title">Modo Criança</string>
   <string name="choose_assist_title">Selecionar app assistente</string>
   <string name="choose_profile">Escolher perfil</string>
+  <string name="choose_smartcover_type">Escolher tipo de case</string>
   <string name="choose_timezone">Selecione o fuso horário</string>
   <string name="choose_voice_input_title">Escolher entrada por voz</string>
   <string name="cleaner">Limpeza</string>
@@ -821,7 +825,7 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="credential_storage_type">Tipo de armazenamento</string>
   <string name="credential_storage_type_hardware">Suportado por hardware</string>
   <string name="credential_storage_type_software">Somente software</string>
-  <string name="credentials_configure_lock_screen_hint">É necessário configurar PIN ou senha para a tela de bloqueio antes de usar o armazenamento de credenciais.</string>
+  <string name="credentials_configure_lock_screen_hint">Defina uma senha ou PIN de bloqueio antes de usar o armaz. de credenciais.</string>
   <string name="credentials_enabled">Armazenamento de credenciais ativado.</string>
   <string name="credentials_erased">Armazenamento de credenciais apagado.</string>
   <string name="credentials_install">Instalar do cartão SD</string>
@@ -1019,7 +1023,7 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Excluir</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
-  <string name="delete_saved_network">Excluir rede salva</string>
+  <string name="delete_saved_network">Excluir redes salvas</string>
   <string name="deny">Recusar</string>
   <string name="deny_sms_message">"Não permitir que os apps instalados enviem SMS"</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -1316,7 +1320,7 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="fingerprint_last_delete_confirm">Sim, remover</string>
   <string name="fingerprint_last_delete_message">"Você não poderá usar suas impressões digitais para desbloquear o smartphone, autorizar compras ou fazer login em apps."</string>
   <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
-  <string name="fingerprint_list_title">Impressão digital</string>
+  <string name="fingerprint_list_title">Digital</string>
   <string name="fingerprint_lock_first">Desbloquear Espaço principal</string>
   <string name="fingerprint_lock_second">Desbloquear Segundo Espaço</string>
   <string name="fingerprint_manage_category_title">Gerenciar impressões digitais</string>
@@ -1392,6 +1396,7 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="free_xiaomi_wifi_connect_summary">Toque para conectar-se na rede %1$s.</string>
   <string name="frequently_fragment_delete">Remover</string>
   <string name="frequently_fragment_tempty">Itens utilizados frequentemente serão listados aqui</string>
+  <string name="full_transparent_smarrcover_title">Tampa frontal transparente</string>
   <string name="fullbackup_data_summary">Fazer backup automático de dados do dispositivo (como senhas de Wi-Fi e histórico de chamadas) e dados de apps (como configurações e arquivos armazenados por apps) remotamente.\n\nQuando você ativa o backup automático, os dados do dispositivo e de apps são salvos periodicamente de modo remoto. Dados de apps podem ser quaisquer dados que um app tenha salvo (com base nas configurações de desenvolvedores), incluindo dados potencialmente confidenciais, como contatos, mensagens e fotos.</string>
   <string name="fullbackup_erase_dialog_message">Interromper o backup dos dados do dispositivo (como senhas de Wi-Fi e histórico de chamadas) e dos dados de apps (como configurações e arquivos armazenados por apps) e limpar todas as cópias no Google Drive?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -1607,6 +1612,7 @@ O identificador de anunciante é uma ID permanente única para seu dispositivo. 
   <string name="large_font">Grande</string>
   <string name="last_synced">Última sincronização em %1$s</string>
   <string name="last_time_used_label">Última utilização</string>
+  <string name="lattice_smartcover_title">Tampa frontal estrutural</string>
   <string name="launch_by_default">Abrir por padrão</string>
   <string name="launch_defaults_none">Nenhum padrão definido</string>
   <string name="launch_defaults_some">Alguns padrões definidos</string>
@@ -1997,7 +2003,7 @@ Selecione seu sistema operacional:"</string>
   <string name="multi_touch_points_preference">Esta configuração terá efeito após você reiniciar seu dispositivo</string>
   <string name="music_audio_effect_optimize">Configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, fones de ouvido e outras configurações de áudio</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, áudio HD, fones de ouvido e outras configurações de áudio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, fones de ouvido e outras configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, fones de ouvido e outras configurações de áudio</string>
   <string name="music_audio_effect_settings">Configurações de efeitos</string>
   <string name="music_dirac_control">Otimizar qualidade de áudio</string>
@@ -2115,6 +2121,7 @@ Selecione seu sistema operacional:"</string>
   <string name="no_updates_warning">Seu sistema está atualizado</string>
   <string name="no_updates_warning2">"Não se preocupe, nós lhe avisaremos quando houver uma atualização :)"</string>
   <string name="noise_suppression">Redução de ruído ambiente</string>
+  <string name="normal_smartcover_title">Tampa frontal opaca</string>
   <string name="not_installed">Não instalado para o usuário</string>
   <string name="notes_privacy_password_role_instruction">Suas anotações privadas serão armazenadas aqui.</string>
   <string name="notification_app_settings_button">Configurações de notificação</string>
@@ -2265,6 +2272,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_brightness_settings">Configurações/Tela/Nível de brilho</string>
   <string name="path_button_light_timeout">Configurações/Configurações adicionais/Botões/Manter luz dos botões ativada</string>
   <string name="path_calendar_sound_title">Configurações/Sons &amp; vibração/Toque da Agenda</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Configurações/Configurações adicionais/Captura de tela</string>
   <string name="path_children_mode_settings">Configurações/Configurações adicionais/Modo Criança</string>
   <string name="path_choose_timezone">Configurações/Configurações adicionais/Data &amp; hora/Escolher fuso horário</string>
   <string name="path_cloud_backup_settings_section_title">Configurações/Configurações adicionais/Fazer backup &amp; redefinir/Configurações de backup</string>
@@ -2287,6 +2295,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_do_not_disturb_settings">Configurações/Não perturbe</string>
   <string name="path_dtmf_tone_enable_title">Configurações/Sons &amp; vibração/Tons do discador</string>
   <string name="path_edge_handgrip">Configurações/Controles na borda</string>
+  <string name="path_enable_adb">Configurações/Configurações adicionais/Depuração USB</string>
   <string name="path_equalizer">Configurações/Sons &amp; vibração/Configurações de áudio/Equalizador</string>
   <string name="path_fluency_mode">Configurações/Bateria &amp; performance/Animações do sistema</string>
   <string name="path_font_settings">Configurações/Tela/Fonte do sistema</string>
@@ -2326,6 +2335,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_other_advanced_settings">Configurações/Configurações adicionais</string>
   <string name="path_owner_info_settings">Configurações/Bloqueio de tela &amp; senhas/Info. do proprietário</string>
   <string name="path_page_layout_settings">Configurações/Tela/Tamanho do texto</string>
+  <string name="path_permission_settings_title">Configurações/Permissões/Permissões do app</string>
   <string name="path_pointer_speed">Configurações/Configurações adicionais/Idioma &amp; entrada/Velocidade do ponteiro</string>
   <string name="path_power_checker">Configurações/Configurações adicionais/Funções beta/Verificação de energia</string>
   <string name="path_power_hide_mode_title">Configurações/Bateria &amp; performance/Gerenciar uso de bateria por apps</string>
@@ -2421,7 +2431,7 @@ Selecione seu sistema operacional:"</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
   <string name="permission_settings_summary">Gerenciar permissões relacionadas a localização, armazenamento, telefone, mensagens e contatos.</string>
-  <string name="permission_settings_title">Permissões de apps</string>
+  <string name="permission_settings_title">Permissões do app</string>
   <string name="permissions_label">Permissões</string>
   <string name="permit_draw_overlay">Permitir a sobreposição a outros apps</string>
   <string name="permit_usage_access">Permitir acesso de uso</string>
@@ -2682,7 +2692,7 @@ Selecione seu sistema operacional:"</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
   <string name="recommend_item_1">Case de telefone</string>
   <string name="recommend_item_2">Mi Band</string>
-  <string name="recommend_item_3">Power Bank</string>
+  <string name="recommend_item_3">Power bank</string>
   <string name="recommend_item_4">Fones de ouvido</string>
   <string name="recommend_item_title">Recomendações</string>
   <string name="recompute_size">Recalculando o tamanho\u2026</string>
@@ -2897,6 +2907,7 @@ Selecione seu sistema operacional:"</string>
   <string name="search_brightness">Brilho;Brilho da tela;Brilho do display</string>
   <string name="search_button_light_timeout">Mannter luz dos botões ativada;Luz dos botões</string>
   <string name="search_calendar_sound_title">Toque da Agenda;toque da agenda;agenda</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Captura de tela</string>
   <string name="search_children_mode_settings">Modo Criança;Bloquear SMS;Controle parental;Parental;Restringir SMS</string>
   <string name="search_children_mode_title">Modo Criança;Criança;Controle parental</string>
   <string name="search_choose_timezone">Escolher fuso horário;Fuso horário;Fusos horários</string>
@@ -2906,7 +2917,7 @@ Selecione seu sistema operacional:"</string>
   <string name="search_credentials_install">Instalar do armazenamento;Instalação direta;Instalar APK</string>
   <string name="search_date_time">Data &amp; hora;Data e hora;Data;Hora</string>
   <string name="search_description">Configurações de pesquisa</string>
-  <string name="search_development_settings">Opções do desenvolvedor</string>
+  <string name="search_development_settings">Opções do desenvolvedor;Assistente</string>
   <string name="search_device_name">Nome do dispositivo</string>
   <string name="search_device_status">Status</string>
   <string name="search_display">Display;Tela;Luz ambiente;Bolso;Discagem acidental;Temperatura de cor;Cor;Cores;Saturação;Girar tela automaticamente;Girar tela;Orientação;Brilho;Fonte;Fontes;Tamanho da fonte</string>
@@ -2921,6 +2932,7 @@ Selecione seu sistema operacional:"</string>
   <string name="search_dtmf_tone_enable_title">Tons do discador;Tons do teclado de discagem;tons do discador;tons de toque;tons do discador;tons do teclado de discagem</string>
   <string name="search_edge_handgrip">Controles na borda</string>
   <string name="search_empty">Nenhum resultado</string>
+  <string name="search_enable_adb">Depuração USB</string>
   <string name="search_equalizer">Equalizador</string>
   <string name="search_fluency_mode">Animações do sistema</string>
   <string name="search_font">Fonte do sistema;Fonte;Fontes;Tamanho da fonte;Tamanho da fonte</string>
@@ -2959,9 +2971,10 @@ Selecione seu sistema operacional:"</string>
   <string name="search_ntts_settings_title">TTS;Configurações de TTS</string>
   <string name="search_oldman_mode">Modo simplificado;Modo simples;Modo lite</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
-  <string name="search_other_advanced_settings">Configurações adicionais; Mais configurações</string>
+  <string name="search_other_advanced_settings">Configurações adicionais;Mais configurações</string>
   <string name="search_owner_info_settings">Informações do proprietário</string>
   <string name="search_page_layout_settings">Tamanho do texto;Tamanho da fonte;Fonte pequena;Fonte grande;Fonte média;Fonte EEG;Fonte enorme;Tamanho de fonte</string>
+  <string name="search_permission_settings_title">Permissões do app</string>
   <string name="search_pointer_speed">Velocidade do ponteiro</string>
   <string name="search_power_checker">Verificação de energia</string>
   <string name="search_power_hide_mode_title">Gerenciar uso de bateria por apps;Uso de bateria por apps;Uso de bateria;Estatísticas da bateria</string>
@@ -3089,7 +3102,7 @@ Selecione seu sistema operacional:"</string>
   <string name="security_settings_fingerprint_enroll_done">Concluído</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustração mostrando a localização do sensor de impressão digital no dispositivo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Localize o sensor de impressão digital na parte de trás do smartphone.</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_title">Localizar o sensor</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_title">Localiz. sensor</string>
   <string name="security_settings_fingerprint_enroll_finish_message">Sempre que esse ícone é exibido, você pode usar sua impressão digital para fins de identificação ou para autorizar uma compra.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Adicionada</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancelar</string>
@@ -3110,7 +3123,7 @@ Selecione seu sistema operacional:"</string>
   <string name="security_settings_fingerprint_enroll_start_title">Vamos começar!</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_message">Use o sensor de impr. digital do seu disp.</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Opa, este não é o sensor</string>
-  <string name="security_settings_fingerprint_preference_title">Impressão digital</string>
+  <string name="security_settings_fingerprint_preference_title">Digital</string>
   <string name="security_settings_premium_sms_desc">Enviar SMS premium</string>
   <string name="security_settings_summary">Definir Meu local, desbloqueio de tela, bloqueio do SIM e do armazenamento de credenciais</string>
   <string name="security_settings_title">Segurança</string>
@@ -3269,6 +3282,9 @@ Selecione seu sistema operacional:"</string>
   <string name="slot_number">(Slot %1$d)</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
+  <string name="smallwindow_smartcover_title">Tampa frontal transparente</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Smart cover ou desbloqueio de tela</string>
+  <string name="smartcover_sensitive_summary">Bloqueie ou desbloqueie o telefone facilmente com uma smart cover</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">App de SMS</string>
   <string name="sms_change_default_dialog_text">Usar o %1$s em vez do %2$s como app de SMS?</string>
@@ -3476,8 +3492,7 @@ Depois da formatação, este ^1 funcionará somente neste dispositivo.
 "<b>A formatação limpa todos os dados armazenados no ^1.</b>" Para evitar perder os dados, faça backup deles."</string>
   <string name="storage_wizard_format_confirm_next">Limpar e formatar</string>
   <string name="storage_wizard_format_confirm_public_body">"Isto requer que o ^1 seja formatado.
-
-"<b>A formatação apagará todos os dados salvos atualmente no ^1.</b>" Para evitar a perda de dados, considere fazer o backup de dados importantes."</string>
+\"<b>A formatação apagará todos os dados salvos atualmente no ^1.</b>\" Para evitar a perda de dados, considere fazer o backup de dados importantes."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar c/ armazenam. portátil</string>
   <string name="storage_wizard_format_confirm_third_body">O ^1 está sendo formatado</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenam. interno</string>
@@ -3489,7 +3504,6 @@ Depois da formatação, este ^1 funcionará somente neste dispositivo.
   <string name="storage_wizard_init_internal_title">Usar como armazenamento interno</string>
   <string name="storage_wizard_init_title">Configurar seu ^1</string>
   <string name="storage_wizard_migrate_body">"Você pode mover suas fotos, arquivos e alguns apps para este novo ^1. 
-
 A alteração levará cerca de ^2 e liberará ^3 no armazenamento interno. Alguns apps poderão não funcionar enquanto estiverem sendo movidos."</string>
   <string name="storage_wizard_migrate_confirm_body"><b>A transferência demora aproximadamente ^1. Ela liberará ^2 no ^3.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Mover</string>

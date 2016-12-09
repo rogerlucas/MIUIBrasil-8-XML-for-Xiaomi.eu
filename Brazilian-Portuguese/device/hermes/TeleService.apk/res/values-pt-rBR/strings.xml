@@ -31,7 +31,7 @@
   <string name="alert_dialog_no">Não</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Sim</string>
-  <string name="alertdialogtitle">Resultado\u2026</string>
+  <string name="alertdialogtitle">Resultados</string>
   <string name="always_enable_mms">Sempre receber MMS</string>
   <string name="always_enable_mms_summary">Receber MMS mesmo com os dados móveis desativados</string>
   <string name="anc_off">RAR desativado</string>
@@ -67,7 +67,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Somente com fones de ouvido</string>
   <string name="auto_answer_scenario_title">Atendimento automático</string>
   <string name="auto_answer_setting_title">Atendimento automático</string>
-  <string name="auto_answer_summary_delay"> (atraso: %s segundos)</string>
+  <string name="auto_answer_summary_delay"> atraso: %s segundos</string>
   <string name="auto_answer_summary_not_enabled">Desativado</string>
   <string name="auto_record_yellowpage">Páginas amarelas</string>
   <string name="auto_redial_pref_summary">Rediscar automaticamente se a linha estiver ocupada</string>
@@ -86,6 +86,7 @@
   <string name="autoip_exception_summary">%d no total</string>
   <string name="autoip_exception_summary_more">, %d no total</string>
   <string name="autoip_no_exceptions">"Adicionar números que não exigem um prefixo IP"</string>
+  <string name="autoip_phone">Discagem IP automática</string>
   <string name="autoip_prefix">Prefixo IP</string>
   <string name="autoip_prefix_summary">"Prefixo IP da operadora: %s"</string>
   <string name="autoip_setting">Configurações de IP automáticas</string>
@@ -417,7 +418,7 @@
   <string name="feedback">Feedback</string>
   <string name="femtocell_point_list_title">Femtocells</string>
   <string name="flash_when_ring_summary">Piscar LED de notificação para chamadas recebidas</string>
-  <string name="flash_when_ring_title">Piscar LED de notificação quando tocar</string>
+  <string name="flash_when_ring_title">Piscar led de flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contato com sua operadora se o problema persistir."</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e salvar as configurações de número atual de encaminhamento.
@@ -442,6 +443,7 @@ Mudar para o novo provedor?"</string>
   <string name="handon_ringer_summary">"Reduz o volume da campainha para chamadas recebidas quando o telefone for pego. Esta função não funciona quando a vibração para chamadas recebidas estiver ativada."</string>
   <string name="handon_ringer_title">Silenciar toque quando pego</string>
   <string name="help_view">Ajuda</string>
+  <string name="home_screen_shortcut">Atalho na Tela inicial</string>
   <string name="importAllSimEntries">Importar tudo</string>
   <string name="importSimEntry">Importar</string>
   <string name="importToFDNfromContacts">Importar dos contatos</string>
@@ -554,6 +556,7 @@ Recarregue e comece a falar"</string>
   <string name="livetalk_provision_title">Provisão</string>
   <string name="livetalk_remain_minutes_title">Tempo restante de chamada</string>
   <string name="livetalk_setting">Pacote de recarga</string>
+  <string name="livetalk_shortcut_title">Pacote de recarga</string>
   <string name="livetalk_terms_conditions">Termos e Condições</string>
   <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>
   <string name="livetalk_user_config_title">Verificar número do telefone</string>
@@ -799,6 +802,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_antispam_setting">Apps do sistema/Telefone/Lista de bloqueio</string>
   <string name="path_app_name">Apps do sistema/Telefone</string>
   <string name="path_auto_answer_pref_title">Apps do sistema/Telefone/Atendimento automático</string>
+  <string name="path_auto_retry_mode_title">Apps do sistema/Telefone/Configurações avançadas/Rediscagem automática</string>
   <string name="path_autoip">Apps do sistema/Telefone/Configurações avançadas/Discagem IP automática</string>
   <string name="path_call_background_setting_name">Apps do sistema/Telefone/Configurações avançadas/Plano de fundo de chamadas</string>
   <string name="path_call_forwarding_settings">Apps do sistema/Telefone/Encaminhamento de chamadas</string>
@@ -811,10 +815,10 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_cloud_antispam_title">Apps do sistema/Telefone/Identificar números desconhecidos</string>
   <string name="path_connect_disconnect_vibrate_title">Apps do sistema/Telefone/Configurações avançadas/Vibrar quando a chamada é atendida</string>
   <string name="path_dtmf_tones_title">Apps do sistema/Telefone/Configurações avançadas/Tons DTMF</string>
-  <string name="path_enable_antispam_strange_title">Telefone/Configurações de chamadas recebidas/Silenciar primeiro toque</string>
+  <string name="path_enable_antispam_strange_title">Apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar primeiro toque</string>
   <string name="path_enable_proximity_title">Apps do sistema/Telefone/Configurações de chamada recebida/Sensor de proximidade</string>
   <string name="path_fdn">Apps do sistema/Telefone/Configurações avançadas/Números de discagem fixa (FDN)</string>
-  <string name="path_flash_when_ring_title">Apps do sistema/Telefone/Configurações de chamada recebida/Piscar flash quando tocar</string>
+  <string name="path_flash_when_ring_title">Apps do sistema/Telefone/Configurações de chamadas recebidas/Piscar led de flash quando tocar</string>
   <string name="path_handon_ringer_title">Apps do sistema/Telefone/Configurações de chamadas recebidas/Silenciar toque quando pego</string>
   <string name="path_missed_call_notify_times_title">Apps do sistema/Telefone/Configurações avançadas/Lembrete de chamadas perdidas</string>
   <string name="path_preference_dial_pad_touch_tone_title">Apps do sistema/Telefone/Configurações avançadas/Tons do teclado de discagem</string>

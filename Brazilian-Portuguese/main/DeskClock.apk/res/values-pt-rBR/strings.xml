@@ -81,7 +81,13 @@
   <string name="remind_ringtone">Toque</string>
   <string name="reset">Zerar</string>
   <string name="revert">Reverter</string>
+  <string name="search_alarm_clock_keywords">Alarme;Despertador;</string>
+  <string name="search_stopwatch_keywords">Cronômetro</string>
+  <string name="search_timer_keywords">Timer</string>
+  <string name="search_worldclock_keywords">Relógio;Relógio mundial;Hora</string>
   <string name="set_alarm">Definir alarme</string>
+  <string name="setting_alarm_arriving_summary">Enviar notificação antes de tocar o alarme</string>
+  <string name="setting_alarm_arriving_title">Notificação antes de tocar</string>
   <string name="settings">Config.</string>
   <string name="shutdown_alarm_disable_summary">O alarme não tocará com o telefone desligado</string>
   <string name="shutdown_alarm_enable_summary">O alarme tocará com o telefone desligado</string>

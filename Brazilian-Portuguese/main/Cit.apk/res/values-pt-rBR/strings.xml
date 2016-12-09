@@ -19,7 +19,6 @@ Antes de calibrar o dispositivo, coloque-o sobre uma superfície plana."</string
   <string name="cit_audio_cali_playing">Pressione o botão para calibrar</string>
   <string name="cit_audio_cali_summary">Calibrar alto-falante PA</string>
   <string name="cit_audio_cali_title">Teste de calibração do alto-falante PA</string>
-  <string name="cit_audio_cali_valueC">Contador:</string>
   <string name="cit_audio_calibrating">Calibração em andamento\u2026</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Teste de retorno do microfone traseiro para o alto-falante</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de retorno do microfone principal para o alto-falante</string>

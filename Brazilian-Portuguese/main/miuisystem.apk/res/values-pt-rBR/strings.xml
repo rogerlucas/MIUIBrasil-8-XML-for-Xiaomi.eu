@@ -15,7 +15,7 @@
   <string name="cta_message_license">Ao usar este produto, você aceita os termos especificados em nossos Termos de Serviço e na Política de Privacidade.</string>
   <string name="cta_message_permission">Este app precisa %2$s para funcionar normalmente.</string>
   <string name="cta_permission_and">e</string>
-  <string name="cta_title">Termos de uso</string>
+  <string name="cta_title">Termos de Uso</string>
   <string name="daydream">Daydream</string>
   <string name="delete_frequent_phrases">Excluir frases frequentes</string>
   <string name="delete_frequent_phrases_confirm">Excluir frases frequentes selecionadas?</string>
@@ -30,6 +30,7 @@
   <string name="menu_add_frequent_phrases">Adicionar</string>
   <string name="menu_delete">Excluir</string>
   <string name="menu_edit">Editar</string>
+  <string name="miclassic">MiClassic</string>
   <string name="miui_device_name">Android</string>
   <string name="no_notification_tips">Nenhuma notificação.</string>
   <string name="presentation_payphone">Telefone público</string>

@@ -8,16 +8,16 @@
   <string name="app_not_installed_toast">"O app não está instalado no seu dispositivo."</string>
   <string name="application_item_already_permission">Permitido</string>
   <string name="application_item_disable">Restrito</string>
-  <string name="auto_import_games">Coloque todos os seus jogos em um só lugar</string>
+  <string name="auto_import_games">Todos os seus jogos em um só lugar</string>
   <string name="booster_suc">Otimizado com sucesso</string>
   <string name="boostering">Otimizando velocidade\u2026</string>
   <string name="cancel_button">Cancelar</string>
   <string name="close">Fechar</string>
   <string name="dont_bore">"Não deixe que botões ou notificações o distraiam"</string>
-  <string name="game_booster">Otimizar velocidade em jogos</string>
+  <string name="game_booster">Otimizar jogos</string>
   <string name="game_booster_intro">Sobre a otimização de velocidade em jogos</string>
-  <string name="game_booster_total">Velocidade otimizada %1$s vez(es), adicionado %2$s ao tempo de jogo</string>
-  <string name="game_more_improve">Restringir atividades em segundo plano e velocidade de download para economizar energia e largura de banda para jogos</string>
+  <string name="game_booster_total">Velocidade otimizada %1$s vez(es), adicionado %2$s de tempo de jogo</string>
+  <string name="game_more_improve">Restrinja atividades e downloads em segundo plano para economizar recursos para jogos</string>
   <string name="game_setting">Configurações de jogos</string>
   <string name="gs_app_back_self_start">Economia de energia</string>
   <string name="gs_dialog_confirm_close_msg">O atalho será removido de sua Tela inicial. Vá em Segurança &gt; Configurações para restaurá-lo.</string>
@@ -73,9 +73,9 @@
   <string name="shield_keyboard_title">Desativar botões</string>
   <string name="start">Iniciar</string>
   <string name="start_game">Iniciar</string>
-  <string name="support_game_booster_tips">Otimizar velocidade &amp; melhorar experiência em jogos</string>
+  <string name="support_game_booster_tips">Otimizar velocidade &amp; experiência em jogos</string>
   <string name="title_share_link">Compartilhar URL</string>
-  <string name="top_game">Jogos populares</string>
+  <string name="top_game">\u0020</string>
   <string name="uninstall_game_count">"%d jogos não foram adicionados"</string>
   <string name="usage_sorted_loading_text">Aguarde\u2026</string>
 </resources>
