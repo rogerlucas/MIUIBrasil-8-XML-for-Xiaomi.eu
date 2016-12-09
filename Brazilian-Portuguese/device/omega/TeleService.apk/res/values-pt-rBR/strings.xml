@@ -196,7 +196,6 @@
   <string name="cb_channel_dialog_channel_number">Número do canal (0-65534)</string>
   <string name="cb_channel_dialog_channel_state">Ativar canal</string>
   <string name="cb_channel_dialog_edit_channel">Editar canal</string>
-  <string name="cb_default_new_channel_name">Novo canal</string>
   <string name="cb_dialog_title_language_choice">Selecionar idioma</string>
   <string name="cb_error_channel_id_exist">O id de canal existe.</string>
   <string name="cb_error_channel_name">O tamanho do nome do canal está incorreto (1-10 caracteres).</string>
@@ -291,6 +290,7 @@
   <string name="deactivate_all">Cancelar tudo</string>
   <string name="default_area_code_setting">Código de área padrão</string>
   <string name="default_areacode">Código de área padrão</string>
+  <string name="default_notification_description">Som padrão (%1$s)</string>
   <string name="default_preference_summary">(Não definido)</string>
   <string name="delete">Excluir</string>
   <string name="delete_ecc_number">Excluir número de emergência</string>

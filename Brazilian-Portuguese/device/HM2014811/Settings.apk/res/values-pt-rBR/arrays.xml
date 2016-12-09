@@ -421,14 +421,6 @@
     <item>No máximo 3 processos</item>
     <item>No máximo 4 processos</item>
   </string-array>
-  <string-array name="vpn_types">
-    <item>PPTP</item>
-    <item>L2TP/IPSec PSK</item>
-    <item>L2TP/IPSec RSA</item>
-    <item>IPSec Xauth PSK</item>
-    <item>IPSec Xauth RSA</item>
-    <item>IPSec Hybrid RSA</item>
-  </string-array>
   <string-array name="vpn_types_long">
     <item>PPTP VPN</item>
     <item>L2TP/IPSec VPN com chaves pré-compartilhadas</item>

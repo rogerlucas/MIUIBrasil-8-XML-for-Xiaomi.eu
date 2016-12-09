@@ -2554,11 +2554,11 @@ Selecione seu sistema operacional:"</string>
   <string name="radio_info_band_mode_label">Selecionar frequência de rádio</string>
   <string name="radio_info_call_redirect_label">Redirecionamento da chamada:</string>
   <string name="radio_info_call_status_label">Status da chamada:</string>
-  <string name="radio_info_cellinfo_label">CellInfo:</string>
+  <string name="radio_info_cellinfo_label">Todas as informações de medição do celular:</string>
   <string name="radio_info_current_network_label">Rede atual:</string>
   <string name="radio_info_data_attempts_label">Tentativas de dados:</string>
   <string name="radio_info_data_successes_label">Êxito dos dados:</string>
-  <string name="radio_info_dcrtinfo_label">DcRtInfo:</string>
+  <string name="radio_info_dcrtinfo_label">Informações de conexão de dados em tempo real:</string>
   <string name="radio_info_gprs_service_label">Serviço GPRS:</string>
   <string name="radio_info_gsm_disconnects_label">Desconexões GSM:</string>
   <string name="radio_info_gsm_service_label">Serviço GSM:</string>

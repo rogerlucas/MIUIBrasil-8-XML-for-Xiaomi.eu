@@ -28,6 +28,20 @@
     <item>Outros</item>
     <item>Personalizado</item>
   </string-array>
+  <string-array name="app_ops_labels">
+    <item>Tentando ativar o Wi-Fi</item>
+    <item>Tentando ativar o Bluetooth</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorAlertMessages">
+    <item>Para fazer chamadas e enviar mensagens por Wi-Fi, peça primeiro à sua operadora para configurar este serviço. Depois, ative novamente as chamadas por Wi-Fi nas configurações.</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorNotificationMessages">
+    <item>Registre-se com sua operadora</item>
+  </string-array>
+  <string-array name="wfcSpnFormats">
+    <item>%s</item>
+    <item>Chamada Wi-Fi de %s</item>
+  </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Tente novamente</item>
     <item>""</item>

@@ -1141,7 +1141,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
   <string name="safepay_alert_dialog_button_risk">Corrigir</string>
   <string name="safepay_alert_dialog_button_unknown">Verificar novamente</string>
-  <string name="safepay_alert_dialog_title_risk"><font color="#ec2700">Rico encontrado! Interrompa o pagamento atual!</font></string>
+  <string name="safepay_alert_dialog_title_risk"><font color="#ec2700">Risco encontrado! Interrompa o pagamento atual!</font></string>
   <string name="safepay_alert_dialog_title_unknown">"<font color="#f59c00">Não foi possível verificar a segurança do pagamento. Conecte-se à internet e tente novamente.</font>"</string>
   <string name="sc_allow_network_dialog_message">Este app precisa se conectar à internet para funcionar corretamente.</string>
   <string name="sc_allow_network_dialog_tiltle">"Não foi possível usar esta função"</string>

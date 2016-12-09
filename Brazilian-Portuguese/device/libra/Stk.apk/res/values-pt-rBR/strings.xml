@@ -10,7 +10,6 @@
   <string name="button_ok">OK</string>
   <string name="button_yes">Sim</string>
   <string name="default_close_channel_msg">Canal fechado</string>
-  <string name="default_open_channel_msg">Abrir canal?</string>
   <string name="default_receive_data_msg">Recebendo dados</string>
   <string name="default_send_data_msg">Enviando dados</string>
   <string name="default_setup_call_msg">Configurando chamada\u2026</string>
