@@ -554,14 +554,6 @@
     <item>Rosa</item>
     <item>Vermelho</item>
   </string-array>
-  <string-array name="usb_configuration_titles">
-    <item>@string/usb_use_charging_only</item>
-    <item>MTP (Media Transfer Protocol)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
-    <item>RNDIS (USB Ethernet)</item>
-    <item>Fonte de áudio</item>
-    <item>MIDI</item>
-  </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>Wi-Fi preferencial</item>
     <item>Redes móveis preferencial</item>

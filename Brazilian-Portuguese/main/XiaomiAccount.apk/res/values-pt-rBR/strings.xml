@@ -171,7 +171,7 @@
   <string name="notify_network_restricted_title">"A Conta Mi não pôde se conectar à rede"</string>
   <string name="oauth_get_scopes_failed">"Não foi possível obter informações da conta"</string>
   <string name="oauth_getting_scopes">Verificando conta\u2026</string>
-  <string name="oauth_scopes_intro"><font color="#%1$s">%2$s</font> receberá as seguintes permissões:<br><br>%3$s</string>
+  <string name="oauth_scopes_intro"><font color="#%1$s">%2$s</font> receberá as seguintes permissões:<br/><br/>%3$s</string>
   <string name="oauth_title">Fazer login na Conta Mi</string>
   <string name="other_devices_title">Outros dispositivos</string>
   <string name="passport_access_denied">Acesso negado</string>
