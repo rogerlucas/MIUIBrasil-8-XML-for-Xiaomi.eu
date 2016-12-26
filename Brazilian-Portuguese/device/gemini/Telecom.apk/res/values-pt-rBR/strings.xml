@@ -192,8 +192,6 @@
   <string name="incoming_call_failed_low_battery">Falha na chamada recebida devido à bateria fraca.</string>
   <string name="keep_screen_on">Permanecer ativo</string>
   <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando.</string>
-  <string name="launch_defaults_none">Nenhum padrão definido</string>
-  <string name="launch_defaults_some">Alguns padrões definidos</string>
   <string name="legacy_dhcp_client_summary">Usar cliente DHCP do Lollipop, em vez do novo cliente DHCP do Android.</string>
   <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha de backups completos do desktop</string>
   <string name="local_backup_password_summary_none">Os backups completos do computador não estão protegidos no momento</string>
@@ -255,7 +253,6 @@
   <string name="runningservices_settings_title">Serviços em execução</string>
   <string name="saved_network">Salvo por %1$s</string>
   <string name="screen_zoom_summary_custom">Personalizada (%d)</string>
-  <string name="screen_zoom_summary_default">Padrão</string>
   <string name="screen_zoom_summary_extremely_large">Enorme</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequeno</string>
@@ -304,13 +301,6 @@
   <string name="toast_personal_call_msg">Usando o discador pessoal para fazer a chamada</string>
   <string name="track_frame_time">Classific. render. GPU</string>
   <string name="transition_animation_scale_title">Escala anim. de transição</string>
-  <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
-  <string name="tts_default_lang_title">Idioma</string>
-  <string name="tts_default_pitch_summary">Afeta o tom do texto falado</string>
-  <string name="tts_default_pitch_title">Frequência do som</string>
-  <string name="tts_default_rate_summary">Velocidade em que o texto é falado</string>
-  <string name="tts_default_rate_title">Taxa de fala</string>
-  <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz.</string>
   <string name="tts_engine_network_required">Este idioma requer uma conexão de rede ativa para a conversão de texto em voz.</string>
   <string name="tts_engine_preference_section_title">Mecanismo preferencial</string>
   <string name="tts_engine_security_warning">Este mecanismo de síntese de fala pode coletar todo texto que será falado, inclusive dados pessoais como senhas e números de cartão de crédito. Ele é proveniente do mecanismo %s. Deseja ativar o uso desse mecanismo de síntese de fala?</string>

@@ -748,8 +748,6 @@ Mudar para o novo provedor?"</string>
   <string name="lable_network_not_supported">"Rede não suportada"</string>
   <string name="lafs_disable">Programação de voos do Aeroporto Local desativada</string>
   <string name="lafs_enable">Programação de voos do Aeroporto Local ativada</string>
-  <string name="launch_defaults_none">Nenhum padrão definido</string>
-  <string name="launch_defaults_some">Alguns padrões definidos</string>
   <string name="legacy_dhcp_client_summary">Usar cliente DHCP do Lollipop, em vez do novo cliente DHCP do Android.</string>
   <string name="list_language_dtitle">Idiomas</string>
   <string name="list_language_summary">Selecione o idioma das notícias</string>
@@ -997,7 +995,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="phone_accounts_ask_every_time">Perguntar primeiro</string>
   <string name="phone_accounts_choose_accounts">Escolher contas</string>
   <string name="phone_accounts_configure_account_settings">Definir configurações da conta</string>
-  <string name="phone_accounts_default_account_label">Nenhuma rede disponível</string>
   <string name="phone_accounts_make_calls_with">Fazer chamadas com</string>
   <string name="phone_accounts_make_sip_calls_with">Fazer chamadas SIP com</string>
   <string name="phone_accounts_selection_header">Contas do telefone</string>
@@ -1194,7 +1191,6 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="saved_network">Salvo por %1$s</string>
   <string name="saving_account">Salvando conta\u2026</string>
   <string name="screen_zoom_summary_custom">Personalizada (%d)</string>
-  <string name="screen_zoom_summary_default">Padrão</string>
   <string name="screen_zoom_summary_extremely_large">Enorme</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequeno</string>
@@ -1375,13 +1371,6 @@ O próximo período começa em %2$d dias (%3$s)"</string>
   <string name="track_frame_time">Classific. render. GPU</string>
   <string name="transition_animation_scale_title">Escala anim. de transição</string>
   <string name="transport_title">Tipo de transporte</string>
-  <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
-  <string name="tts_default_lang_title">Idioma</string>
-  <string name="tts_default_pitch_summary">Afeta o tom do texto falado</string>
-  <string name="tts_default_pitch_title">Frequência do som</string>
-  <string name="tts_default_rate_summary">Velocidade em que o texto é falado</string>
-  <string name="tts_default_rate_title">Taxa de fala</string>
-  <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz.</string>
   <string name="tts_engine_network_required">Este idioma requer uma conexão de rede ativa para a conversão de texto em voz.</string>
   <string name="tts_engine_preference_section_title">Mecanismo preferencial</string>
   <string name="tts_engine_security_warning">Este mecanismo de síntese de fala pode coletar todo texto que será falado, inclusive dados pessoais como senhas e números de cartão de crédito. Ele é proveniente do mecanismo %s. Deseja ativar o uso desse mecanismo de síntese de fala?</string>

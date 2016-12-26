@@ -12,7 +12,6 @@
   <string name="cannot_add_printer">Não é possível adicionar impressoras</string>
   <string name="collapse_handle">Recolher</string>
   <string name="could_not_create_file">Não foi possível criar o arquivo</string>
-  <string name="destination_default_text">Selecione uma impressora</string>
   <string name="disabled_services_title">Serviços desativados</string>
   <string name="enable_print_service">Toque para ativar</string>
   <string name="enabled_services_title">Serviços ativados</string>

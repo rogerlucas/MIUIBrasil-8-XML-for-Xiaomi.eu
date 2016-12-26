@@ -17,7 +17,6 @@
   <string name="continue_provisioning_notify_text">Toque para continuar a configuração de seu perfil de trabalho</string>
   <string name="continue_provisioning_notify_title">Criptografia concluída</string>
   <string name="copying_certs">Configurando certificados CA</string>
-  <string name="default_first_meat_user_name">Usuário principal</string>
   <string name="delete_profile">Remover</string>
   <string name="delete_profile_title">Remover perfil de trabalho?</string>
   <string name="device_owner_cancel_cancel">Cancelar</string>

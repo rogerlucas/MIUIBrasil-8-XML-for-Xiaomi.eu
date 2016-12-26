@@ -39,7 +39,6 @@
   <string name="confirm_device_info_full">O cartão SD está sem espaço, a gravação foi salva.</string>
   <string name="confirm_save_info_saved">A gravação foi salva</string>
   <string name="confirm_save_info_saved_to">A gravação foi salva em</string>
-  <string name="default_notification_description">Som padrão (%1$s)</string>
   <string name="description_dialpad_overflow">Mais opções</string>
   <string name="dial_conference_fail_prompt">"Não é possível discar diretamente para a conferência pois a rede atual não suporta VoLTE."</string>
   <string name="dial_vt_fail_prompt">"A rede atual não suporta VoLTE. Alternar para chamada de voz normal?"</string>

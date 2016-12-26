@@ -5,11 +5,6 @@
     <item>UDP</item>
     <item>TCP</item>
   </string-array>
-  <string-array name="clir_display_values">
-    <item>Padrão da rede</item>
-    <item>Ocultar número</item>
-    <item>Mostrar número</item>
-  </string-array>
   <string-array name="list_language_entries">
     <item>Inglês</item>
     <item>Francês</item>

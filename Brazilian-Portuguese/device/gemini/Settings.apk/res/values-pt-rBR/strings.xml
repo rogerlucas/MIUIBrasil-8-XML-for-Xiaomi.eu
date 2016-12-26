@@ -1135,7 +1135,6 @@ Se o dispositivo tiver vários usuários, o uso desse atalho na tela de bloqueio
   <string name="debug_view_attributes">Ativar visualiz. insp. atributo</string>
   <string name="decline_remote_bugreport_action">Recusar</string>
   <string name="defalut_launcher_title">Launcher padrão</string>
-  <string name="default_admin_support_msg">"Esta ação está desativada. Entre em contato com o administrador da organização para saber mais."</string>
   <string name="default_app">Padrão</string>
   <string name="default_apps_title">Padrão</string>
   <string name="default_assist_none">Nenhuma</string>
@@ -1143,12 +1142,9 @@ Se o dispositivo tiver vários usuários, o uso desse atalho na tela de bloqueio
   <string name="default_browser_title">App de navegador</string>
   <string name="default_browser_title_none">Nenhum navegador padrão</string>
   <string name="default_emergency_app">App de emergência</string>
-  <string name="default_for_work">Padrão para trabalho</string>
   <string name="default_input_method">Escolher teclado padrão</string>
-  <string name="default_keyboard_layout">Padrão</string>
   <string name="default_phone_title">App de telefone</string>
   <string name="default_sound">Som padrão</string>
-  <string name="default_spell_checker">Corretor ortográfico padrão</string>
   <string name="default_usb_mode">Conexão USB</string>
   <string name="delete">Excluir</string>
   <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
@@ -2347,7 +2343,6 @@ Selecione seu sistema operacional:"</string>
   <string name="no_connected_devices">Nenhum dispositivo conectado</string>
   <string name="no_data_usage">Nenhum dado usado</string>
   <string name="no_default_apps">Nenhum app padrão.</string>
-  <string name="no_default_home">Nenhuma Página inicial padrão</string>
   <string name="no_device_admins">Não há administradores de dispositivo disponíveis</string>
   <string name="no_internet_access_remember">Não perguntar novamente para esta rede</string>
   <string name="no_internet_access_text">Esta rede não tem acesso à Internet. Permanecer conectado?</string>
@@ -2372,7 +2367,6 @@ Selecione seu sistema operacional:"</string>
   <string name="notification_breathing_light_color_title">Cor do LED para notificações</string>
   <string name="notification_breathing_light_freq_title">Frequência de pulsação para notificações</string>
   <string name="notification_importance_blocked">Bloqueada: nunca mostrar essas notificações</string>
-  <string name="notification_importance_default">Normal: permite que essas notificações emitam sons</string>
   <string name="notification_importance_high">Alta: mostrar parcialmente na tela e permitir som</string>
   <string name="notification_importance_low">Baixa: mostra essas notificações de forma silenciosa</string>
   <string name="notification_importance_max">Urgente: mostra no topo da lista de notificações, mostra parcialmente na tela e permite sons</string>
@@ -2387,7 +2381,6 @@ Selecione seu sistema operacional:"</string>
   <string name="notification_listener_security_warning_title">Permitir o acesso a notificações para %1$s?</string>
   <string name="notification_log_details_actions">ações</string>
   <string name="notification_log_details_content_view">visualização personalizada</string>
-  <string name="notification_log_details_default">padrão</string>
   <string name="notification_log_details_delete_intent">excluir intent</string>
   <string name="notification_log_details_explanation">explicação</string>
   <string name="notification_log_details_full_screen_intent">intent de tela cheia</string>
@@ -3172,7 +3165,6 @@ Para usar a fixação de tela:
   <string name="screen_zoom_short_summary">Tornar os itens na tela maiores ou menores</string>
   <string name="screen_zoom_summary">Tornar os itens na tela menores ou maiores. É possível que a posição de alguns apps na sua tela seja alterada.</string>
   <string name="screen_zoom_summary_custom">Personalizada (%d)</string>
-  <string name="screen_zoom_summary_default">Padrão</string>
   <string name="screen_zoom_summary_extremely_large">Maior</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequena</string>
@@ -3960,7 +3952,6 @@ Você pode usar um ^1 mais rápido para ter um desempenho melhor."</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Apps do sistema</string>
   <string name="system_backup_section_title">Backup</string>
-  <string name="system_default_app">(Padrão do sistema)</string>
   <string name="system_package">As atualizações do sistema não podem ser instaladas em mídia externa.</string>
   <string name="system_storage">Armazenamento do sistema</string>
   <string name="system_ui_settings">Mostrar sintonizador SystemUI</string>

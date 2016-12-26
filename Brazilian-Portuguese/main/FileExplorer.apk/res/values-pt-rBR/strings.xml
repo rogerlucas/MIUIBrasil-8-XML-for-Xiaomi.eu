@@ -140,7 +140,6 @@
   <string name="decrypt_error">"Não foi possível descriptografar"</string>
   <string name="decrypt_to">Descriptogravar e salvar em\u2026</string>
   <string name="decrypting">Descriptografando\u2026</string>
-  <string name="default_prize_text">Isso vai direto para o meu tesouro!</string>
   <string name="delete_dialog_button">Excluir</string>
   <string name="delete_error">"Não foi possível excluir arquivos, tente novamente"</string>
   <string name="delete_file">Excluir este arquivo?</string>
