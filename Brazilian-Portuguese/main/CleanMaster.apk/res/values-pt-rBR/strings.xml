@@ -79,7 +79,7 @@
   <string name="button_text_unselect_pic">Desmarcar</string>
   <string name="button_text_view_detail">Detalhes</string>
   <string name="button_text_view_file">Arquivo</string>
-  <string name="buy_a_new_phone">Atualização de armazenamento</string>
+  <string name="buy_a_new_phone">Obter mais espaço de armazenamento</string>
   <string name="buy_immediately">Comprar</string>
   <string name="buy_traffic_pack">Comprar mais dados</string>
   <string name="byteShort">B</string>
@@ -403,7 +403,7 @@
   <string name="title_of_traffic_notification">Barra de estatísticas de dados</string>
   <string name="title_optimizer">Termos e Condições</string>
   <string name="title_share_link">Compartilhar URL</string>
-  <string name="toast_add_white_list_success">" adicionado às exceções"</string>
+  <string name="toast_add_white_list_success">Adicionado às exceções com sucesso</string>
   <string name="toast_app_no_residual_on_sdcard">"O app não possui nenhum arquivo armazenado em seu cartão SD"</string>
   <string name="toast_backup_is_running">O backup já está em execução</string>
   <string name="toast_backup_uninstall_failed">"O backup de %d apps falhou"</string>
@@ -415,7 +415,7 @@
   <string name="toast_must_select_before_restore">Escolher fotos a restaurar</string>
   <string name="toast_network_eror">"Não foi possível conectar-se à rede"</string>
   <string name="toast_network_switch">Este app pode se conectar à internet</string>
-  <string name="toast_removed_from_white_list">" removido das exceções"</string>
+  <string name="toast_removed_from_white_list">Removido das exceções com sucesso</string>
   <string name="toast_resolve_apk_error">Erro ao analisar apk</string>
   <string name="toast_scaning_similar_image">Verificando fotos\u2026</string>
   <string name="toast_select_image_need_delete">Escolher fotos a excluir</string>

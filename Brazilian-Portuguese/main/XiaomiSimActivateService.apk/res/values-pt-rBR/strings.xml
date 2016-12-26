@@ -16,11 +16,11 @@
   <string name="activate_feature_register_xiaomi_account">Configuração da Conta Mi</string>
   <string name="activate_feature_remote_assist">Assistente remoto</string>
   <string name="activate_feature_verify_mx_token">Verificação da Conta Mi</string>
-  <string name="activate_history_cancelled">Cancelado</string>
-  <string name="activate_history_multisim_overview">Ativação para cartão SIM %3$d %1$s. Acionado por \"%2$s\".</string>
-  <string name="activate_history_overview">Ativação para cartão SIM %1$s. Acionado por \"%2$s\".</string>
+  <string name="activate_history_canceled_overview">Ativação do cartão SIM cancelada. Ativação acionada por \"%1$s\".</string>
+  <string name="activate_history_multisim_canceled_overview">Ativação do cartão SIM %2$d cancelada. Ativação acionada por \"%1$s\".</string>
+  <string name="activate_history_multisim_success_overview">Cartão SIM %2$d ativado. Ativação acionada por \"%1$s\".</string>
   <string name="activate_history_sms">SMS enviado durante ativação.</string>
-  <string name="activate_history_success">Sucesso</string>
+  <string name="activate_history_success_overview">Cartão SIM ativado. Ativação acionada por \"%1$s\".</string>
   <string name="activate_history_title">Ativação do cartão SIM</string>
   <string name="activate_phone_cancel_notif_title">Ativação do cartão SIM cancelada</string>
   <string name="activate_phone_cancel_notif_title_msim">Ativação do cartão SIM %s cancelada</string>

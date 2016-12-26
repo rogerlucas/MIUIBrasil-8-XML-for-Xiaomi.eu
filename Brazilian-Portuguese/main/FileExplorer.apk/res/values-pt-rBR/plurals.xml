@@ -255,7 +255,11 @@
   </plurals>
   <plurals name="video_items">
     <item quantity="other">%1$d itens</item>
+        <item quantity="zero"> %1$d itens</item>
     <item quantity="one">%1$d item</item>
+        <item quantity="two"> %1$d itens</item>
+        <item quantity="few"> %1$d itens</item>
+        <item quantity="many"> %1$d itens</item>
   </plurals>
   <plurals name="original_user_days">
     <item quantity="other">• <font color="#fc7050">%1$d</font> dias</item>
@@ -280,5 +284,17 @@
   <plurals name="follow_count">
     <item quantity="other"><font color="#fc7050">%d</font> seguidores</item>
     <item quantity="one"><font color="#fc7050">%d</font> seguidor</item>
+  </plurals>
+  <plurals name="video_like_num">
+    <item quantity="other">%1$s curtidas</item>
+    <item quantity="one">%1$s curtida</item>
+  </plurals>
+  <plurals name="gems">
+    <item quantity="other">%1$s jóias</item>
+    <item quantity="one">%1$s jóia</item>
+  </plurals>
+  <plurals name="more_gems">
+    <item quantity="other">Colete mais <font color="#fc7050">%d</font> jóias para participar do sorteio</item>
+    <item quantity="one">Colete mais <font color="#fc7050">%d</font> jóia para participar do sorteio</item>
   </plurals>
 </resources>

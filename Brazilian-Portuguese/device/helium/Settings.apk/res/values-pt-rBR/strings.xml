@@ -431,7 +431,7 @@ Fabricantes a utilizam para selecionar conteúdo de anúncio relevantes a você.
   <string name="block_list_connected_devices">Dispositivos conectados</string>
   <string name="block_list_diaglog_cancle">Cancelar</string>
   <string name="block_list_diaglog_ok">OK</string>
-  <string name="block_list_dialog_content">Esta ação desconectará \"%s\" deste dispositivo e adicionará-lo à lista de bloqueio</string>
+  <string name="block_list_dialog_content">Esta ação desconectará \"%s\" deste dispositivo e o adicionará à lista de bloqueio</string>
   <string name="block_list_dialog_title">Desconectar agora?</string>
   <string name="block_list_no_device">Nenhum dispositivo conectado na lista de bloqueio</string>
   <string name="block_list_remove_dialog_content">O dispositivo \"%s\" será capaz de se conectar a este hostpot</string>

@@ -1135,6 +1135,9 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
   <string name="taking_remote_bugreport_notification_title">Gerando relatório de bugs\u2026</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Toque para configurar.</string>
+  <string name="tethered_notification_multi_device_message">%1$s dispositivos conectados</string>
+  <string name="tethered_notification_no_device_message">Nenhum dispositivo conectado</string>
+  <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
   <string name="tethered_notification_title">Vínculo ou Hotspot ativo</string>
   <string name="textSelectionCABTitle">Seleção de texto</string>
   <string name="text_copied">Texto copiado para a área de transferência.</string>

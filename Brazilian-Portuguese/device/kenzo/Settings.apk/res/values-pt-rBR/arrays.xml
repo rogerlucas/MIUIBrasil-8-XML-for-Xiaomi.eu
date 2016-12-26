@@ -621,8 +621,9 @@
   </string-array>
   <string-array name="long_press_volume_down_action">
     <item>Nenhuma ação</item>
-    <item>Captura rápida (selecionar na Câmera)</item>
-    <item>Atalhos de Transporte Público</item>
+    <item>Captura rápida (foto)</item>
+    <item>Captura rápida (vídeo)</item>
+    <item>Atalhos de transporte público</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 segundo</item>
@@ -652,15 +653,15 @@
   </string-array>
   <string-array name="msd_pc_system_install_summary">
     <item>2. siga as instruções na tela</item>
-    <item/>
-    <item/>
-    <item/>
+    <item></item>
+    <item></item>
+    <item></item>
   </string-array>
   <string-array name="msd_pc_system_install_finish_summary">
     <item>@string/msd_pc_system_install_finish_summary_xp</item>
     <item>@string/msd_pc_system_install_finish_summary_vista</item>
     <item>O armazenamento USB abrirá automaticamente ao ser conectado a um computador.</item>
-    <item/>
+    <item></item>
   </string-array>
   <string-array name="msd_pc_system_retry_xp">
     <item>@string/msd_install_retry_connect</item>

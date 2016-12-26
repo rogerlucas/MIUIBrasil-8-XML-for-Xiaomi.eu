@@ -78,7 +78,7 @@
   <string name="alert_secret_album_enter">OK</string>
   <string name="alert_secret_album_message">Puxe para baixo do topo da sua lista de álbuns para ver o Álbum secreto.</string>
   <string name="alert_secret_album_title">Como ver o álbum secreto</string>
-  <string name="all_faces">Todas as fotos com pessoas</string>
+  <string name="all_faces">Fotos com esta pessoa</string>
   <string name="all_items_synced">Todos os álbuns foram salvos na Mi Cloud</string>
   <string name="all_video_album_display_name">Todos os vídeos</string>
   <string name="already_create_baby_album">O álbum do bebê já existe na Mi Cloud.</string>
@@ -143,8 +143,8 @@
   <string name="cannot_remove_creator">"Não é possível excluir o criador do álbum"</string>
   <string name="cannot_send_message">"Não foi possível enviar a mensagem"</string>
   <string name="cannot_send_message_reason">Nenhum destinatário válido</string>
-  <string name="change_to_face_mode">Ordenar por pessoas</string>
-  <string name="change_to_photo_mode">Ordenar por álbuns</string>
+  <string name="change_to_face_mode">Mostrar somente o rosto</string>
+  <string name="change_to_photo_mode">Mostrar visualização completa</string>
   <string name="choose_baby_sexy">Gênero</string>
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_people">"Por favor escolha um álbum de rosto"</string>
@@ -406,7 +406,7 @@ Tire mais fotos de seus amigos!"</string>
   <string name="menu_item_sort_size">Tamanho</string>
   <string name="menu_view_contact">Ver contato</string>
   <string name="merge_album">Mesclar</string>
-  <string name="merge_album_title">Mesclar álbuns</string>
+  <string name="merge_album_title">Mesclar com uma pessoa</string>
   <string name="messagelist_sender_self">Eu</string>
   <string name="micloud_introduce">Fazer backup de fotos e vídeos automaticamente (Conta Mi requerida)</string>
   <string name="more_album_hint">, etc.</string>
@@ -452,6 +452,7 @@ Tire mais fotos de seus amigos!"</string>
   <string name="operation_move_to_other_albums">Mover para Outros álbuns</string>
   <string name="operation_not_show_in_photos_tab">"Não mostrar em 'Fotos'"</string>
   <string name="operation_projection">Transmitir</string>
+  <string name="operation_remove_face">Remover</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
   <string name="operation_remove_from_other_albums">Mover de Outros álbuns</string>
   <string name="operation_remove_secret">Reexibir</string>
@@ -525,11 +526,16 @@ Tire mais fotos de seus amigos!"</string>
   <string name="relation_with_you">Escolher relação</string>
   <string name="release_space_finish_format">%s de armazenamento local liberado</string>
   <string name="remind_face_recommend_confirm">Confirmar</string>
+  <string name="remove_from_album_message">Esta foto não será mais exibida aqui</string>
+  <string name="remove_from_album_title">Remover deste álbum</string>
+  <string name="remove_from_current_album">Remover deste álbum</string>
   <string name="remove_from_other_albums_tip">Ative a sincronização com a Mi Cloud para mover os itens de Outros álbuns. Mover agora?</string>
   <string name="remove_from_secret_fail">"Não foi possível remover do álbum secreto"</string>
   <string name="remove_from_secret_failed_with_reason">"Não foi possível remover do álbum secreto. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s itens não puderam ser removidos do álbum secreto. %1$s."</string>
   <string name="remove_from_secret_successful">Removido do álbum secreto</string>
+  <string name="remove_to_album_title">Mesclar com</string>
+  <string name="remove_to_other_album">Mesclar com uma pessoa diferente</string>
   <string name="rename_face_album">Renomear</string>
   <string name="rename_fail_msg">"Não foi possível renomear"</string>
   <string name="rename_from_contact">Nome dos contatos</string>

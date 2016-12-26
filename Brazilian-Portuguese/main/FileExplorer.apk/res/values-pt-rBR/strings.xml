@@ -117,6 +117,7 @@
   <string name="copy_failed">"Não foi possível copiar"</string>
   <string name="copy_text">Copiar texto</string>
   <string name="copy_to">Copiar para\u2026</string>
+  <string name="count_down">Contagem regressiva: %1$s</string>
   <string name="create_shortcut_success">Atalho adicionado com sucesso</string>
   <string name="data_consumption_cancel">Sair</string>
   <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
@@ -139,6 +140,7 @@
   <string name="decrypt_error">"Não foi possível descriptografar"</string>
   <string name="decrypt_to">Descriptogravar e salvar em\u2026</string>
   <string name="decrypting">Descriptografando\u2026</string>
+  <string name="default_prize_text">Isso vai direto para o meu tesouro!</string>
   <string name="delete_dialog_button">Excluir</string>
   <string name="delete_error">"Não foi possível excluir arquivos, tente novamente"</string>
   <string name="delete_file">Excluir este arquivo?</string>
@@ -217,6 +219,7 @@
   <string name="ftp_transfer_secure">Segurança</string>
   <string name="ftp_username_and_passworld">Fazer login</string>
   <string name="ftp_username_hint">Usuário</string>
+  <string name="full_gems">Trocar suas jóias</string>
   <string name="gbk_summary">Codificação padrão em Chinês simplificado</string>
   <string name="get_user_info_err">"Não é possível obter informações desta pessoa"</string>
   <string name="get_verification_code_fail">"Não foi possível obter o código de verificação"</string>
@@ -354,6 +357,8 @@
   <string name="one_account_bind_needed">Adicione ao menos 1 conta</string>
   <string name="online_not_support">"Não é possível ver este arquivo no momento."</string>
   <string name="open_app">Abrir</string>
+  <string name="open_chest">Abra para receber um presente</string>
+  <string name="open_chest_failed">"Não foi possível abrir, verifique sua conexão de rede e tente novamente"</string>
   <string name="open_private_folder">Solte para ver as pastas secretas</string>
   <string name="operation_add_fav">Adicionando aos favoritos\u2026</string>
   <string name="operation_cancel">Cancelar</string>
@@ -444,6 +449,8 @@
   <string name="private_folder_update">Atualizando arquivos ocultos\u2026</string>
   <string name="private_toast_hint2">Para ocultar um arquivo, pressione-o e segure-o, e em seguida adicione-o à pasta oculta.</string>
   <string name="private_toast_hint3">Puxe para baixo para ver as pastas ocultas</string>
+  <string name="prize_result_tip">Trocar</string>
+  <string name="prize_result_tip2">Jóias vão para seu tesouro</string>
   <string name="promot_enctypt_password">Insira a senha usada para desbloquear o dispositivo ou para desligar o Modo Criança</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
@@ -456,6 +463,7 @@
   <string name="recommend_user">Perfis recomendados</string>
   <string name="remote_video_report_success">"Obrigado por seu feedback! Iremos analisar o mais rápido possível."</string>
   <string name="rename_alert">"Se você alterar a extensão deste arquivo, talvez você não consiga abri-lo."</string>
+  <string name="rename_alert2">O arquivo será ocultado.</string>
   <string name="rename_failed">"Não foi possível renomear %1$s"</string>
   <string name="repair_done">Restaurado</string>
   <string name="repair_error">"Não foi possível restaurar"</string>

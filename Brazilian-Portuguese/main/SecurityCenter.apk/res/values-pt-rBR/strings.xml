@@ -816,6 +816,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="optimize_result_button_cooldown_now">Otimizar</string>
   <string name="optimize_result_button_correct_now">Ajustar</string>
   <string name="optimize_result_button_fix_now">Corrigir</string>
+  <string name="optimize_result_button_mifi_insurance">Comprar agora</string>
   <string name="optimize_result_button_onekey_open">Ativar</string>
   <string name="optimize_result_button_onekey_restore">Restaurar</string>
   <string name="optimize_result_button_open_now">Ativar</string>
@@ -1195,6 +1196,8 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="sim_location_error_notify_message">Toque para alterar a localização do SIM.</string>
   <string name="sim_location_error_notify_title">Erro no cartão SIM</string>
   <string name="sim_state_exception_summary">O Status do SIM indica que algo pode estar errado com seu cartão SIM.</string>
+  <string name="skin_change_close_btn_text">Definir como plano de fundo padrão</string>
+  <string name="skin_change_close_toast">As alterações serão aplicadas na próxima vez que o app for executado</string>
   <string name="sorted_button">Organizar por</string>
   <string name="sorted_dialog_title">Organizar por</string>
   <string name="sp_back_title_text_zero">Seguro</string>
@@ -1222,7 +1225,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="sp_settings_check_item_title_virus_exception">Exceções de vírus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Nenhum item</string>
-  <string name="sp_settings_group_title_check_item">Verificar múltiplas configurações</string>
+  <string name="sp_settings_group_title_check_item">Múltiplos itens</string>
   <string name="sp_settings_group_title_ime">Configurações de IME seguro</string>
   <string name="sp_settings_group_title_omit">Itens omitidos</string>
   <string name="sp_settings_info_input_method">Usar método de entrada do sistema em apps de pagamento</string>
@@ -1267,6 +1270,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="summary_garbage_lib">Usar as definições mais recentes para remover spyware, adware e outros tipos de lixo indesejado</string>
   <string name="summary_install_virus">Verifica apps por vírus antes de instalá-los</string>
   <string name="summary_live_talk_purchase">Economize 70% em suas chamadas</string>
+  <string name="summary_mifi_insurance">Obtenha o seguro e garanta 1 ano de substituição de seu dispositivo em caso de falha de hardware</string>
   <string name="summary_miui_update">Atualização disponível para %s.</string>
   <string name="summary_mms">Bloquear SMS de spam automaticamente</string>
   <string name="summary_network_switch">Permitir que o app Centro de Segurança conecte-se à internet</string>
@@ -1408,6 +1412,7 @@ Tenha certeza que você sabe de onde vem esse dispositivo, e entre em contato co
   <string name="title_install_virus_yes">Monitor de instalações ativado</string>
   <string name="title_limit_traffic_per_day">Limite diário de uso de dados</string>
   <string name="title_live_talk_purchase">Ativar pacote de recarga</string>
+  <string name="title_mifi_insurance">Garantia estendida</string>
   <string name="title_miui_update">Atualização disponível</string>
   <string name="title_mms_no">O filtro de mensagens está desativado</string>
   <string name="title_mms_yes">O filtro de mensagens está ativado</string>
@@ -1433,8 +1438,8 @@ Tenha certeza que você sabe de onde vem esse dispositivo, e entre em contato co
   <string name="title_virus_update_yes">Atualização automática do antivírus ativada</string>
   <string name="title_virus_yes">Nenhum vírus encontrado</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_add_virus_white_list_no_need_repeat">Esta exceção de vírus já existe</string>
-  <string name="toast_add_virus_white_list_success">Adicionado às Exceções. Veja os itens adicionados nas Configurações.</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">Esta exceção já existe</string>
+  <string name="toast_add_virus_white_list_success">Adicionado às exceções. Veja os itens nas configurações de segurança.</string>
   <string name="toast_auto_traffic_correct">Uso de dados ajustado automaticamente</string>
   <string name="toast_cleaner_cloudscan">A limpeza usará as definições online</string>
   <string name="toast_default_app">"%1$s definido como app padrão para %2$s"</string>
@@ -1547,7 +1552,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="virus_update_fail">"Não foi possível atualizar"</string>
   <string name="virus_update_success">Atualização bem-sucedida</string>
   <string name="virus_update_tips_title">Conectar-se ao Wi-Fi</string>
-  <string name="virus_wait_network_dialog_message">As atualizações são grandes. Conecte-se a uma rede Wi-Fi para fazer o download</string>
+  <string name="virus_wait_network_dialog_message">As atualizações são grandes. Conecte-se a uma rede Wi-Fi para fazer o download.</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Permitir que %1$s abra %2$s?</string>
   <string name="warning_open_mi_sim">Ativar Mi SIM</string>

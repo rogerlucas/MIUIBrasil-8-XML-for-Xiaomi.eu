@@ -8,6 +8,7 @@
   <string name="SD_SDCard_mounted">Detectar cartão SD</string>
   <string name="SD_SDCard_total_size">Tamanho total</string>
   <string name="SD_SDCard_unmounted">Cartão SD indisponível</string>
+  <string name="button_cancel">Cancelar</string>
   <string name="button_ok">OK</string>
   <string name="camerainfo">Informações da câmera</string>
   <string name="cit_OTG_plugin_check_summary">Quando um dispositivo OTG estiver conectado, o texto \"Dispositivo USB OTG detectado\" deverá ser exibido abaixo.</string>
@@ -76,6 +77,8 @@ Segure o telefone como se estivesse em uma ligação, e em seguida fale ao micro
   <string name="cit_audio_right_caldata">"Dados calibrados do Right PA:
 "</string>
   <string name="cit_audio_right_calfail">Falha na calibração do Right PA!</string>
+  <string name="cit_battery_check_summary">Estatísticas da bateria</string>
+  <string name="cit_battery_check_title">Informações da bateria</string>
   <string name="cit_battery_temp_fail">A temperatura da bateria está anormal (valor=%d)</string>
   <string name="cit_battery_temp_pass">A temperatura da bateria está normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -119,6 +122,8 @@ Segure o telefone como se estivesse em uma ligação, e em seguida fale ao micro
   <string name="cit_exit_test_title">Sair do teste</string>
   <string name="cit_fail">Reprovado</string>
   <string name="cit_finger_check_title">Teste de impressão digital (FPC)</string>
+  <string name="cit_flash_life_check_summary">Vida útil estimada da memória flash</string>
+  <string name="cit_flash_life_check_title">Vida útil da memória flash</string>
   <string name="cit_fm_audio_path">Configurar caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Fone de ouvido</string>
   <string name="cit_fm_audio_path_speaker">Alto-falante</string>
@@ -259,6 +264,8 @@ Após você inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na tela
   <string name="cit_sim_state_unkown">Desconhecido</string>
   <string name="cit_start_calibration">Calibrar</string>
   <string name="cit_stop_calibration">Parar calibração</string>
+  <string name="cit_tfcard_support_summary">Verifique se o cartão TF é suportado neste dispositivo</string>
+  <string name="cit_tfcard_support_title">Suporte a cartão TF</string>
   <string name="cit_tool">Ferramentas adicionais</string>
   <string name="cit_tool_bluetooth">Ferramenta de teste do Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entrar no modo de teste do Bluetooth</string>
@@ -287,6 +294,11 @@ Após você inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na tela
   <string name="cit_tool_log_toast_generate_bugreport">Criando relatório de bugs\u2026 (deve levar cerca de 1 minuto)</string>
   <string name="cit_tool_modem">Ferramentas de teste do modem</string>
   <string name="cit_tool_modem_bugreport">Forçar despejo de núcleo do modem</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Desativar CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Desativar CU VoLTE, reinicie para que a alteração tenha efeito.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Ativar CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Ativar o CU VoLTE, reinicie para que a alteração tenha efeito.</string>
   <string name="cit_tool_modem_exit_ftm">Sair do modo FTM</string>
   <string name="cit_tool_modem_mbn">Alterar configuração do Modem</string>
   <string name="cit_tool_modem_offline_log">Abrir/Fechar registro offline</string>

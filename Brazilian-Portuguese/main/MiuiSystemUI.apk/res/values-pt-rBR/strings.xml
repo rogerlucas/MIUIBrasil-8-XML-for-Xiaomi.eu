@@ -35,6 +35,12 @@
   <string name="accessibility_phone_three_bars">Três barras de sinal do telefone.</string>
   <string name="accessibility_phone_two_bars">Duas barras de sinal do telefone.</string>
   <string name="accessibility_recent">Apps recentes</string>
+  <string name="accessibility_recent_task_enter">Apps recentes abertos, apps disponíveis: %d.</string>
+  <string name="accessibility_recent_task_exit">Apps recentes fechados</string>
+  <string name="accessibility_recent_task_first_enter_tips">Apps recentes abertos, apps disponíveis: %d. Deslize para cima para remover, para baixo para bloquear.</string>
+  <string name="accessibility_recent_task_locked">Bloqueado, deslize para baixo para desbloquear.</string>
+  <string name="accessibility_recent_task_memory_info">Total de RAM: %2$s | RAM disponível: %1$s. Toque duas vezes para limpar.</string>
+  <string name="accessibility_recent_task_unlocked">Desbloqueado</string>
   <string name="accessibility_remove_notification">Limpar notificação.</string>
   <string name="accessibility_ringer_silent">Campainha silenciosa.</string>
   <string name="accessibility_ringer_vibrate">Vibração da campainha.</string>
@@ -144,6 +150,9 @@ Se você reativá-los, poderá receber cobranças da operadora."</string>
   <string name="disable_notification_summary">Ocultar notificações de apps</string>
   <string name="disable_notification_title">Ocultar notificações</string>
   <string name="dismount_storage">Não</string>
+  <string name="divider_menu_close">Fechar</string>
+  <string name="divider_menu_select_apps">Selecionar</string>
+  <string name="divider_menu_swap_task">Trocar</string>
   <string name="dlg_confirm_kill_storage_users_text">Se você ativar o armazenamento USB, alguns apps em uso serão encerrados e poderão ficar indisponíveis até você desativar o armazenamento USB novamente.</string>
   <string name="dlg_confirm_kill_storage_users_title">Ativar armazenamento USB</string>
   <string name="dlg_error_title">Falha na operação USB</string>
@@ -199,8 +208,10 @@ Use somente o carregador fornecido."</string>
   <string name="nav_guide_message">Use gestos para mostrar ou ocultar os botões virtuais.</string>
   <string name="nav_guide_ok">Configurar</string>
   <string name="nav_guide_title">Ocultar botões virtuais</string>
+  <string name="no_multi_window_app">Nenhum app que funcione com o modo multi-janelas</string>
   <string name="no_notification_tips">Nenhuma notificação.</string>
   <string name="no_weather_description">Obtenha informações de clima &gt;</string>
+  <string name="not_support_multi_window">"O app atual não suporta o modo multi-janelas"</string>
   <string name="notification_header_title">Notificações</string>
   <string name="notification_hidden_text">Conteúdo oculto</string>
   <string name="notification_manager">Gerenciar notificações</string>

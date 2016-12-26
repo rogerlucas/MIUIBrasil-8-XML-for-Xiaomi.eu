@@ -385,9 +385,10 @@ O administrador pode monitorar e gerenciar configurações, acesso, apps e dados
   <string name="block_list_connected_devices">Dispositivos conectados</string>
   <string name="block_list_diaglog_cancle">Cancelar</string>
   <string name="block_list_diaglog_ok">OK</string>
-  <string name="block_list_dialog_content">Esta ação desconectará \"%s\" deste dispositivo e adicionará-lo à lista de bloqueio</string>
   <string name="block_list_dialog_title">Desconectar agora?</string>
+  <string name="block_list_mtk_dialog_content">Esta ação desconectará o \"%s\" deste dispositivo</string>
   <string name="block_list_no_device">Nenhum dispositivo conectado na lista de bloqueio</string>
+  <string name="block_list_qcom_dialog_content">Esta ação desconectará \"%s\" deste dispositivo e o adicionará à lista de bloqueio</string>
   <string name="block_list_remove_dialog_content">O dispositivo \"%s\" será capaz de se conectar a este hostpot</string>
   <string name="block_list_remove_dialog_title">Remover \"%s\" da lista de bloqueio</string>
   <string name="block_list_summary">Veja dispositivos que não têm permissão para se conectar a este hotspot</string>
@@ -2062,6 +2063,11 @@ Selecione seu sistema operacional:"</string>
   <string name="onscreen_keyboard_settings_summary">Configurações do teclado virtual</string>
   <string name="open_miui_optimization_title">Ativar otimização MIUI</string>
   <string name="open_miui_optimization_warning_message">Seu dispositivo será reiniciado para aplicar esta alteração</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Fechar</string>
+  <string name="open_personal_assistant_dialog_desc">"Você não será capaz de usar o Assistente inteligente e receber suas atualizações. Desativar agora?"</string>
+  <string name="open_personal_assistant_dialog_title">Desativar Assistente inteligente</string>
+  <string name="open_personal_assistant_title">Ativar Assistente inteligente</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Conectar-se à rede aberta %1$s</string>
   <string name="optimization_cancel">Cancelar</string>
@@ -3203,6 +3209,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
   <string name="status_bar_settings">Notificações &amp; barra de status</string>
   <string name="status_bar_settings_advanced">Configurações adicionais</string>
   <string name="status_bar_settings_all_app_display_loading">Aguarde\u2026</string>
+  <string name="status_bar_settings_app_notification_preferences">Configurações do app</string>
   <string name="status_bar_settings_basic_settings">Configurações básicas</string>
   <string name="status_bar_settings_carrier_sim">"Cartão SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>

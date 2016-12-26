@@ -21,8 +21,8 @@
   <string name="activity_weathermain_locationg_error">"Não foi possível obter localização"</string>
   <string name="add_city">Adicionar</string>
   <string name="alert_warning">Alertas de clima</string>
-  <string name="already_voted">Já votado</string>
-  <string name="already_voted_toast">Você já votou hoje</string>
+  <string name="already_voted">Votado</string>
+  <string name="already_voted_toast">"Você já votou hoje"</string>
   <string name="app_name">Clima</string>
   <string name="aqi_data_source">Fornecido por Caiyun Weather</string>
   <string name="aqi_desc">Índice de Qualidade do Ar</string>
@@ -107,7 +107,7 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="network_unavailable">"Não foi possível conectar-se à rede."</string>
   <string name="no_network_btn">Repetir</string>
   <string name="no_vote_num">%1$s pessoas |&#160;</string>
-  <string name="no_vote_ratio">contra %1$s%%</string>
+  <string name="no_vote_ratio">Contra %1$s%%</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no Navegador</string>
   <string name="pressure_connect">%1$s mb</string>
@@ -148,5 +148,5 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="wind_miles_unit">%1$smi/h</string>
   <string name="wind_unit">%1$skm/h</string>
   <string name="yes_vote_num">\u0020| %1$s pessoas</string>
-  <string name="yes_vote_ratio">prós %1$s%%</string>
+  <string name="yes_vote_ratio">Por %1$s%%</string>
 </resources>

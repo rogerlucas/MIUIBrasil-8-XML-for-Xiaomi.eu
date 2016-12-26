@@ -625,6 +625,12 @@
     <item>1.5 segundos</item>
     <item>2 segundos</item>
   </string-array>
+  <string-array name="long_press_volume_down_action">
+    <item>Nenhuma ação</item>
+    <item>Captura rápida (foto)</item>
+    <item>Captura rápida (vídeo)</item>
+    <item>Atalhos de transporte público</item>
+  </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 segundo</item>
     <item>2 segundos</item>

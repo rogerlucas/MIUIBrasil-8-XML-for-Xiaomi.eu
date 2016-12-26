@@ -198,8 +198,8 @@
     <item quantity="one">"%s app não está protegido"</item>
   </plurals>
   <plurals name="section_clear_acc_item_right_tips">
-    <item quantity="other">%d apps bloqueados aguardando limpeza</item>
-    <item quantity="one">%d app bloqueado aguardando limpeza</item>
+    <item quantity="other">%d apps bloqueados aguardando para serem limpos</item>
+    <item quantity="one">%d app bloqueado aguardando para ser limpo</item>
   </plurals>
   <plurals name="section_security_defend_item_right_tips">
     <item quantity="other">%d vírus excluídos</item>

@@ -37,7 +37,6 @@
   <string name="call_contacts_deny_permission_msg">"A permissão de leitura de contatos foi negada, não é possível exibir as informações de contato."</string>
   <string name="call_description_recording">Gravando\u2026</string>
   <string name="call_extension_conference_mode">Modo de conferência</string>
-  <string name="call_record_button_label">Gravando %s</string>
   <string name="call_record_wait_label">Aguardando</string>
   <string name="call_recording_deny_permission_msg">"A permissão de gravação foi negada, não é possível gravar."</string>
   <string name="call_recording_error_low_storage">Espaço insuficiente no cartão SD.</string>

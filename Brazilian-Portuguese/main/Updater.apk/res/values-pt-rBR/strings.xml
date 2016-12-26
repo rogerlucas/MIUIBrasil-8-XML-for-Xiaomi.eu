@@ -105,7 +105,7 @@
   <string name="miui_summary_has_new_version">"Atualização disponível"</string>
   <string name="miui_summary_no_new_version">Nenhuma atualização disponível</string>
   <string name="miui_summary_now_version">"Não foi possível conectar-se à rede"</string>
-  <string name="miui_summary_slogan">Fansite oficial - www.miuirom.com.br</string>
+  <string name="miui_summary_slogan">translated by MIUIBrasil - miuirom.com.br</string>
   <string name="miui_summary_updating">"  Atualizando\u2026  "</string>
   <string name="monthly_build">Mensal</string>
   <string name="my_best_update">Melhor atualização</string>
@@ -117,8 +117,8 @@
   <string name="new_updates_found_notification_title">Atualização disponível</string>
   <string name="next">Avançar</string>
   <string name="no_log">Nenhum resumo disponível</string>
-  <string name="no_wifi_msg">"Usar sua conexão de dados móveis para transferir a atualização aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente."</string>
-  <string name="no_wifi_title">Alerta do uso de dados</string>
+  <string name="no_wifi_msg">Usar os dados móveis pode gerar taxas adicionais. Conecte-se a uma rede Wi-Fi para baixar as atualizações.</string>
+  <string name="no_wifi_title">Conectar-se à rede Wi-Fi</string>
   <string name="not_open">Não</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo atualizado automaticamente</string>
   <string name="notification_delay_update_button">Atualizar em 2 horas</string>

@@ -359,7 +359,7 @@ Sair desta página?"</string>
   <string name="media_error_action_replace_video_source">"Não foi possível alterar a fonte"</string>
   <string name="media_error_failure">"Não foi possível reproduzir o vídeo"</string>
   <string name="media_error_format">"Formato de vídeo não suportado"</string>
-  <string name="media_error_network_unreachable">Rede inacessível</string>
+  <string name="media_error_network_unreachable">"Não foi possível conectar-se à rede"</string>
   <string name="media_error_nomemory">Memória insuficiente</string>
   <string name="media_error_source">"Não foi possível encontrar a fonte"</string>
   <string name="media_error_timeout">Tempo limite de conexão atingido</string>

@@ -157,9 +157,9 @@ http://www.miliao.com
   <string name="notif_restore_content">Restaurando dados</string>
   <string name="notif_restore_title">Restaurar dados</string>
   <string name="notif_trans_receiving_completed">Dados recebidos com sucesso</string>
-  <string name="notif_trans_receiving_failed">Falha ao receber arquivos</string>
+  <string name="notif_trans_receiving_failed">"Não foi possível receber os dados"</string>
   <string name="notif_trans_sending_completed">Dados enviados com sucesso</string>
-  <string name="notif_trans_sending_failed">Falha ao enviar arquivos</string>
+  <string name="notif_trans_sending_failed">"Não foi possível enviar os dados"</string>
   <string name="page_loading">Aguarde\u2026</string>
   <string name="progress_backup_hint">Fazendo backup\u2026</string>
   <string name="progress_restore_hint">Restaurando\u2026</string>

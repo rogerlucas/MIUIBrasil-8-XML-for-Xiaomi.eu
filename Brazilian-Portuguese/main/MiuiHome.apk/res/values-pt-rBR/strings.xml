@@ -44,10 +44,10 @@
   <string name="cant_remove_retained_app">"Não foi possível remover este app"</string>
   <string name="cant_remove_system_app">"Não é possível remover um app de sistema"</string>
   <string name="change_wallpaper">Alterar</string>
-  <string name="children_folder_title">Crianças</string>
+  <string name="children_folder_title">Modo criança</string>
   <string name="children_mode_exit">Sair</string>
-  <string name="children_mode_tips_message">Nenhum app no Modo Criança. Por favor selecione alguns apps.</string>
-  <string name="children_mode_tips_title">Por favor selecione alguns apps</string>
+  <string name="children_mode_tips_message">Nenhum app no Modo criança. Selecione apps que você deseja adicionar.</string>
+  <string name="children_mode_tips_title">Selecionar apps</string>
   <string name="choose_wallpaper">Escolher plano de fundo</string>
   <string name="chooser_wallpaper">Escolha um novo plano de fundo</string>
   <string name="cloud_app_restore_title">Pendente</string>
@@ -147,7 +147,7 @@
   <string name="invalid_contact_shortcut">Contato inválido</string>
   <string name="is_setting_wallpaper_message">Definindo plano de fundo\u2026</string>
   <string name="is_system_wallpaper_message">"Não é possível excluir um recurso de sistema"</string>
-  <string name="launcher_not_exist">O Launcher parou. Retorne à Tela inicial e tente novamente.</string>
+  <string name="launcher_not_exist">Ocorreu um erro, volte para a Tela inicial e tente novamente.</string>
   <string name="like">Favorito</string>
   <string name="liked">Adicionado aos Favoritos</string>
   <string name="loading_desktop">Aguarde\u2026</string>
@@ -214,6 +214,7 @@
   <string name="recommend_apps_switch_title">Apps recomendados</string>
   <string name="recommend_apps_tips">"Este recurso precisa de uma conexão com a internet para funcionar normalmente. Para desativar este recurso, toque no nome da pasta."</string>
   <string name="reset_scene_prompt">A tela será restaurada para o layout padrão.</string>
+  <string name="screen_locked_toast">Layout da Tela inicial bloqueado</string>
   <string name="screen_number">Tela %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">página %1$d, %2$d apps</string>
   <string name="select_all">Selecionar tudo</string>
