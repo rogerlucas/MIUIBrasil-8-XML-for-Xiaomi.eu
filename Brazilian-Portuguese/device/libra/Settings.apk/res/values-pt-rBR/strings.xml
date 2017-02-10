@@ -4502,7 +4502,6 @@ Toque no + para adicionar palavras."</string>
   <string name="wait_for_debugger_summary">App depurado espera conexão com debugger antes de ser executado.</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar a tela para notificações</string>
   <string name="wallpaper_attributions">Planos de fundo</string>
-  <string name="wallpaper_attributions_values">Provedores de imagens de satélite:\n©2014 CNES / Astrium, DigitalGlobe, Bluesky</string>
   <string name="wallpaper_desktop">Tela inicial</string>
   <string name="wallpaper_live">Planos de fundo animados</string>
   <string name="wallpaper_lockscreen">Tela de bloqueio</string>

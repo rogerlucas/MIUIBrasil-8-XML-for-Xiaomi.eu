@@ -217,13 +217,6 @@
     <item>Grande</item>
     <item>Enorme</item>
   </string-array>
-  <string-array name="wifi_security_no_eap">
-    <item>@string/wifi_security_none</item>
-    <item>@string/wifi_security_wep</item>
-    <item>@string/wifi_security_psk_generic</item>
-    <item>WAPI PSK</item>
-    <item>WAPI CERT</item>
-  </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Botão WPS Push</item>
     <item>PIN do dispositivo pareado</item>

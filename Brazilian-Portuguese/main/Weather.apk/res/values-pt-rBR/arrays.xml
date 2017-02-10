@@ -79,6 +79,14 @@
     <item>O</item>
     <item>NO</item>
   </string-array>
+  <string-array name="aqi_value">
+    <item>Boa</item>
+    <item>Satisfatória</item>
+    <item>Moderadamente poluído</item>
+    <item>Ruim</item>
+    <item>Muito ruim</item>
+    <item>Péssima</item>
+  </string-array>
   <string-array name="wind_unit_detail">
     <item>Escala de Beaufort</item>
     <item>Quilômetros por hora (km/h)</item>

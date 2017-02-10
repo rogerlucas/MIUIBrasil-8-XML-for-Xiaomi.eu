@@ -96,13 +96,6 @@
     <item>Alto</item>
     <item>Muito alto</item>
   </string-array>
-  <string-array name="wifi_security_no_eap">
-    <item>@string/wifi_security_none</item>
-    <item>@string/wifi_security_wep</item>
-    <item>@string/wifi_security_psk_generic</item>
-    <item>WAPI PSK</item>
-    <item>WAPI CERT</item>
-  </string-array>
   <string-array name="wifi_eap_method">
     <item>PEAP</item>
     <item>TLS</item>
