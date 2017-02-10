@@ -39,72 +39,18 @@
     <item>Personalizado</item>
   </string-array>
   <string-array name="app_ops_labels">
-    <item>Tentando acessar sua localização</item>
-    <item>Tentando acessar sua localização</item>
-    <item>Tentando acessar sua localização</item>
-    <item>Tentando usar a vibração</item>
-    <item>Tentando ler seus contatos</item>
-    <item>Tentando escrever nos contatos</item>
-    <item>Tentando ler o registro de chamadas</item>
-    <item>Tentando escrever no registro de chamadas</item>
-    <item>Tentando ler a agenda</item>
-    <item>Tentando modificar a agenda</item>
-    <item>Tentando acessar sua localização</item>
-    <item>Tentando postar uma notificação</item>
-    <item>Tentando acessar sua localização</item>
-    <item>Tentando fazer uma ligação</item>
-    <item>Tentando ler seus SMS</item>
-    <item>Tentando escrever/modificar seus SMS</item>
-    <item>Tentando receber SMS</item>
-    <item>Tentando receber SMS emergencial</item>
-    <item>Tentando receber MMS</item>
-    <item>Tentando receber WAP push</item>
-    <item>Tentando enviar SMS</item>
-    <item>Tentando ler seus SMS ICC</item>
-    <item>Tentando escrever/modificar seus SMS ICC</item>
-    <item>Tentando modificar as configurações</item>
-    <item>Tentando desenhar na superfície</item>
-    <item>Tentando acessar as notificações</item>
-    <item>Tentando acessar a câmera</item>
-    <item>Tentando gravar áudio</item>
-    <item>Tentar reproduzir áudio</item>
-    <item>Tentando ler a área de transferência</item>
-    <item>Tentando modificar a área de transferência</item>
-    <item>Tentando usar botões de mídia</item>
-    <item>Tentando usar o foco por áudio</item>
-    <item>Tentando usar o volume principal</item>
-    <item>Tentando usar o volume de voz</item>
-    <item>Tentando usar o volume do toque</item>
-    <item>Tentando usar o volume de mídia</item>
-    <item>Tentando usar o volume do alarme</item>
-    <item>Tentando usar o volume de notificações</item>
-    <item>Tentando usar o volume do bluetooth</item>
-    <item>Tentando manter o dispositivo ativo</item>
-    <item>Tentando acessar sua localização</item>
-    <item>Tentando acessar sua localização</item>
-    <item>Tentando obter estatísticas de uso</item>
-    <item>Tentando silenciar o microfone</item>
-    <item>Tentando exibir notificação toast</item>
-    <item>Tentando projetar mídia</item>
-    <item>Tentando ativar o VPN</item>
-    <item>Tentando ativar/desativar o Wi-Fi</item>
-    <item>Tentando ativar/desativar o Bluetooth</item>
-    <item>Tentando enviar MMS</item>
-    <item>Tentando ler MMS</item>
-    <item>Tentando escrever MMS</item>
-    <item>Tentando abrir na inicialização</item>
-    <item>Tentando ativar/desativar o NFC</item>
-    <item>Tentando excluir SMS</item>
-    <item>Tentando excluir MMS</item>
-    <item>Tentando excluir contatos</item>
-    <item>Tentando excluir o registro de chamadas</item>
-    <item>Tentando ativar os dados móveis</item>
+    <item>Tentando ativar o Wi-Fi</item>
+    <item>Tentando ativar o Bluetooth</item>
   </string-array>
-  <string-array name="imAddressTypes">
-    <item>Residencial</item>
-    <item>Comercial</item>
-    <item>Outros</item>
-    <item>Personalizado</item>
+  <string-array name="wfcOperatorErrorAlertMessages">
+    <item>Para fazer chamadas e enviar mensagens por Wi-Fi, peça primeiro à sua operadora para configurar este serviço. Depois, ative novamente as chamadas por Wi-Fi nas configurações.</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorNotificationMessages">
+    <item>Registre-se com sua operadora</item>
+  </string-array>
+  <string-array name="wfcSpnFormats">
+    <item>%s</item>
+    <item>Chamada Wi-Fi de %s</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Tente novamente</item>
@@ -126,5 +72,11 @@
     <item>Mantenha seu dedo no leitor por mais tempo</item>
     <item>""</item>
     <item>""</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Residencial</item>
+    <item>Comercial</item>
+    <item>Outros</item>
+    <item>Personalizado</item>
   </string-array>
 </resources>

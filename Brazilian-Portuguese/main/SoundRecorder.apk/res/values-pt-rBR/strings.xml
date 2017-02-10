@@ -27,7 +27,6 @@
   <string name="details">Detalhes</string>
   <string name="dialog_content_storage_full">"A gravação foi interrompida devido à falta de espaço no armazenamento interno de seu dispositivo."</string>
   <string name="dialog_title_storage_full">Espaço insuficiente</string>
-  <string name="duration_format_hour">%sh</string>
   <string name="empty_recognition_tip">Vazio</string>
   <string name="error_app_internal">Verifique se outro app está utilizando a função de gravação.</string>
   <string name="error_app_internal_title">Erro no gravador de som</string>
@@ -38,6 +37,9 @@
   <string name="error_sdcard_unmounted">Insira o cartão SD agora</string>
   <string name="export_to_note">Exportar para Anotações</string>
   <string name="invalid_argument">Argumento inválido</string>
+  <string name="keywords_search_call_record">Gravar chamadas;Gravar chamada;Gravação de chamada;Gravação de chamadas</string>
+  <string name="keywords_search_record">Nova gravação;Adicionar gravação;Gravação;Gravações;Transcrição;Transcrições;Gravador;Gravador de voz;Gravador de som;App de gravação;Como gravar áudio;Como gravar som;Onde está o gravador;Gravador MIUI</string>
+  <string name="keywords_search_record_list">Gravador;Transcrição;Transcrições;Gravar;Compartilhar gravação;Compartilhar gravações;Gravação;Gravações</string>
   <string name="low_battery_error">"Menos de 5% de bateria restante. Pare e salve a gravação para garantir que ela não seja perdida."</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Bateria fraca</string>
@@ -81,6 +83,7 @@
   <string name="recognition_error_internal">Erro interno</string>
   <string name="recognition_error_stopped">Reconhecimento parado</string>
   <string name="recognition_status_downloading">Fazendo download</string>
+  <string name="record">Gravar</string>
   <string name="record_back_pressed_hint">Para interromper a gravação, pressione Voltar novamente</string>
   <string name="record_download">Transferir da Mi Cloud</string>
   <string name="record_download_complete">Transferido</string>

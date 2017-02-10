@@ -44,7 +44,7 @@
   <string name="fp_nav_center_action_choose_dlg_msg">Você pode retornar para a sua Tela inicial ao tocar no botão Início. Basta acessar Configurações &gt; Configurações adicionais &gt; Botões e ativar o Toque para Tela inicial.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ir a Configurações</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Toque para Tela inicial</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Toque rápido para tela inicial</string>
   <string name="frequent_phrases">Frases frequentes</string>
   <string name="global_actions_airplane_mode">Modo avião</string>
   <string name="global_actions_reboot">Reiniciar</string>

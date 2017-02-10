@@ -97,7 +97,7 @@
   <string name="lockscreen_wallpaper">Tela de bloqueio</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
   <string name="mi_wallpaper">Fundos do MIUI</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">O som de chamada é aplicado para os dois cartões SIM.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Toque aplicado para os dois cartões SIM.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">OK</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Não mostrar novamente"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>

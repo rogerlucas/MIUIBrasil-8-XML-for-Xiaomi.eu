@@ -170,6 +170,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="auto_task_notify_task_cancel_count_down">A ação automatizada será cancelada em 5 segundos</string>
   <string name="auto_task_notify_task_cancel_do">Cancelar ação</string>
   <string name="auto_task_notify_task_canceled_summary">Você pode efetuar e receber chamadas</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Parece que você está jogando agora."</string>
   <string name="auto_task_notify_task_canceled_title">Ação cancelada</string>
   <string name="auto_task_notify_task_continue_do">Iniciar ação</string>
   <string name="auto_task_notify_task_count_down">A ação automatizada começará em 5 segundos</string>
@@ -316,6 +317,8 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="card_main_deepclean_title">Limpeza profunda</string>
   <string name="card_main_gamebooster_summary">Otimização completa para jogos</string>
   <string name="card_main_gamebooster_title">Otimizar velocidade em jogos</string>
+  <string name="card_main_hbassistant_summary">Use esta ferramenta para pegar os envelopes mais rápido</string>
+  <string name="card_main_hbassistant_title">Assistente de envelope vermelho</string>
   <string name="card_main_monthreport_action">Ver</string>
   <string name="card_main_monthreport_summary">Ver relatórios mensais</string>
   <string name="card_main_monthreport_title">Estatísticas de segurança</string>
@@ -566,7 +569,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular hoje</string>
   <string name="info_and_call">Chamadas e mensagens</string>
-  <string name="information_setting">Configuração do feed de notícias</string>
+  <string name="information_setting">Recomendações</string>
   <string name="input_aviable_traffic">Definir limite de dados</string>
   <string name="input_traffic_pkg">Insira o limite de dados</string>
   <string name="input_used_hint">Inserir limite de dados</string>
@@ -612,7 +615,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="legal_workday_message">(Pular feriados)</string>
   <string name="list_empty_text">Vazio</string>
   <string name="load_fail">"Não foi possível carregar"</string>
-  <string name="load_only_under_wlan">Carregar notícias quando conectado ao Wi-Fi</string>
+  <string name="load_only_under_wlan">Carregar somente por Wi-Fi</string>
   <string name="local_ip_exception_summary">"Não foi possível obter o endereço de IP local. Para relatar este erro aos desenvolvedores do MIUI, vá para o app Relatar Erro e envie um registro de seu dispositivo."</string>
   <string name="lock_mode_title">Configurações de bloqueio</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s usado(s) na tela de bloqueio</string>
@@ -887,7 +890,6 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="permit_running_network">Dados em seg. plano</string>
   <string name="person_hotpot">Pontos de acesso portáteis</string>
   <string name="pkg_traffic">Definir limite de dados</string>
-  <string name="please_continue_keep">Manter</string>
   <string name="pm_auto_start_by_other">Início desencadeado</string>
   <string name="pm_auto_start_by_other_app">Permitir que o app seja iniciado por outros apps</string>
   <string name="pm_auto_start_by_system">Iniciar apps</string>
@@ -1071,7 +1073,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="recently_reject_message">Instalação de %1$s e %2$d outros apps rejeitada</string>
   <string name="recently_reject_message_one">%1$s solicitações de instalação rejeitadas</string>
   <string name="recommend_app">Apps recomendados</string>
-  <string name="recommend_news">Fontes recomendadas</string>
+  <string name="recommend_news">Receber recomendações</string>
   <string name="recommended">Destaque</string>
   <string name="reject_all">Restringir tudo</string>
   <string name="reject_countdown">Negar (%d)</string>
@@ -1186,6 +1188,7 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="showpattern">Mostrar padrão</string>
   <string name="shutdown_cancel_reminder">"Não desligar"</string>
   <string name="shutdown_cancel_reminder_detail">"O dispositivo não foi desligado porque você estava em uma chamada"</string>
+  <string name="shutdown_cancel_reminder_detail2">"Parece que você está jogando agora. O desligamento programado foi cancelado."</string>
   <string name="shutdown_time">Desligar: %1$s</string>
   <string name="shutdown_time_day">Desligar: %2$s %1$dd</string>
   <string name="shutdown_time_day_tomorrow">Desligar: %1$s</string>
@@ -1515,6 +1518,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="traffic_setting_open">Ativado</string>
   <string name="traffic_setting_step_num">Configurações do plano de dados</string>
   <string name="traffic_warning_purchase_title">Alerta do uso de dados móveis</string>
+  <string name="try_recommended_function">Proteja o seu dispositivo usando os novos recursos de segurança</string>
   <string name="unable_connect_internet">Sem conexão com a internet</string>
   <string name="uninstall_app_dialog_msg">A desinstalação removerá todos os dados do app.</string>
   <string name="uninstall_app_dialog_title">Desinstalar agora?</string>

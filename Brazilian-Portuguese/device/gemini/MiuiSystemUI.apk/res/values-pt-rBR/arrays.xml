@@ -41,22 +41,22 @@
   </string-array>
   <string-array name="select_logd_size_titles">
     <item>Desativado</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>4M</item>
-    <item>16M</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
+    <item>4MB</item>
+    <item>16MB</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
-    <item>Off</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
+    <item>Desativado</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desativado</item>
-    <item>64K por buffer de log</item>
-    <item>256K por buffer de log</item>
+    <item>64KB por buffer de log</item>
+    <item>256KB por buffer de log</item>
     <item>1MB por buffer de log</item>
     <item>4MB por buffer de log</item>
     <item>16MB por buffer de log</item>
@@ -130,6 +130,14 @@
     <item>No máximo 2 processos</item>
     <item>No máximo 3 processos</item>
     <item>No máximo 4 processos</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Carregando</item>
+    <item>MTP (Media Transfer Protocol)</item>
+    <item>PTP (Picture Transfer Protocol)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Fonte de Áudio</item>
+    <item>MIDI</item>
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Muito devagar</item>

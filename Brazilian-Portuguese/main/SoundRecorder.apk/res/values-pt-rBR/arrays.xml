@@ -21,10 +21,16 @@
     <item>HD</item>
   </string-array>
   <string-array name="record_scenes_summaries">
-    <item>Gravação através de 2 canais para ouvir com fones de ouvido</item>
-    <item>"Mova o microfone próximo à fonte de som para melhor qualidade"</item>
-    <item>Coloque o telefone entre duas pessoas para gravá-los com clareza</item>
-    <item>A tecnologia HDR permite que o microfone capture sons mais detalhadosV</item>
+    <item>Gravar músicas com melhor qualidade</item>
+    <item>Mova o microfone para mais perto da fonte do som para uma melhor qualidade</item>
+    <item>Coloque o telefone entre 2 pessoas para gravar suas conversas claramente</item>
+    <item>A tecnologia HDR permite que o microfone capture sons mais detalhados</item>
+  </string-array>
+  <string-array name="record_scenes_summaries_stereo">
+    <item>Gravar usando 2 canais para ouvir as gravações em modo estéreo</item>
+    <item>Mova o microfone para mais perto da fonte do som para uma melhor qualidade</item>
+    <item>Coloque o telefone entre 2 pessoas para gravar suas conversas claramente</item>
+    <item>A tecnologia HDR permite que o microfone capture sons mais detalhados</item>
   </string-array>
   <string-array name="record_quality_entries">
     <item>Alta</item>

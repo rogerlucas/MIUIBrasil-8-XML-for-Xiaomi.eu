@@ -120,7 +120,7 @@
   <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
  !!Atenção!! Isso limpará todos os seus dados.
  Esse recurso é alfa e pode não funcionar corretamente.
- Pressione \"Limpar e converter...\" para continuar."</string>
+ Pressione \"Limpar e converter\u2026\" para continuar."</string>
   <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
   <string name="convert_to_file_encryption_done">Já criptografado com base em arquivos</string>
   <string name="convert_to_file_encryption_enabled">Converter\u2026</string>
@@ -212,10 +212,12 @@
   <string name="install_failed_incompatible">"Este app não é compatível com seu telefone."</string>
   <string name="install_failed_invalid_apk">Parece que o pacote está corrompido.</string>
   <string name="install_failed_msg">"Não foi possível instalar o %1$s neste dispositivo."</string>
-  <string name="installing">Instalando...</string>
+  <string name="installing">Instalando\u2026</string>
   <string name="keep_screen_on">Permanecer ativo</string>
   <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando</string>
   <string name="launch">Abrir</string>
+  <string name="launch_defaults_none">Nenhum padrão definido</string>
+  <string name="launch_defaults_some">Alguns padrões definidos</string>
   <string name="lb_guidedaction_continue_title">Continuar</string>
   <string name="lb_guidedaction_finish_title">Concluir</string>
   <string name="lb_navigation_menu_contentDescription">Menu de Navegação</string>
@@ -321,6 +323,7 @@
   <string name="screen_overlay_message">Para alterar a configuração dessa permissão, você deve primeiro desativar a sobreposição de tela em \"Config.\" &gt; \"Apps\"</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
   <string name="screen_zoom_summary_custom">Personalizada (%d)</string>
+  <string name="screen_zoom_summary_default">Padrão</string>
   <string name="screen_zoom_summary_extremely_large">Enorme</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequeno</string>
@@ -361,6 +364,13 @@
   <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivos</string>
   <string name="track_frame_time">Classific. render. GPU</string>
   <string name="transition_animation_scale_title">Escala anim. de transição</string>
+  <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
+  <string name="tts_default_lang_title">Idioma</string>
+  <string name="tts_default_pitch_summary">Afeta o tom da voz sintetizada</string>
+  <string name="tts_default_pitch_title">Frequência do som</string>
+  <string name="tts_default_rate_summary">Velocidade em que o texto é falado</string>
+  <string name="tts_default_rate_title">Taxa de fala</string>
+  <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz</string>
   <string name="tts_engine_network_required">Este idioma requer uma conexão de rede ativa para a conversão de texto em voz.</string>
   <string name="tts_engine_preference_section_title">Mecanismo preferencial</string>
   <string name="tts_engine_security_warning">Este mecanismo de síntese de fala pode coletar todo texto que será falado, inclusive dados pessoais como senhas e números de cartão de crédito. Ele é proveniente do mecanismo %s. Deseja ativar o uso desse mecanismo de síntese de fala?</string>
@@ -398,7 +408,7 @@
   <string name="uninstall_update_text">Deseja substituir este app pela versão de fábrica?</string>
   <string name="uninstall_update_text_multiuser">Substituir este app com a versão de fábrica? Todos os dados serão removidos. Isto afetará todos os usuários neste dispositivo, incluindo perfis de trabalho.</string>
   <string name="uninstall_update_title">Desinstalar atualização</string>
-  <string name="uninstalling">Desinstalando...</string>
+  <string name="uninstalling">Desinstalando\u2026</string>
   <string name="unknown">Desconhecido</string>
   <string name="unknown_apps_admin_dlg_text">"Seu administrador não permite a instalação de apps baixados de fontes desconhecidas."</string>
   <string name="unknown_apps_dlg_text">Por segurança, o telefone está config. p/ bloquear a instalação de aplicat. de fontes desconhecidas.</string>
@@ -429,7 +439,17 @@
   <string name="wifi_no_internet">"Nenhum acesso à internet detectado, não reconectando automaticamente."</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_remembered">Salva</string>
+  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Nenhum</string>
+  <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_wep">WEP</string>
+  <string name="wifi_security_short_wpa">WPA</string>
+  <string name="wifi_security_short_wpa2">WPA2</string>
+  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+  <string name="wifi_security_wep">WEP</string>
+  <string name="wifi_security_wpa">WPA PSK</string>
+  <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">Ativar registro extenso de Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Aumentar o nível de registro do Wi-Fi; mostrar conforme o RSSI de SSID na Seleção de Wi-Fi</string>

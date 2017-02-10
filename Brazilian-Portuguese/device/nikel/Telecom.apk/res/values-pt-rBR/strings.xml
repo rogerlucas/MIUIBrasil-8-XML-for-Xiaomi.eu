@@ -12,7 +12,7 @@
   <string name="callFailed_dialToUssd">Pedido de DISCAGEM modificado para requisição USSD.</string>
   <string name="callFailed_dsac_restricted">Chamadas restringidas pelo controle de acesso.</string>
   <string name="callFailed_dsac_restricted_emergency">Chamadas de emergência restringidas pelo controlo de acesso.</string>
-  <string name="callFailed_dsac_restricted_normal">Chamadas normais restringidas pelo controle de acesso.</string>
+  <string name="callFailed_dsac_restricted_normal">Chamadas normais restringidas pelo controlo de acesso.</string>
   <string name="callFailed_fdn_only">As chamadas efetuadas são restritas por FDN.</string>
   <string name="callFailed_invalid_credentials">Nome de usuário ou senha incorretos</string>
   <string name="callFailed_limitExceeded">Limite de ACM excedido</string>
@@ -22,9 +22,9 @@
   <string name="callFailed_outOfService">Rede móvel indisponível</string>
   <string name="callFailed_out_of_network">Chamada de fora da rede</string>
   <string name="callFailed_powerOff">Rádio desativado</string>
-  <string name="callFailed_server_error">Erro do servidor. Tente novamente mais tarde.</string>
+  <string name="callFailed_server_error">Erro no servidor. Tente novamente mais tarde.</string>
   <string name="callFailed_server_unreachable">Servidos inacessível</string>
-  <string name="callFailed_simError">Sem cartão SIM ou erro do cartão</string>
+  <string name="callFailed_simError">Sem SIM ou erro de SIM</string>
   <string name="callFailed_timedOut">Sem resposta, tempo excedido</string>
   <string name="callFailed_unobtainable_number">Número inválido</string>
   <string name="callFailed_userBusy">Linha ocupada</string>
@@ -39,6 +39,7 @@
   <string name="confirm_device_info_full">O cartão SD está sem espaço, a gravação foi salva.</string>
   <string name="confirm_save_info_saved">A gravação foi salva</string>
   <string name="confirm_save_info_saved_to">A gravação foi salva em</string>
+  <string name="default_notification_description">Som padrão (%1$s)</string>
   <string name="description_dialpad_overflow">Mais opções</string>
   <string name="dial_conference_fail_prompt">"Não é possível discar diretamente para a conferência pois a rede atual não suporta VoLTE."</string>
   <string name="dial_vt_fail_prompt">"A rede atual não suporta VoLTE. Alternar para chamada de voz normal?"</string>

@@ -211,7 +211,7 @@
 entre todos os seus dispositivos com o Xunlei"</string>
   <string name="notify_disabled_net_by_app">Acesso à internet restrito</string>
   <string name="notify_not_support">"Estas notificações não são suportadas, atualize agora"</string>
-  <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
+  <string name="notify_only_wifi_download">Aguardando rede Wi-Fi</string>
   <string name="one_month">1 mês</string>
   <string name="only_support_torrent">Somente arquivos torrent são suportados</string>
   <string name="open">Abrir</string>
@@ -384,7 +384,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
   <string name="title_homepage_infoflow">Atualizações recentes</string>
   <string name="title_tips">Atenção</string>
   <string name="title_unbind_xunlei">Remover sua Conta Xunlei</string>
-  <string name="toast_only_wifi_download">Conecte-se a uma rede Wi-Fi para fazer o download desse item</string>
+  <string name="toast_only_wifi_download">Conecte-se ao Wi-Fi para fazer o download deste item</string>
   <string name="toast_xunlei_engine_open">Acelerador Xunlei ativado</string>
   <string name="torrent_file_error">"Não foi possível analisar este arquivo torrent"</string>
   <string name="torrent_no_subfile">Nenhum sub-arquivo neste torrent</string>

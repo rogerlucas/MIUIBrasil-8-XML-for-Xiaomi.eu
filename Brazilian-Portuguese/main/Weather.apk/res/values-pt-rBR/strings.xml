@@ -24,7 +24,7 @@
   <string name="already_voted">Votado</string>
   <string name="already_voted_toast">"Você já votou hoje"</string>
   <string name="app_name">Clima</string>
-  <string name="aqi_data_source">Fornecido por Caiyun Weather</string>
+  <string name="aqi_data_source">fornecido por Colorful Clouds</string>
   <string name="aqi_desc">Índice de Qualidade do Ar</string>
   <string name="aqi_detail_24_hours">Previsão por hora</string>
   <string name="aqi_detail_5_days">Previsão por dia</string>
@@ -52,16 +52,18 @@
   <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde\u2026</string>
+  <string name="connect_fail">A conexão de rede está instável. Tente novamente mais tarde.</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Previsão para %1$s dias</string>
-  <string name="daily_forcast_no_stable_direction">Sem ventos</string>
-  <string name="daily_forcast_no_wind">Sem ventos</string>
+  <string name="daily_forcast_no_stable_direction">Brisa</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mi/h</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s depois.</string>
   <string name="daily_forcast_whirl_wind">Furacão</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
   <string name="daily_forecast_detail">Detalhes da previsão</string>
   <string name="daily_forecast_detail_date">d/M</string>
+  <string name="daily_forecast_no_data">"Falha ao obter os dados
+puxe para baixo manualmente para atualizar ou verifique a conexão de rede"</string>
   <string name="edit_alert_city_title">Gerenciar alertas</string>
   <string name="edit_city">Editar cidade</string>
   <string name="first_start_network_msg">Este app precisa de uma conexão com a internet e de acesso à sua localização para funcionar normalmente.</string>
@@ -85,6 +87,7 @@
   <string name="indices_title_sport">Esportes</string>
   <string name="indices_title_uv">Índice UV</string>
   <string name="indices_title_visibility">Visibilidade</string>
+  <string name="information_manager_extension">Extensão de clima</string>
   <string name="information_manager_information">Info. de clima</string>
   <string name="information_manager_wlan">Carregar quando conectado por Wi-Fi</string>
   <string name="information_set">Configurações da página inicial</string>
@@ -110,12 +113,17 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="no_vote_ratio">Contra %1$s%%</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no Navegador</string>
+  <string name="other">Outros</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Índice de Qualidade do Ar</string>
+  <string name="realtime_cityname_default">Localização</string>
   <string name="realtime_humidity_title">Umidade relativa</string>
+  <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Vento</string>
   <string name="refresh_fail">"Não foi possível conectar-se à rede"</string>
   <string name="retry">Repetir</string>
+  <string name="search_weather">Clima</string>
+  <string name="search_weather_keywords">Temperatura;Previsão do tempo;Clima;Qualidade do ar;Nível de poluição;Umidade</string>
   <string name="set">Configurações</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
@@ -145,6 +153,7 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="view_indexes_item_today">Hoje</string>
   <string name="view_indexes_item_tommorrow">Amanhã</string>
   <string name="weather_alert">Alertas de clima</string>
+  <string name="wind_direction_no_data">Vento</string>
   <string name="wind_miles_unit">%1$smi/h</string>
   <string name="wind_unit">%1$skm/h</string>
   <string name="yes_vote_num">\u0020| %1$s pessoas</string>

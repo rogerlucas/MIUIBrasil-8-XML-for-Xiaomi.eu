@@ -30,6 +30,24 @@
     <item>Segunda a Sexta</item>
     <item>Personalizado</item>
   </string-array>
+  <string-array name="aqi_value">
+    <item>Boa</item>
+    <item>Satisfatória</item>
+    <item>Moderadamente poluído</item>
+    <item>Ruim</item>
+    <item>Muito ruim</item>
+    <item>Péssima</item>
+  </string-array>
+  <string-array name="weather_tips_value">
+    <item>Reduza atividades ao ar livre</item>
+    <item>Preste atenção para não escorregar</item>
+    <item>Trovoadas podem ocorrer, viaje com cuidado</item>
+    <item>Neblina forte, use uma máscara</item>
+    <item>Leve um guarda-chuvas ao sair</item>
+    <item>Preste atenção na estrada</item>
+    <item>Tempestade de areia, use uma máscara</item>
+    <item>Tenha um ótimo dia</item>
+  </string-array>
   <string-array name="alarm_set">
     <item>O alarme irá disparar em menos de 1 minuto.</item>
     <item>O alarme irá disparar em %1$s.</item>

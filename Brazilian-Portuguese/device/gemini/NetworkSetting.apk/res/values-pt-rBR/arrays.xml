@@ -13,6 +13,11 @@
     <item>CMCC</item>
     <item>Pesquisando por Serviço</item>
   </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item>Global</item>
+    <item>LTE / CDMA</item>
+    <item>LTE / GSM / UMTS</item>
+  </string-array>
   <string-array name="preferred_network_mode_gsm_wcdma_choices">
     <item>Somente GSM</item>
     <item>Somente WCDMA</item>

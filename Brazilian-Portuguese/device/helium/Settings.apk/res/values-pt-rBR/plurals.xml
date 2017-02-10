@@ -13,6 +13,10 @@
     <item quantity="other">Faltam %1$d etapas para você se tornar um desenvolvedor.</item>
     <item quantity="one">Falta %1$d etapa para você se tornar um desenvolvedor.</item>
   </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="other">Remover os idiomas selecionados?</item>
+    <item quantity="one">Remover o idioma selecionado?</item>
+  </plurals>
   <plurals name="security_settings_fingerprint_preference_summary">
     <item quantity="other">%1$d impressões digitais configuradas</item>
     <item quantity="one">%1$d impressão digital configurada</item>
@@ -44,6 +48,58 @@
   <plurals name="wrong_pin_code">
     <item quantity="other">Código PIN do SIM incorreto, você tem %d tentativas restantes.</item>
     <item quantity="one">Código PIN incorreto, você tem %d tentativa restante antes de entrar em contato com a operadora para desbloquear o dispositivo.</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="other">%d itens</item>
+    <item quantity="one">1 item</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="other">Atrasos extremamente curtos (%1$d ms)</item>
+    <item quantity="one">Atraso extremamente curto (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="other">Atrasos muito curtos (%1$d ms)</item>
+    <item quantity="one">Atraso muito curto (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="other">Atrasos curtos (%1$d ms)</item>
+    <item quantity="one">Atraso curto (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="other">Atrasos longos (%1$d ms)</item>
+    <item quantity="one">Atraso longo (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="other">Atrasos muito longos (%1$d ms)</item>
+    <item quantity="one">Atraso muito longo (%1$d ms)</item>
+  </plurals>
+  <plurals name="print_settings_title">
+    <item quantity="other">%d trabalhos de impressão</item>
+    <item quantity="one">1 trabalho de impressão</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="other">Confiar ou remover certificados</item>
+    <item quantity="one">Confiar ou remover certificado</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="other">"%s instalou autoridades de segurança de certificados em seu dispositivo, o que pode permitir que monitorem a atividade de rede, incluindo e-mails, apps e sites seguros.
+
+Para mais informações sobre este certificado entre em contato com seu administrador."</item>
+    <item quantity="one">"%s instalou uma autoridade de segurança de certificados em seu dispositivo, o que pode permitir que monitorem a atividade de rede, incluindo e-mails, apps e sites seguros.
+
+Para mais informações sobre este certificado entre em contato com seu administrador."</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="other">"%s instalou autoridades de segurança de certificados em seu dispositivo, o que pode permitir que monitorem a atividade de rede, incluindo e-mails, apps e sites seguros.
+
+Para mais informações sobre este certificado entre em contato com seu administrador."</item>
+    <item quantity="one">"%s instalou uma autoridade de segurança de certificados em seu dispositivo, o que pode permitir que monitorem a atividade de rede, incluindo e-mails, apps e sites seguros.
+
+Para mais informações sobre este certificado entre em contato com seu administrador."</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="other">Verificar certificados</item>
+    <item quantity="one">Verificar certificado</item>
   </plurals>
   <plurals name="manage_notification_access_summary_nonzero">
     <item quantity="other">%d apps podem ler notificações</item>
@@ -80,6 +136,14 @@
   <plurals name="memory_usage_apps_summary">
     <item quantity="other">%1$d apps usaram a memória nos últimos %2$s</item>
     <item quantity="one">1 app usou a memória nos últimos %2$s</item>
+  </plurals>
+  <plurals name="notification_summary">
+    <item quantity="other">%d apps bloqueados de enviar</item>
+    <item quantity="one">%d app bloqueado de enviar</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="other">%1$d apps autorizados a usar dados irrestritos quando a Economia de dados estiver ativada</item>
+    <item quantity="one">1 app autorizado a usar dados irrestritos quando a Economia de dados estiver ativada</item>
   </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositivos</item>

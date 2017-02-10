@@ -588,7 +588,7 @@ Para ativar sua conta, siga o
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Tela cheia</string>
   <string name="vp_function">Configurações</string>
-  <string name="vp_get_url_error">"Não foi possível encontrar a URL para este vídeo."</string>
+  <string name="vp_get_url_error">"A URL para este vídeo não foi encontrada."</string>
   <string name="vp_hide_media_info">Ocultar informações do vídeo</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Atenção</string>

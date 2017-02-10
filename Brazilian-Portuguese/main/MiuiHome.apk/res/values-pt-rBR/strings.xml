@@ -44,10 +44,6 @@
   <string name="cant_remove_retained_app">"Não foi possível remover este app"</string>
   <string name="cant_remove_system_app">"Não é possível remover um app de sistema"</string>
   <string name="change_wallpaper">Alterar</string>
-  <string name="children_folder_title">Modo criança</string>
-  <string name="children_mode_exit">Sair</string>
-  <string name="children_mode_tips_message">Nenhum app no Modo criança. Selecione apps que você deseja adicionar.</string>
-  <string name="children_mode_tips_title">Selecionar apps</string>
   <string name="choose_wallpaper">Escolher plano de fundo</string>
   <string name="chooser_wallpaper">Escolha um novo plano de fundo</string>
   <string name="cloud_app_restore_title">Pendente</string>
@@ -107,7 +103,7 @@
   <string name="gadget_calendar_label">Agenda</string>
   <string name="gadget_clear_button_label">Limpeza</string>
   <string name="gadget_clock_12_label">Relógio 2x1</string>
-  <string name="gadget_clock_22_label">Relógio 2x2</string>
+  <string name="gadget_clock_14_label">Relógio 4x1</string>
   <string name="gadget_clock_24_label">Relógio 4x2</string>
   <string name="gadget_clock_label">Relógio</string>
   <string name="gadget_error_text">"Problema ao carregar o widget"</string>

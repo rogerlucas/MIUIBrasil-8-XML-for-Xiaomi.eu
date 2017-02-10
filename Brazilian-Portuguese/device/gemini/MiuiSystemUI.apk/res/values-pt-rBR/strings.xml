@@ -158,7 +158,7 @@
   <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI em um arquivo</string>
   <string name="bugreport_in_power">Atalho para relatório do bug</string>
   <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de bugs no menu do botão liga/desliga</string>
-  <string name="button_convert_fbe">Limpar e converter...</string>
+  <string name="button_convert_fbe">Limpar e converter\u2026</string>
   <string name="call_status_dialing">Chamando</string>
   <string name="call_status_ringing">Tocando</string>
   <string name="camera_key_action_app_title">Abrir app</string>
@@ -185,10 +185,10 @@
   <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
  !!Atenção!! Isso limpará todos os seus dados.
  Esse recurso é alfa e pode não funcionar corretamente.
- Pressione \"Limpar e converter...\" para continuar."</string>
+ Pressione \"Limpar e converter\u2026\" para continuar."</string>
   <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
   <string name="convert_to_file_encryption_done">Já criptografado com base em arquivos</string>
-  <string name="convert_to_file_encryption_enabled">Converter...</string>
+  <string name="convert_to_file_encryption_enabled">Converter\u2026</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
   <string name="daltonizer_mode_disabled">Desativado</string>
   <string name="daltonizer_mode_monochromacy">Monocromacia</string>
@@ -302,6 +302,8 @@ Use somente o carregador fornecido."</string>
   <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando.</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Visualizar</string>
+  <string name="launch_defaults_none">Nenhum padrão definido</string>
+  <string name="launch_defaults_some">Alguns padrões definidos</string>
   <string name="legacy_dhcp_client_summary">Usar cliente DHCP do Lollipop, em vez do novo cliente DHCP do Android.</string>
   <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha de backups completos do desktop</string>
   <string name="local_backup_password_summary_none">Os backups completos do computador não estão protegidos no momento</string>
@@ -413,6 +415,7 @@ Use somente o carregador fornecido."</string>
   <string name="screen_pinning_positive">OK</string>
   <string name="screen_pinning_title">A tela está fixada</string>
   <string name="screen_zoom_summary_custom">Personalizada (%d)</string>
+  <string name="screen_zoom_summary_default">Padrão</string>
   <string name="screen_zoom_summary_extremely_large">Maior</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequena</string>
@@ -505,6 +508,13 @@ Deslize para baixo para bloquear"</string>
   <string name="torch_opened">Lanterna ligada</string>
   <string name="track_frame_time">Classific. render. GPU</string>
   <string name="transition_animation_scale_title">Escala anim. de transição</string>
+  <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
+  <string name="tts_default_lang_title">Idioma</string>
+  <string name="tts_default_pitch_summary">Afeta o tom da voz sintetizada</string>
+  <string name="tts_default_pitch_title">Frequência do som</string>
+  <string name="tts_default_rate_summary">Velocidade em que o texto é falado</string>
+  <string name="tts_default_rate_title">Taxa de fala</string>
+  <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz.</string>
   <string name="tts_engine_network_required">Este idioma requer uma conexão de rede ativa para a conversão de texto em voz.</string>
   <string name="tts_engine_preference_section_title">Mecanismo preferencial</string>
   <string name="tts_engine_security_warning">Este mecanismo de síntese de fala pode coletar todo texto que será falado, inclusive dados pessoais como senhas e números de cartão de crédito. Ele é proveniente do mecanismo %s. Deseja ativar o uso desse mecanismo de síntese de fala?</string>
@@ -521,7 +531,7 @@ Deslize para baixo para bloquear"</string>
   <string name="tts_reset_speech_pitch_title">Redefinir a frequência do som da fala</string>
   <string name="tts_settings">Configurações da conversão de texto em voz</string>
   <string name="tts_settings_title">Conversão de texto em voz</string>
-  <string name="tts_status_checking">Verificando...</string>
+  <string name="tts_status_checking">Verificando\u2026</string>
   <string name="tts_status_not_supported">%1$s não é suportado</string>
   <string name="tts_status_ok">%1$s é totalmente suportado</string>
   <string name="tts_status_requires_network">%1$s requer conexão de rede</string>

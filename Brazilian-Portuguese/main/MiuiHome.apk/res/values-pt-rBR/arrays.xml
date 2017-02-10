@@ -48,4 +48,11 @@
     <item>Poeira</item>
     <item>Neblina</item>
   </string-array>
+  <string-array name="editing_mode_entries">
+    <item>Temas</item>
+    <item>Widgets</item>
+    <item>Plan. de fundo</item>
+    <item>Efeitos</item>
+    <item>Layout</item>
+  </string-array>
 </resources>

@@ -11,9 +11,4 @@
     <item>Localizar telefone</item>
     <item>Encontrar Mi Key</item>
   </string-array>
-    <string-array name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item></item>
-    </string-array>
 </resources>

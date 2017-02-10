@@ -50,6 +50,7 @@
   <string name="bind_phone_failed_tip">"Não foi possível adicionar o número do telefone"</string>
   <string name="bind_phone_success_tip">Número de telefone adicionado com sucesso</string>
   <string name="bind_success_tip">Adicionado com sucesso</string>
+  <string name="black_list">"Você está bloqueado. Envie seu feedback no Fórum MIUI para saber o motivo."</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Não é possível enviar esta quantidade de itens de uma só vez"</string>
   <string name="cancel">Cancelar</string>
@@ -140,6 +141,7 @@
   <string name="decrypt_error">"Não foi possível descriptografar"</string>
   <string name="decrypt_to">Descriptogravar e salvar em\u2026</string>
   <string name="decrypting">Descriptografando\u2026</string>
+  <string name="default_prize_text">Isso vai direto para o meu tesouro!</string>
   <string name="delete_dialog_button">Excluir</string>
   <string name="delete_error">"Não foi possível excluir arquivos, tente novamente"</string>
   <string name="delete_file">Excluir este arquivo?</string>
@@ -220,6 +222,9 @@
   <string name="ftp_username_hint">Usuário</string>
   <string name="full_gems">Trocar suas jóias</string>
   <string name="gbk_summary">Codificação padrão em Chinês simplificado</string>
+  <string name="gender_choose_sub_tile">Obter conteúdo personalizado</string>
+  <string name="gender_choose_sub_title">Receber recomendações úteis</string>
+  <string name="gender_choose_tip">Escolher gênero</string>
   <string name="get_user_info_err">"Não é possível obter informações desta pessoa"</string>
   <string name="get_verification_code_fail">"Não foi possível obter o código de verificação"</string>
   <string name="gigabyteShort">GB</string>
@@ -227,6 +232,7 @@
   <string name="group_title_extra_backup">Backups</string>
   <string name="group_title_extra_expire">Prestes a expirar</string>
   <string name="group_title_extra_new">Novo</string>
+  <string name="handsome_boy">Masculino</string>
   <string name="has_installed">Instalado</string>
   <string name="homepage_tab_category">Categorias</string>
   <string name="homepage_tab_file_view">Armazenamento</string>
@@ -405,6 +411,11 @@
   <string name="partial_cancel_successful">"Não foi possível remover alguns arquivos. O restante deles foi movido para %s."</string>
   <string name="partial_delete_failure">"Não foi possível excluir alguns arquivos, tente novamente"</string>
   <string name="partial_encrypt_success">"Não foi possível ocultar alguns arquivos, tente novamente"</string>
+  <string name="path_download">Gerenciar seus downloads</string>
+  <string name="path_hot_sticker">Stickers populares</string>
+  <string name="path_hot_video">Veja os clipes populares gratuitamente</string>
+  <string name="path_kuai_chuan">Transferências p2p</string>
+  <string name="path_recent_file">Gerenciar arquivos em seu dispositivo</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Armazenamento interno</string>
   <string name="phone_bind_skip">Pular</string>
@@ -442,6 +453,7 @@
   <string name="popup_msg_wb">Vídeo legal? Compartilhe com seus amigos do Weibo!</string>
   <string name="popup_msg_wx">Compartilhe este vídeo com seus amigos do WeChat.</string>
   <string name="port_range">A porta deve estar entre 1024-65535</string>
+  <string name="pretty_girl">Feminino</string>
   <string name="private_files">Oculto</string>
   <string name="private_folder">Pastas ocultas</string>
   <string name="private_folder_no_file_hints">Sem arquivos ocultos.</string>
@@ -489,6 +501,7 @@
   <string name="search_app">Apps &amp; pastas</string>
   <string name="search_app_more">Mais</string>
   <string name="search_description">Pesquisar todos os arquivos no dispositivo</string>
+  <string name="search_download">Downloads;Downloads recentes</string>
   <string name="search_empty_view_hint">"Nada encontrado"</string>
   <string name="search_error_hint">Pesquisar</string>
   <string name="search_file_type_apk">Apk</string>
@@ -497,7 +510,11 @@
   <string name="search_file_type_picture">Foto</string>
   <string name="search_file_type_video">Vídeo</string>
   <string name="search_hint">Pesquisar</string>
+  <string name="search_hot_sticker">Stickers;Download de stickers</string>
+  <string name="search_hot_video">Vídeos populares;Upload de vídeos;Upload de vídeo;Clipe;Vídeo curto;Vídeo pequeno;Vídeos pequenos</string>
   <string name="search_keyword">Tags</string>
+  <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+  <string name="search_recent_file">Gerenciador de arquivos;Arquivos;Arquivo;Arquivos;Gerenciar arquivos;Gerenciador de arquivos</string>
   <string name="search_result">Resultados</string>
   <string name="search_result_more">Mais</string>
   <string name="search_statistic_appname">fonte</string>

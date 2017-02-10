@@ -4,6 +4,8 @@
   <string name="SMTP_independent_verification_text">Verificação independente de SMTP</string>
   <string name="SMTP_password_text">Senha</string>
   <string name="SMTP_username_text">Usuário</string>
+  <string name="accessibility_guide_first">Na próxima tela, selecione a aba \"Serviços\" para ativar a configuração automática do 139 Mailbox</string>
+  <string name="accessibility_guide_second">Então, toque no botão no canto superior direito, toque em \"Confirmar\" para continuar.</string>
   <string name="account_duplicate_dlg_message_fmt">"Você já está usando este nome de usuário para a conta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_name_toast">Uma conta de mesmo nome já existe</string>
@@ -135,7 +137,7 @@ Atualizá-los agora?"</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Manter por</string>
   <string name="account_setup_options_title">Configurações da conta</string>
   <string name="account_setup_outgoing_port_label">Porta</string>
-  <string name="account_setup_outgoing_require_login_label">Exigir login</string>
+  <string name="account_setup_outgoing_require_login_label">É necessário fazer o login</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
   <string name="account_setup_security_policies_required_fmt">O servidor %s requer permissão para controlar remotamente algumas das funcionalidades de segurança do dispositivo Android. Deseja concluir a configuração desta conta?</string>
   <string name="account_setup_security_required_title">Administração de segurança remota</string>
@@ -198,6 +200,14 @@ Atualizá-los agora?"</string>
   <string name="auto_advance_help_title">Ao excluir um e-mail, ir para\u2026</string>
   <string name="auto_advance_label">Tela após excluir e-mails</string>
   <string name="auto_advance_summary">Escolha qual tela será exibida após um e-mail ser excluído</string>
+  <string name="auto_mail_describe">O serviço de configuração automática do 139 Mailbox pode ajudá-lo a preencher as informações de login automaticamente. Deseja habilitar esta função?</string>
+  <string name="auto_mail_disable_txt">Desativado</string>
+  <string name="auto_mail_enable_txt">Iniciar configurações</string>
+  <string name="auto_mail_go_email">Mailbox</string>
+  <string name="auto_mail_name">AutoMail</string>
+  <string name="auto_mail_title_note">Encontre a opção \"Configuração automática da 139 Mailbox\" e toque nela para iniciar.</string>
+  <string name="auto_mail_window_description">Configuração automática do e-mail da 139 Mailbox</string>
+  <string name="auto_mail_window_label">Configuração automática da 139 Mailbox</string>
   <string name="auto_sync_off">Sincronização desativada.</string>
   <string name="battery_saver">Economia de energia</string>
   <string name="battery_saver_keywords">Economia de energia;Economia de bateria;Bateria do e-mail;Economia</string>
@@ -233,6 +243,7 @@ Atualizá-los agora?"</string>
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
   <string name="click_download_all_content">[ Toque para transferir a mensagem ]</string>
   <string name="click_to_reload">Toque na tela para recarregar</string>
+  <string name="close">Desligar</string>
   <string name="collapse_recipient_details">Retrair detalhes do destinatário</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">"Não é possível adicionar mais de 10 anexos"</string>
@@ -240,6 +251,9 @@ Atualizá-los agora?"</string>
   <string name="compose_picturesexceedlimits">"Máximo permitido de 5 imagens em linha na mensagem"</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">E-mail enviado</string>
+  <string name="config">Telefone da 139 Mailbox configurado</string>
+  <string name="config_cancel">Cancelar</string>
+  <string name="config_retry">Repetir</string>
   <string name="confirm">OK</string>
   <string name="confirm_before_delete">Confirmar exclusão</string>
   <string name="confirm_before_delete_keywords">Confirmar exclusão;Confirmar antes de excluir;Confirmação de exclusão</string>
@@ -290,8 +304,8 @@ Atualizá-los agora?"</string>
   <string name="conversation_item_mark_read">Lida</string>
   <string name="conversation_item_mark_unread">Não lida</string>
   <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a mensagem.</string>
-  <string name="conversation_quick_button_approve">Aceitar</string>
-  <string name="conversation_quick_button_disapprove">Rejeitar</string>
+  <string name="conversation_quick_button_approve">OK</string>
+  <string name="conversation_quick_button_disapprove">Cancelar</string>
   <string name="conversation_quick_button_received">Recebida</string>
   <string name="conversation_view">Visualização em conversa</string>
   <string name="conversation_view_keywords">Visualização de conversa;Conversas;Visualizar em conversas;Conversas e-mail</string>
@@ -351,6 +365,7 @@ Atualizá-los agora?"</string>
   <string name="drawer_contacts">Contatos</string>
   <string name="drawer_open">Abrir gaveta de navegação</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
+  <string name="email_address">Endereço de e-mail</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Contas;Adicionar conta;Contas de e-mail;Adicionar conta de e-mail;Confirmar antes de excluir;Confirmação de exclusão;Confirmar antes de enviar;Confirmação de envio;Excluir mensagem;Ao excluir ir para;Visualização por conversa;Visualização por mensagem;Economia de energia;Economia de energia;Enviar feedback;Enviar logs</string>
   <string name="empty_account_tip">"Não foi possível localizar a conta"</string>
@@ -360,6 +375,7 @@ Atualizá-los agora?"</string>
   <string name="empty_trash">Esvaziar Lixeira</string>
   <string name="empty_trash_dialog_title">Esvaziar Lixeira?</string>
   <string name="enable_sync_in_account_settings">Ative-a em %1$s.</string>
+  <string name="error">erro</string>
   <string name="exception_cancel">Este evento foi cancelado por: %s</string>
   <string name="exception_updated">Os detalhes deste evento foram alterados para: %s</string>
   <string name="exchange_name">Corporativa</string>
@@ -379,7 +395,10 @@ Atualizá-los agora?"</string>
   <string name="file_not_found">"Não foi possível localizar o arquivo"</string>
   <string name="file_not_found_redownload">"Não foi possível localizar o arquivo"</string>
   <string name="file_rar_not_support">"Não é possível abrir arquivos rar criptografados"</string>
-  <string name="first_quick_default_reply">Clque neste atalho, então \"%s\" será enviado a todos os destinatários.</string>
+  <string name="first_quick_default_reply">Toque no botão para enviar \"%s\" para todas as pessoas na conversa</string>
+  <string name="float_window_content">Detecção de uso da Mailbox 139. Toque em Confirmar para o login automático na conta.</string>
+  <string name="float_window_info">"Durante a configuração não utilize o telefone para evitar falhas."</string>
+  <string name="float_window_title">Configurando\u2026</string>
   <string name="folder_list_display_all">Mostrar todas as pastas</string>
   <string name="folder_list_display_only_import">Apenas pastas importantes</string>
   <string name="folder_picker_title">Escolher pastas</string>
@@ -417,6 +436,7 @@ Atualizá-los agora?"</string>
   <string name="header_category_other">Feedback</string>
   <string name="header_label_general_preferences">Geral</string>
   <string name="help_and_info">Ajuda</string>
+  <string name="help_config">Auto configuração</string>
   <string name="hide_atts_remaining">Ocultar %1$d anexos</string>
   <string name="hide_elided">▼ Ocultar textos anteriores</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
@@ -438,6 +458,7 @@ Atualizá-los agora?"</string>
   <string name="local_search">Pesquisa local</string>
   <string name="local_search_result">%s resultados nas mensagens sincronizadas</string>
   <string name="login">Fazer login</string>
+  <string name="login139">Login CMCC com um botão</string>
   <string name="login_failed_ticker">Falha no login de %s.</string>
   <string name="login_failed_title">"Não foi possível fazer o login"</string>
   <string name="long_press_to_select_tip">Toque e segure para selecionar uma mensagem, toque em outras para selecionar mais.</string>
@@ -521,6 +542,7 @@ Atualizá-los agora?"</string>
   <string name="mute">Silenciar</string>
   <string name="network_error">Sem conexão</string>
   <string name="network_not_available">"Não foi possível conectar-se à rede"</string>
+  <string name="network_tip">Falha na autorização, verifique sua conexão de rede</string>
   <string name="network_try_again">Por favor verifique sua conexão de rede</string>
   <string name="network_unavailable">Rede indisponível</string>
   <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar.</string>
@@ -534,8 +556,11 @@ Atualizá-los agora?"</string>
   <string name="no_conversations">Nenhuma mensagem</string>
   <string name="no_mails">Nenhum e-mail.</string>
   <string name="no_matched_attachment">Nenhum resultado.</string>
+  <string name="no_remind">Não lembrar</string>
   <string name="not_subject">(Sem assunto)</string>
   <string name="not_synced_title">Conta não sincronizada</string>
+  <string name="note_text">Possível através da rede CMCC ou por verificação por SMS. Pode gerar custos adicionais ao uso de dados ou SMS.</string>
+  <string name="note_title">Config. automática do e-mail 139</string>
   <string name="notification_action_archive">Arquivar</string>
   <string name="notification_action_delete">Excluir</string>
   <string name="notification_action_remove_label">Remover tag</string>
@@ -548,6 +573,7 @@ Atualizá-los agora?"</string>
   <string name="oauth_error_description">"Não foi possível autenticar"</string>
   <string name="oauth_gmail_login_notify">Insira seu usuário e senha de sua Conta do Google na próxima tela de login.</string>
   <string name="oauth_login_continue">Continuar</string>
+  <string name="oauth_login_continue_qq">Obter código de autorização para login &gt;</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="outbox_alert_button_no_resend">"Não enviar"</string>
@@ -571,6 +597,10 @@ Atualizá-los agora?"</string>
   <string name="outbox_alert_select_operation">Escolha uma ação</string>
   <string name="outbox_alert_title_sent_failed">"Não foi possível enviar o e-mail"</string>
   <string name="outbox_no_mails">Vazio</string>
+  <string name="overlays_fail_tip">Ocorreu uma falha na configuração da caixa de e-mails. Permita a exibição de janelas pop-up e tente novamente</string>
+  <string name="overlays_ok">Abrir permissões</string>
+  <string name="overlays_tip">Permita a permissão de janelas pop-up e aproveite imediatamente a configuração automática da mailbox 139.</string>
+  <string name="overlays_title">Permissão de janelas pop-up</string>
   <string name="parase_setup_data">Obtendo dados\u2026</string>
   <string name="password_expire_warning_content_title">Senha da tela de bloqueio expirando</string>
   <string name="password_expire_warning_dialog_content_fmt">Você precisa alterar a senha de sua Tela de bloqueio em breve, ou os dados da conta %s serão excluídos. Deseja alterar agora?</string>
@@ -599,6 +629,7 @@ Atualizá-los agora?"</string>
   <string name="permission_access_provider_label">Acessar dados do usuário</string>
   <string name="permission_read_attachment_desc">"Permite que o app leia seus anexos de e-mail"</string>
   <string name="permission_read_attachment_label">Ler os anexos do e-mail</string>
+  <string name="permission_tip">Falha na configuração, permita o acesso a chamadas e mensagens durante a configuração</string>
   <string name="phone">telefone</string>
   <string name="photo_load_failed">"Falha ao carregar imagem"</string>
   <string name="photo_view_count" formatted="false">%d de %d</string>
@@ -653,6 +684,17 @@ Atualizá-los agora?"</string>
   <string name="push_wps_confirm_message">Experimente usar o WPS Office para abrir este anexo.</string>
   <string name="push_wps_confirm_title">Experimentar o WPS Office</string>
   <string name="push_wps_no_response_app">Nenhum app encontrado para executar esta ação</string>
+  <string name="qq_bar_open_imap">Ativar</string>
+  <string name="qq_bar_send_message">Enviar SMS</string>
+  <string name="qq_login_basecode">Fazendo login no QQ E-mail pela webpage. Insira sua senha.</string>
+  <string name="qq_login_get_auth">Não recebeu o código de verificação? Autentique-se utilizando sua senha e perguntas de segurança</string>
+  <string name="qq_login_open_imap">Toque em \"Ativar\" para ativar o \"IMAP/SMTP\"</string>
+  <string name="qq_login_origin_setting">Insira o usuário e senha para login &gt;</string>
+  <string name="qq_login_send_message">Toque em \"Enviar SMS\" para obter o código de autorização</string>
+  <string name="qq_login_webview">Fazendo login no QQ E-mail pela webpage. Insira sua senha.</string>
+  <string name="qq_next_generation_auth_toast">Por favor conclua o pedido de verificação em duas etapas através do navegador</string>
+  <string name="qq_uthentication_failed">Falha na autenticação, tente novamente</string>
+  <string name="qq_webview_loading">Pulando agora, por favor aguarde\u2026</string>
   <string name="questionnair_body_invisibility">"Mensagens não exibidas"</string>
   <string name="questionnair_confirm_delete">Remover</string>
   <string name="questionnair_instability">Trava com frequência</string>
@@ -733,7 +775,7 @@ Atualizá-los agora?"</string>
   <string name="sender_whitelist_cleared">"As imagens não serão exibidas automaticamente."</string>
   <string name="sending">Enviando\u2026</string>
   <string name="sending_message">Enviando mensagem\u2026</string>
-  <string name="sending_quick_reply">Enviando e-mail \"%s\"</string>
+  <string name="sending_quick_reply">Enviando \"%s\"</string>
   <string name="sent_folder_selection_title">Pasta Enviados do servidor p/ %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Falha ao validar o certificado do servidor
  (Verifique as configurações de sincronização automática)"</string>
@@ -755,6 +797,7 @@ Atualizá-los agora?"</string>
   <string name="show_elided">▶ Mostrar mensagens anteriores</string>
   <string name="show_images">Transferir e mostrar imagens</string>
   <string name="silent_ringtone">Silenciar</string>
+  <string name="sms_tip">Falha na autenticação, verifique se o software antivírus está interceptando SMS</string>
   <string name="smtp_password_error">A senha para o servidor de saída está incorreta</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="storage">Armazenamento</string>
@@ -813,6 +856,12 @@ Atualizá-los agora?"</string>
   <string name="view_more_conversations">Ver mais conversas</string>
   <string name="wait_for_manual_sync_body">Esta conta não está configurada para sincronizar automaticamente.\nToque em <b>Sincronizar Agora</b>para sincronizar os e-mails uma vez, ou <b>Alterar configurações de sincronização</b> para configurar esta conta para sincronizar automaticamente.</string>
   <string name="wait_for_sync_title">Aguardando sincronização</string>
+  <string name="webview_logout">Você deseja cancelar o login? Tente novamente!</string>
+  <string name="webview_logout_cancel">"Não tentar novamente"</string>
+  <string name="webview_logout_sure">Tentar novamente</string>
+  <string name="webview_sslerror_handle_cancel">Cancelar</string>
+  <string name="webview_sslerror_handle_continue">Continuar</string>
+  <string name="webview_sslerror_handle_hitmessage">Erro no certificado. Continuar no website mesmo assim?</string>
   <string name="widget_all_mail">Todos os e-mails</string>
   <string name="widget_other_views">Outros</string>
   <string name="wipe_account_fail_description">Permitir</string>

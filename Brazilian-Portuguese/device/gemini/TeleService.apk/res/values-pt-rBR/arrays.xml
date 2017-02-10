@@ -41,24 +41,24 @@
   </string-array>
   <string-array name="select_logd_size_titles">
     <item>Desativado</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>4M</item>
-    <item>16M</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
+    <item>4MB</item>
+    <item>16MB</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
     <item>Desativado</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desativado</item>
-    <item>256K por buffer de log</item>
+    <item>64KB por buffer de log</item>
+    <item>256KB por buffer de log</item>
     <item>1MB por buffer de log</item>
     <item>4MB por buffer de log</item>
-    <item>16MB por buffer de log</item>
     <item>16MB por buffer de log</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
@@ -131,6 +131,14 @@
     <item>No máximo 3 processos</item>
     <item>No máximo 4 processos</item>
   </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Carregando</item>
+    <item>MTP (Media Transfer Protocol)</item>
+    <item>PTP (Picture Transfer Protocol)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Fonte de Áudio</item>
+    <item>MIDI</item>
+  </string-array>
   <string-array name="tts_rate_entries">
     <item>Muito devagar</item>
     <item>Devagar</item>
@@ -160,6 +168,16 @@
   <string-array name="transport_types">
     <item>UDP</item>
     <item>TCP</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item>Global</item>
+    <item>LTE / CDMA</item>
+    <item>LTE / GSM / UMTS</item>
+  </string-array>
+  <string-array name="clir_display_values">
+    <item>Padrão da rede</item>
+    <item>Ocultar número</item>
+    <item>Mostrar número</item>
   </string-array>
   <string-array name="list_language_entries">
     <item>Inglês</item>

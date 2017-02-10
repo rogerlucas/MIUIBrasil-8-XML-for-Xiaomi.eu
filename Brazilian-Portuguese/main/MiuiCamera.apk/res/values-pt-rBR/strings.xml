@@ -121,7 +121,7 @@ O objeto não pode estar mais do que 2 metros longe."</string>
   <string name="pref_camera_coloreffect_entry_light_tunnel">Túnel</string>
   <string name="pref_camera_coloreffect_entry_long_face">Esticar</string>
   <string name="pref_camera_coloreffect_entry_mirror">Espelho</string>
-  <string name="pref_camera_coloreffect_entry_mono">P&amp;B</string>
+  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_sketch">Rascunho</string>

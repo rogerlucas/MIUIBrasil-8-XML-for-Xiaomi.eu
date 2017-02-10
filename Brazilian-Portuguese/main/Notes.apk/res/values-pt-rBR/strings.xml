@@ -17,6 +17,7 @@
   <string name="app_name">Anotações</string>
   <string name="app_widget">Anotações</string>
   <string name="call_folder_name">Anotações de chamada</string>
+  <string name="cloud_trash_bin_title">Excluir anotações na Mi Cloud</string>
   <string name="default_folder_name">Pasta sem nome</string>
   <string name="delete_folder_dialog_tile">Excluir pasta</string>
   <string name="dlg_btn_set_password">Definir senha</string>
@@ -88,10 +89,10 @@
   <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
   <string name="permlab_accessNote">Acessar anotações</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Não pedir a confirmação ao excluir uma anotação usando o gesto"</string>
+  <string name="pref_title_cloud_trash_bin">Excluir anotações na Mi Cloud</string>
   <string name="pref_title_common">Configurações adicionais</string>
   <string name="pref_title_font_size">Tamanho do texto</string>
   <string name="pref_title_note_style">Estilo</string>
-  <string name="pref_title_recover_help">Recuperar anotações</string>
   <string name="pref_title_show_root_folder_in_homepage">Mostrar anotações rápidas na página inicial</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Exclusão rápida</string>
   <string name="recover_notes_hint">Ocorreu um erro, vá para i.mi.com para restaurar as anotações.</string>
@@ -149,6 +150,7 @@
   <string name="toast_reach_text_limit_attachment">"Não é possível adicionar novos anexos porque a anotação é muito longa"</string>
   <string name="toast_reach_text_limit_truncate">Esta anotação é muito longa. Parte do texto foi cortado ao final.</string>
   <string name="trash_folder_name">Lixeira</string>
+  <string name="trash_folder_reminder">As anotações que você excluir serão removidas permanentemente em 30 dias.</string>
   <string name="undo">Desfazer</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="welcome_note_for_cm">"E muitos outros recursos!

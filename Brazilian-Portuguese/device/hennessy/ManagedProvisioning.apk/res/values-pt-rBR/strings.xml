@@ -16,12 +16,12 @@
   <string name="device_owner_cancel_message">"Você tem certeza que deseja parar a configuração e apagar os dados do seu dispositivo?"</string>
   <string name="device_owner_cancel_title">Tem certeza de que deseja interromper a configuração?</string>
   <string name="device_owner_error_already_provisioned">Este dispositivo já está configurado</string>
-  <string name="device_owner_error_download_failed">"Não foi possível fazer o download do app para administrador"</string>
-  <string name="device_owner_error_general">"Não foi possível configurar o dispositivo. Entre em contato com o departamento de TI."</string>
-  <string name="device_owner_error_hash_mismatch">"Não foi possível usar o app para administrador devido a um erro de soma de verificação. Entre em contato com o departamento de TI."</string>
-  <string name="device_owner_error_installation_failed">"Não foi possível instalar o app para administrador"</string>
+  <string name="device_owner_error_download_failed">"Não foi possível fazer o download do app administrador"</string>
+  <string name="device_owner_error_general">"Não foi possível configurar seu dispositivo. Entre em contato com seu departamento de TI."</string>
+  <string name="device_owner_error_hash_mismatch">"Não foi possível usar o app administrador devido a um erro de verificação de integridade. Entre em contato com seu departamento de TI."</string>
+  <string name="device_owner_error_installation_failed">"Não foi possível instalar o app administrador"</string>
   <string name="device_owner_error_ok">OK</string>
-  <string name="device_owner_error_package_invalid">"Não é possível usar o app para administrador. Alguns componentes estão ausentes ou corrompidos. Entre em contato com o departamento de TI."</string>
+  <string name="device_owner_error_package_invalid">"Não foi possível usar o app administrador. Alguns componentes estão ausentes ou corrompidos. Entre em contato com seu departamento de TI."</string>
   <string name="device_owner_error_package_not_installed">"O app do administrador não está instalado em seu telefone"</string>
   <string name="device_owner_error_reset">Redefinir</string>
   <string name="device_owner_error_wifi">"Não foi possível conectar-se à rede Wi-Fi"</string>
@@ -32,7 +32,7 @@
   <string name="managed_profile_already_present">Você já tem um perfil de trabalho em seu dispositivo. Deseja removê-lo?</string>
   <string name="managed_provisioning_error_text">"Não foi possível configurar seu perfil de trabalho. Entre em contato com o seu departamento de TI ou tente novamente mais tarde."</string>
   <string name="managed_provisioning_not_supported">"Seu dispositivo não suporta perfis de trabalho"</string>
-  <string name="managed_provisioning_not_supported_by_launcher">"Seu perfil de trabalho não é suportado por este launcher. É necessário alterar para um launcher que seja compatível."</string>
+  <string name="managed_provisioning_not_supported_by_launcher">"Seu perfil de trabalho não é suportado neste launcher. É necessário alternar para um launcher que seja compatível."</string>
   <string name="ok_setup">OK</string>
   <string name="pick_launcher">OK</string>
   <string name="progress_connect_to_wifi">Conectando-se ao Wi-Fi\u2026</string>

@@ -63,6 +63,14 @@
   <string name="open_camera_hint_text">Deslize para a esquerda para abrir %s</string>
   <string name="open_remote_center_hint_text">Deslize para a direita para abrir %s</string>
   <string name="open_wifi_settings">Abrir configurações de rede</string>
+  <string name="phone_locked_foget_password">Esqueceu a senha?</string>
+  <string name="phone_locked_foget_password_content">"Você pode fazer o login em i.mi.com usando a Conta Mi associada a este telefone para limpar todos os dados. Isto apagará todos os dados pessoais armazenados no dispositivo. Depois disso, você poderá reiniciar o dispositivo e restaurar contatos, mensagens, fotos e outros itens da Mi Cloud.
+
+Você não será capaz de fazer isso se você não fez o login da Conta Mi em seu dispositivo. Caso não tenha feito, será necessário instalar o sistema novamente."</string>
+  <string name="phone_locked_foget_password_footer">"Passos:
+Faça o login em i.mi.com, vá até \"Encontrar dispositivo\", selecione-o e pressione Limpar dispositivo."</string>
+  <string name="phone_locked_foget_password_header">O que devo fazer se eu esquecer minha senha?</string>
+  <string name="phone_locked_foget_password_ok">OK</string>
   <string name="phone_locked_string">O telefone foi bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Tente novamente em %s minutos</string>
   <string name="phone_locked_timeout_seconds_string">Tente novamente em %s segundos</string>

@@ -5,6 +5,12 @@
   <string name="active_xiaomi_account">Ativa</string>
   <string name="active_xiaomi_account_msg">Para ativar sua Conta Mi, acesse https://account.xiaomi.com/pass/ServiceLogin.</string>
   <string name="active_xiaomi_account_title">Ativar Conta Mi</string>
+  <string name="alpha_apply">Inscrever-se no programa de beta testing</string>
+  <string name="alpha_cancel">Desinscrever-se no programa de beta testing</string>
+  <string name="alpha_cancel_cancel">Cancelar</string>
+  <string name="alpha_cancel_confirm">Desinscrever-se agora?</string>
+  <string name="alpha_cancel_ok">OK</string>
+  <string name="alpha_no_network">Conecte-se à internet para participar</string>
   <string name="app_name">Atualizações</string>
   <string name="apply_title">Atualizando (%s)</string>
   <string name="apply_update_dialog_cancel_button">Cancelar</string>
@@ -97,6 +103,7 @@
   <string name="loading">Requisitando\u2026</string>
   <string name="log_share">Compartilhar</string>
   <string name="menu_more_button">Menu</string>
+  <string name="menu_title_apply_for_alpha">Inscrever-se no programa Beta Teste</string>
   <string name="menu_title_current_version_log">"O que há de novo"</string>
   <string name="menu_title_download_current_rom">Transferir última ROM</string>
   <string name="menu_title_pick_rom_file">Escolher pacote de atualização</string>
@@ -117,7 +124,7 @@
   <string name="new_updates_found_notification_title">Atualização disponível</string>
   <string name="next">Avançar</string>
   <string name="no_log">Nenhum resumo disponível</string>
-  <string name="no_wifi_msg">Usar os dados móveis pode gerar taxas adicionais. Conecte-se a uma rede Wi-Fi para baixar as atualizações.</string>
+  <string name="no_wifi_msg">O uso dos dados móveis poderá gerar tarifas adicionais. Conecte-se a uma rede Wi-Fi para o download de atualizações.</string>
   <string name="no_wifi_title">Conectar-se à rede Wi-Fi</string>
   <string name="not_open">Não</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo atualizado automaticamente</string>

@@ -125,6 +125,7 @@
   <string name="call_background_setting">Plano de fundo em chamadas</string>
   <string name="call_barring_sum">Configuração de restrição de chamadas</string>
   <string name="call_description_recording">Gravando\u2026</string>
+  <string name="call_forward_option">Encaminhamento de chamadas</string>
   <string name="call_forwarding_number_hint">Encaminhar chamadas para</string>
   <string name="call_forwarding_settings">Encaminhamento de chamadas</string>
   <string name="call_forwarding_settings_with_label">Encaminhamento de chamadas (%s)</string>
@@ -308,8 +309,6 @@
   <string name="display_name_title">Nome de exibição</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Concluído</string>
-  <string name="dtmf_tone_entries_long">Longo</string>
-  <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Definir duração dos tons DTMF</string>
   <string name="dtmf_tones_title">Tons DTMF</string>
   <string name="dual_mic_summary">Reduzir ruído de fundo durante chamadas</string>
@@ -439,7 +438,7 @@ Mudar para o novo provedor?"</string>
   <string name="importSimEntry">Importar</string>
   <string name="importToFDNfromContacts">Importar dos contatos</string>
   <string name="importingSimContacts">Importando contatos do SIM</string>
-  <string name="in_search_femtocell_networks_wait_tip">Pesquisar...</string>
+  <string name="in_search_femtocell_networks_wait_tip">Pesquisar\u2026</string>
   <string name="incall_error_call_failed">"Não foi possível realizar chamada."</string>
   <string name="incall_error_emergency_only">Não registrado na rede.</string>
   <string name="incall_error_missing_voicemail_number">Número de correio de voz desconhecido.</string>
@@ -496,8 +495,8 @@ Mudar para o novo provedor?"</string>
   <string name="labelCFNRc">Encaminhar quando inacessível</string>
   <string name="labelCFNRy">Encaminhar quando não atendida</string>
   <string name="labelCFU">Sempre encaminhar chamadas</string>
-  <string name="labelCFVideo">Encaminhamento de vídeochamada</string>
-  <string name="labelCFVoice">Encaminhamento de chamada de voz</string>
+  <string name="labelCFVideo">Vídeo</string>
+  <string name="labelCFVoice">Voz</string>
   <string name="labelCW">Chamada em espera</string>
   <string name="labelCallerId">ID da chamada</string>
   <string name="labelCdmaMore_with_label">Configurações de chamada CDMA (%s)</string>
@@ -963,8 +962,10 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="sip_edit_title">Detalhes da conta SIP</string>
   <string name="sip_menu_discard">Descartar</string>
   <string name="sip_menu_save">Salvar</string>
+  <string name="sip_profile_create_error">não é possível criar novo perfil SIP</string>
   <string name="sip_receive_calls">Receber chamadas</string>
   <string name="sip_receive_calls_summary">Reduz a duração da bateria</string>
+  <string name="sip_save_register_error">não é possível salvar e registrar um novo perfil SIP</string>
   <string name="sip_settings">Configurações de SIP</string>
   <string name="sip_system_decide">Automática</string>
   <string name="sports_news_settings">Notícias de esporte</string>

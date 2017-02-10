@@ -6,14 +6,14 @@
   <string name="add_vm_number_str">Adicionar número</string>
   <string name="handle_restricted">RESTRITO</string>
   <string name="headset_plugin_view_text">Fone de ouvido conectado.</string>
-  <string name="headset_plugin_view_title">Fones de ouvido</string>
+  <string name="headset_plugin_view_title">Headset</string>
   <string name="incall_error_call_failed">"Não foi possível efetuar chamada."</string>
   <string name="no_vm_number">Número do correio de voz ausente</string>
   <string name="no_vm_number_msg">Nenhum número para correio de voz armazenado no cartão SIM.</string>
   <string name="notification_missedCallTicker">Chamada perdida de %s</string>
   <string name="notification_missedCallTitle">Chamada perdida</string>
   <string name="notification_missedCall_call_back">Retornar chamada</string>
-  <string name="notification_missedCall_call_back_miui">Ligar</string>
+  <string name="notification_missedCall_call_back_miui">Chamar</string>
   <string name="notification_missedCall_message">Mensagem</string>
   <string name="notification_missedCallsMsg">%s chamadas perdidas</string>
   <string name="notification_missedCallsTitle">Chamadas perdidas</string>

@@ -53,6 +53,10 @@
     <item quantity="other">Remover %d músicas?</item>
     <item quantity="one">Remover %d música?</item>
   </plurals>
+  <plurals name="dialog_remove_from_cloud_descript">
+    <item quantity="other">Excluir %d músicas da Mi Cloud?</item>
+    <item quantity="one">Excluir %d música da Mi Cloud?</item>
+  </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d músicas adicionadas à playlist</item>
     <item quantity="one">Música adicionada à playlist</item>
@@ -92,5 +96,25 @@
   <plurals name="reader_count">
     <item quantity="other">%d seguidores</item>
     <item quantity="one">%d seguidor</item>
+  </plurals>
+  <plurals name="Nunbackup_audios">
+    <item quantity="other">"%1$d músicas não foram salvas na Mi Cloud (%2$.1fMB)"</item>
+    <item quantity="one">"%1$d música não foi salva na Mi Cloud (%2$.1fMB)"</item>
+  </plurals>
+  <plurals name="Nupload_song_button">
+    <item quantity="other">Fazendo backup de %1$d músicas (%2$.1fMB)</item>
+    <item quantity="one">Fazendo backup de %1$d música (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Nbackup_songs">
+    <item quantity="other">Fazendo backup de músicas, %1$d músicas restante (%2$.1fMB)</item>
+    <item quantity="one">Fazendo backup de música, %1$d música restante (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Nstop_backup_songs_message">
+    <item quantity="other">"%d músicas não foram salvas na Mi Cloud. Parar agora?"</item>
+    <item quantity="one">"%d música não foi salva na Mi Cloud. Parar agora?"</item>
+  </plurals>
+  <plurals name="Nsong_group_detail_subtitle">
+    <item quantity="other">Criado em %1$s | total de %2$d músicas</item>
+    <item quantity="one">Criado em %1$s | total de %2$d música</item>
   </plurals>
 </resources>

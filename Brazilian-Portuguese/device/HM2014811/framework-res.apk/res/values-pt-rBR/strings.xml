@@ -77,7 +77,6 @@ Deseja fechá-lo?"</string>
   <string name="app_not_found">Nenhum app encontrado para executar a ação</string>
   <string name="app_running_notification_text">Toque para mais informações ou para parar o app.</string>
   <string name="app_running_notification_title">%1$s está em execução</string>
-  <string name="autofill_this_form">Preenchimento automático</string>
   <string name="back_button_label">Voltar</string>
   <string name="badPin">"O PIN antigo digitado está incorreto."</string>
   <string name="badPuk">"O PUK digitado está incorreto."</string>

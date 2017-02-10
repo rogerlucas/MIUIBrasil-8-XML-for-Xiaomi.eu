@@ -89,7 +89,7 @@
   <string name="call_sim2_menu_title">Chamar com SIM 2</string>
   <string name="call_telex">Ligar para telex</string>
   <string name="call_tty_tdd">Ligar para TTY/TDD</string>
-  <string name="call_unit">USD</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">Ligar para trabalho</string>
   <string name="call_work_mobile">Ligar para celular comercial</string>
   <string name="call_work_pager">Ligar para pager comercial</string>
@@ -262,7 +262,6 @@ Cartões de contatos estão desativados"</string>
   <string name="data_left">Dados restantes</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
-  <string name="date_picker_label">Lembrar-me 3 dias antes e no dia do aniversário</string>
   <string name="date_time_set">Definir</string>
   <string name="date_year_toggle">Informe um ano</string>
   <string name="default_ringtone">Toque padrão</string>
@@ -326,7 +325,6 @@ Cartões de contatos estão desativados"</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="details_list_group_header_other">OUTROS</string>
   <string name="device_bluetooth_title">Transferir contatos</string>
-  <string name="device_brand_title">Escolha uma marca</string>
   <string name="device_import_account_dialog_title">Escolha uma conta</string>
   <string name="device_import_account_dialog_title_suffix">"
 (%1$s contatos encontrados)"</string>
@@ -339,15 +337,29 @@ Cartões de contatos estão desativados"</string>
   <string name="device_import_progress_toast">%1$d contatos importados</string>
   <string name="device_import_title">Importar</string>
   <string name="device_list_title">Escolha um telefone</string>
-  <string name="device_other_guide">"Se seu telefone não está listado, siga as etapas abaixo"</string>
-  <string name="device_other_title">Outro telefone</string>
+  <string name="device_other_guide">O outro telefone suporta Bluetooth?</string>
+  <string name="device_other_title">Importar de outros telefones</string>
   <string name="device_paired_dialog_message">Dispositivos pareados, obtendo contatos\u2026</string>
   <string name="device_paired_dialog_title">Obtendo contatos\u2026</string>
   <string name="device_pairing_dialog_message">Pareando\u2026</string>
   <string name="device_pairing_dialog_title">Parear dispositivos</string>
-  <string name="device_version_header_bluetooth">Certifique-se de que o Bluetooth está ativado</string>
-  <string name="device_version_header_no_bluetooth">Importar contatos do cartão SIM</string>
-  <string name="device_version_title">Escolha um modelo</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Por favor ative o dispositivo Bluetooth do outro dispositivo:
+        
+- Dispositivos Android geralmente possuem a opção \"Bluetooth\" na seção de rede
+        
+- Dispositivos iOS podem pesquisar por \"Bluetooth\" dentro das Configurações
+        
+
+2. Dispositivos Android devem ainda habilitar a opção \"Detectável\";
+        
+
+3. Toque em \"Avançar\", e permita o acesso a contatos no próximo passo."</string>
+  <string name="device_transfer_by_sim_message">\"1. Salve os contatos do outro dispositivo no cartão SIM;
+        
+
+2. Vá para \"Configurações de contatos\" -- \"Importar/Exportar contatos\" -- \"Importar do cartão SIM\", pressione e segure qualquer contato do SIm para selecioná-los, e clique na opção \"Importar\".</string>
+  <string name="device_version_header_bluetooth">Importar via Bluetooth</string>
+  <string name="device_version_header_no_bluetooth">Importar via cartão SIM</string>
   <string name="dial">Discar</string>
   <string name="dialerDialpadHintText">Discar para adicionar uma chamada</string>
   <string name="dialerIconLabel">Recentes</string>
@@ -371,6 +383,10 @@ Cartões de contatos estão desativados"</string>
   <string name="dialog_voicemail_airplane_mode_message">Para ligar para o correio de voz, desative o modo Avião.</string>
   <string name="dialog_voicemail_not_ready_message">Para configurar o correio de voz, vá em Menu &gt; Configurações.</string>
   <string name="directory_search_label">Diretório</string>
+  <string name="disclaimer_text">"O Diretório obtém informações de seu saldo com o envio de SMS. Sua operadora pode atualizar estas informações com atraso, então o valor real pode ser diferente. Caso você veja algo de errado, é possível entrar em contato conosco para nos ajudar a melhorar este serviço.
+
+Para evitar consultas em excesso, atualizamos o saldo apenas uma vez por dia."</string>
+  <string name="disclaimer_title">Aviso legal</string>
   <string name="display_all_contacts">Todos os contatos</string>
   <string name="display_more_groups">Mais grupos\u2026</string>
   <string name="display_only_phones">Ocultar contatos sem número</string>
@@ -698,8 +714,8 @@ Motivo: \"%s\""</string>
   <string name="multi_number_title">Conferência telefônica</string>
   <string name="multipleContactDeleteConfirmation">Ao excluir este contato suas informações serão excluídas de múltiplas contas.</string>
   <string name="multipleContactDeleteConfirmationDetail">Ao excluir \"%s\" informações de várias contas serão excluídas.</string>
-  <string name="my_phone_not_provider_bluetooth">"Meu telefone não possui Bluetooth"</string>
-  <string name="my_phone_provider_bluetooth">Meu telefone possui Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Não</string>
+  <string name="my_phone_provider_bluetooth">Sim</string>
   <string name="nameLabelsGroup">Nome</string>
   <string name="name_family">Sobrenome</string>
   <string name="name_given">Nome</string>
@@ -990,6 +1006,7 @@ Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>"
   <string name="remove_duplicate">"O MIUI ajudará a encontrar e mesclar contatos duplicados.
 
  Para começar, toque no ícone Mesclar na parte inferior da tela."</string>
+  <string name="report_inquiry_mms">Reportar SMS</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="returnCall">Retornar chamada</string>
   <string name="ringLabelsGroup">Toque</string>
@@ -1007,7 +1024,7 @@ Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>"
   <string name="search_contacts_display">Contatos;Exibição</string>
   <string name="search_contacts_more">Organizar;Contatos</string>
   <string name="search_contacts_recovery">Contatos</string>
-  <string name="search_contacts_setting">Configurações de contatos;Mostrar fotos e informações;Atribuir fotos a contatos;Importar e Exportar;Compartilhar;Importar do cartão SD;Importar do cartão SIM;Importar de outro telefone;Exportar para cartão SD;Exportar para cartão SIM;Compartilhar contatos;Preferências de exibição;Ocultar contatos sem telefone;Mostrar contatos do SIM;Listas a serem exibidas;Grupos inteligentes;Organizar contatos;Mesclar duplicados;Exclusão múltipla;Limpar dados;Recriar índice de dados;t9;Cartões SIM;Armazenamento do cartão SIM;Recuperação de contatos</string>
+  <string name="search_contacts_setting">Configurações de contatos;Mostrar fotos e info;Atribuir fotos a contatos;Importar e Exportar;Compartilhar;Importar do cartão SD;Importar do cartão SIM;Importar de outro telefone;Exportar para o cartão SD;Exportar para o cartão SIM;Compartilhar contatos;Preferências de exibição;Ocultar contatos sem número;Mostrar contatos do SIM;Listas a serem exibidas;Grupos inteligentes;Organizar contatos;Mesclar contatos duplicados;Exclusão múltipla;Limpar dados;Recriar índice de dados;t9;Cartões SIM;Armazenamento do cartão SIM;Introdução à recuperação de contatos;Foto do contato</string>
   <string name="search_display_only_phones">Contatos;Exibição</string>
   <string name="search_display_sim_contacts">Contatos;Exibição</string>
   <string name="search_export_to_sdcard">Contatos;Exportar;armazenamento</string>
@@ -1131,7 +1148,7 @@ Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>"
   <string name="success_message_import_from_account">Importação concluída</string>
   <string name="summary_kind_title">Resumo</string>
   <string name="t9_search_guide_pinyin_title1">Insira números correspondentes para localizar contatos</string>
-  <string name="t9_search_guide_pinyin_title2">Digite 9 e 4 para pesquisar por <font fgcolor="">W</font>ashington <font fgcolor="">I</font>rving</string>
+  <string name="t9_search_guide_pinyin_title2">Digite 9 e 4 para pesquisar por <font fgcolor="">X</font>avier <font fgcolor="">H</font>enry</string>
   <string name="t9_search_guide_zhuyin_title1">Insira números correspondentes para localizar contatos</string>
   <string name="t9_search_guide_zhuyin_title2">Insira 5 e 6 para pesquisar por <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
   <string name="take_new_photo">Tirar outra foto</string>

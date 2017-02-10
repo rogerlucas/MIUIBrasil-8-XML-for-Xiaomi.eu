@@ -5,6 +5,27 @@
     <item>UDP</item>
     <item>TCP</item>
   </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item>Global</item>
+    <item>LTE / CDMA</item>
+    <item>LTE / GSM / UMTS</item>
+  </string-array>
+  <string-array name="clir_display_values">
+    <item>Padrão da rede</item>
+    <item>Ocultar número</item>
+    <item>Mostrar número</item>
+  </string-array>
+  <string-array name="call_barring_outgoing_display_values">
+    <item>Desativado</item>
+    <item>Chamadas em roaming internacional</item>
+    <item>Chamadas internacionais</item>
+    <item>Chamadas efetuadas</item>
+  </string-array>
+  <string-array name="call_barring_incoming_display_values">
+    <item>Desativado</item>
+    <item>Roaming</item>
+    <item>Todas</item>
+  </string-array>
   <string-array name="list_language_entries">
     <item>Inglês</item>
     <item>Francês</item>

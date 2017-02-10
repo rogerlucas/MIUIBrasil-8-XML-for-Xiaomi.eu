@@ -18,7 +18,7 @@
   <string name="headset_plug">Conecte os fones de ouvido para estes efeitos.</string>
   <string name="main_toggle_effects_title">Efeitos de áudio</string>
   <string name="no_effects">Efeitos indisponíveis.</string>
-  <string name="picker_title">Painel contr. efeitos sonoros</string>
+  <string name="picker_title">Painel de controle de efeitos</string>
   <string name="pr_dialog_title">Predefinição de reverb</string>
   <string name="pr_summary">Efeitos de reverberação ambiente adicionais</string>
   <string name="pr_title">Reverb:</string>

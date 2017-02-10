@@ -32,6 +32,7 @@
   <string name="first_using_dialog_message">"A bússola precisa usar a conexão de rede de seu dispositivo, câmera e serviços de localização para funcionar normalmente."</string>
   <string name="first_using_dialog_title">Permissão de acesso</string>
   <string name="guide_toast">Para calibrar a bússola, mova seu telefone de acordo com o movimento abaixo.</string>
+  <string name="keywords_search_compass">Bússola;Calibrar bússola;Pressão;Altitude;Latitude;Longitude;Verificar longitude;Verificar latitude;Bússola MIUI;App de bússola;App de bússola MIUI;Onde está a bússola;Download bússola;Pressão atmosférica;Verificar altitude;Qual a minha altitude</string>
   <string name="latitude">LAT</string>
   <string name="location_east">Long. L</string>
   <string name="location_enable">Permitir</string>

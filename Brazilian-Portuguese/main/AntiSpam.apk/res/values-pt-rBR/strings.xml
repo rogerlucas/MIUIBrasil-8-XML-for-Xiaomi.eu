@@ -141,10 +141,6 @@
   <string name="mark_agent_block">Reportado como agência</string>
   <string name="mark_agent_block_large">Agências</string>
   <string name="mark_agent_time_setting">Bloquear números que foram reportados como agências em um intervalo de tempo específico</string>
-  <string name="mark_courier">Bloquear couriers reportados</string>
-  <string name="mark_courier_block">Reportado como courier</string>
-  <string name="mark_courier_block_large">Couriers</string>
-  <string name="mark_courier_time_setting">Bloquear números reportados como couriers por um número específico de vezes</string>
   <string name="mark_fraud">Bloquear fraudes reportadas</string>
   <string name="mark_fraud_block">Reportado como fraude</string>
   <string name="mark_fraud_block_large">Fraude</string>
@@ -154,9 +150,8 @@
   <string name="mark_harass_block_large">Incômodos</string>
   <string name="mark_harass_time_setting">Bloquear números que foram reportados como incômodos por um número específico de vezes</string>
   <string name="mark_number_agent">Agente de vendas</string>
-  <string name="mark_number_courier">Courier</string>
   <string name="mark_number_fraud">Fraudulenta</string>
-  <string name="mark_number_harass">Bullying</string>
+  <string name="mark_number_harass">Assédio</string>
   <string name="mark_number_info">"Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você estiver aguardando uma encomenda). Somente bloqueie números que você não deseje receber nenhuma chamada."</string>
   <string name="mark_number_sell">Telemarketing</string>
   <string name="mark_number_setting_guide_content1">Bloquear chamadas de números reportados?</string>

@@ -361,7 +361,7 @@ Para corrigir isto, você pode excluir alguns arquivos antigos para liberar espa
   <string name="micloud_wipe_data_confirm_label">Remover dados da Mi Cloud</string>
   <string name="micloud_wipe_data_confirm_title">Remover itens sincronizados com a Mi Cloud do telefone após o logout?</string>
   <string name="micloud_wipe_data_remove">Remover</string>
-  <string name="micloud_wipe_data_retain">Sair</string>
+  <string name="micloud_wipe_data_retain">Manter</string>
   <string name="microsoft_cloud">Serviço Cloud da Microsoft</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Cerca de RMB 80 por ano</string>
@@ -370,15 +370,15 @@ Para corrigir isto, você pode excluir alguns arquivos antigos para liberar espa
   <string name="mx_dspt_provision">"O Mi Message permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas de SMS.
 
 Você pode ativar ou desativar esta função a qualquer momento nas Configurações."</string>
-  <string name="mx_dspt_provision_privacy">"Este recurso pode exigir seu número de telefone. Sua operadora poderá cobrá-lo por 1 SMS usado para a ativação.
+  <string name="mx_dspt_provision_privacy">"Esta função pode exigir seu número de telefone. 1 SMS poderá ser requerido para ativar este serviço. O SMS poderá ser cobrado por sua operadora.
 
-Este recurso criptografa e envia o ID do seu dispositivo para os servidores da Mi."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Este recurso pode exigir seu número de telefone. Sua operadora poderá cobrá-lo por 2 SMS usados para a ativação.
+Esta função criptografa e envia a ID do seu dispositivo para os servidores da Xiaomi."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Esta função pode exigir seu número de telefone. 2 SMS poderão ser requeridos para ativar este serviço. Os SMS poderão ser cobrados por sua operadora.
 
-Este recurso criptografa e envia o ID do seu dispositivo para os servidores da Mi."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Este recurso pode exigir seu número de telefone. Sua operadora poderá cobrá-lo por 1 SMS utilizado para ativar este serviço quando um cartão SIM for detectado.
+Esta função criptografa e envia a ID do seu dispositivo para os servidores da Xiaomi."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Esta função pode exigir seu número de telefone. Quando o cartão SIM for detectado, 1 SMS poderá ser requerido para ativar este serviço. O SMS poderá ser cobrados por sua operadora.
 
-Este recurso criptografa e envia a ID do dispositivo para os servidores da Xiaomi."</string>
+Esta função criptografa e envia a ID do seu dispositivo para os servidores da Xiaomi."</string>
   <string name="mx_dspt_provision_with_voip">"Ligue para outros dispositivos com MIUI de graça usando sua conexão com a internet. Você pode ativar ou desativar esta função a qualquer momento nas Configurações. VoIP fornecido por Weihui. Veja a Política de Privacidade do serviço"</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
@@ -462,15 +462,15 @@ Este recurso criptografa e envia a ID do dispositivo para os servidores da Xiaom
   <string name="sync_item_title">Sincronizando itens</string>
   <string name="sync_off">Desativado</string>
   <string name="sync_on">Ativado</string>
-  <string name="sync_resend_sms_dspt_provision">" Se você trocar seus cartões SIM, um novo SMS tarifado será enviado para reativar o serviço."</string>
-  <string name="sync_sub_1_intl_sms">Sua operadora poderá cobrá-lo por 1 SMS internacional usado para ativar este serviço.</string>
-  <string name="sync_sub_1_sms">Sua operadora poderá cobrá-lo por 1 SMS usado para ativar este serviço.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Sua operadora poderá cobrá-lo por 1 SMS e 1 SMS internacional usados para ativar este serviço.</string>
-  <string name="sync_sub_2_intl_sms">Sua operadora poderá cobrá-lo por 2 SMS internacionais usados para ativar este serviço.</string>
-  <string name="sync_sub_2_sms">Sua operadora poderá cobrá-lo por 2 SMS usados para ativar este serviço.</string>
-  <string name="sync_sub_dspt">Sua operadora poderá cobrá-lo por 1 SMS usado para ativar este serviço.</string>
+  <string name="sync_resend_sms_dspt_provision">" Se você trocar os cartões SIM, sua operadora poderá cobrá-lo pelo SMS utilizado para reativar o serviço."</string>
+  <string name="sync_sub_1_intl_sms">1 SMS internacional pode ser requerido para ativar este serviço. O SMS poderá ser cobrado por sua operadora.</string>
+  <string name="sync_sub_1_sms">1 SMS pode ser requerido para ativar este serviço. O SMS poderá ser cobrado por sua operadora.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">1 SMS regular e 1 SMS internacional podem ser requeridos para ativar este serviço. Os SMS poderão ser cobrados por sua operadora.</string>
+  <string name="sync_sub_2_intl_sms">2 SMS internacionais podem ser requerido para ativar este serviço. Os SMS poderão ser cobrados por sua operadora.</string>
+  <string name="sync_sub_2_sms">2 SMS podem ser requeridos para ativar este serviço. Os SMS poderão ser cobrados por sua operadora.</string>
+  <string name="sync_sub_dspt">1 SMS pode ser requerido para ativar este serviço. O SMS poderá ser cobrado por sua operadora.</string>
   <string name="sync_sub_dspt_provision">Sincronize fotos, contatos, músicas, apps e mais entre todos os seus dispositivos</string>
-  <string name="sync_sub_int_dspt">Sua operadora poderá cobrá-lo por 1 SMS internacional usado para ativar este serviço.</string>
+  <string name="sync_sub_int_dspt">1 SMS internacional pode ser requerido para ativar este serviço. O SMS poderá ser cobrado por sua operadora.</string>
   <string name="title_reg">Criar Conta Mi</string>
   <string name="total_space_upgraded_to">Espaço total: %s</string>
   <string name="trying_to_connect_to_network">Conectando-se à rede\u2026</string>

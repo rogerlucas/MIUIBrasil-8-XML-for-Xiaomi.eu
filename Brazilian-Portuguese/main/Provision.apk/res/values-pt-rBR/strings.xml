@@ -19,6 +19,7 @@
   <string name="input_method_category">"Escolha o teclado padrão que você usará ao escrever e-mails, anotações, etc. É possível alterar esta configuração mais tarde."</string>
   <string name="input_method_setting">Escolher teclado padrão</string>
   <string name="install_preinstall_app">Carregando apps\u2026</string>
+  <string name="language_picker_other_languages_title">Mais idiomas</string>
   <string name="locale_picker_title">Escolha sua região</string>
   <string name="miui_privacy_policy_no_network">"Você não possui uma conexão com a internet. Veja a Política de Privacidade em %s."</string>
   <string name="miui_terms_no_network">"Você não possui uma conexão com a internet. Veja os Termos de Serviço em %s."</string>
@@ -32,7 +33,7 @@
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que apps acessem sua localização</string>
   <string name="other_settings_mifg_online_content">Carrossel de planos de fundo</string>
-  <string name="other_settings_mifg_online_content_summary">Novos planos de fundo entregues regularmente para sua Tela de bloqueio.</string>
+  <string name="other_settings_mifg_online_content_summary">Permitir que o Carrossel de planos de fundo conecte-se à internet para transferir novas imagens.</string>
   <string name="other_settings_upload_debug_log_summary">As informações que coletamos podem conter seus dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca serão usadas para identificá-lo pessoalmente.</string>
   <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
@@ -54,9 +55,9 @@ Ver a Política de Privacidade do teclado selecionado."</string>
   <string name="skip_underline">Pular esta etapa</string>
   <string name="summary_not_set">Não definido</string>
   <string name="terms_of_use">Termos e Condições</string>
-  <string name="terms_of_use_label">"Sua privacidade é importantíssima para nós. Leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações coletamos, como as usamos e as opções disponíveis para você.
+  <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nossos Termos de Serviço e a Política de Privacidade para entender as informações coletadas, como as usamos e quais opções estão disponíveis para você.
 
-Você precisa concordar com estes termos antes de usar o MIUI. Uma conexão com a internet será necessária para ativar os serviços Mi e ativar o cartão SIM."</string>
+Você precisa aceitar estes termos antes de utilizar o MIUI. Durante a ativação, os serviços Mi como Encontrar dispositivo, componentes de sistema e estatísticas irão se conectar à internet e usar sua localização."</string>
   <string name="title_fingerprint">Adicionar impressão digital</string>
   <string name="user_agreement">Termos de Serviço</string>
   <string name="welcome">Bem-vindo</string>

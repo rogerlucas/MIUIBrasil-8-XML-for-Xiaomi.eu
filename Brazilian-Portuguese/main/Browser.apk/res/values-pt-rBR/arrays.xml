@@ -9,9 +9,18 @@
     <item>Verde</item>
     <item>Azul</item>
   </string-array>
+  <string-array name="pref_fling_on_border_gesture_entries">
+    <item>Voltar/Avançar página</item>
+    <item>Alternar guias</item>
+    <item>Nenhuma ação</item>
+  </string-array>
   <string-array name="pref_homepage_choices">
     <item>Página inicial padrão</item>
     <item>Personalizada</item>
+  </string-array>
+  <string-array name="pref_nav_mode_summary">
+    <item>Telefone</item>
+    <item>Tablet</item>
   </string-array>
   <string-array name="pref_text_zoom_choices">
     <item>Muito pequeno</item>
@@ -20,20 +29,16 @@
     <item>Grande</item>
     <item>Extra grande</item>
   </string-array>
-  <string-array name="pref_nav_mode_summary">
-    <item>Telefone</item>
-    <item>Tablet</item>
-  </string-array>
-  <string-array name="shortcut_dialog_title">
-    <item>Mensagem do Navegador</item>
-    <item>Siga as Olimpíadas com a Mi</item>
+  <string-array name="shortcut_dialog_delete">
+    <item>Excluir</item>
+    <item>Não, obrigado</item>
   </string-array>
   <string-array name="shortcut_dialog_keep">
     <item>OK</item>
     <item>Seguir</item>
   </string-array>
-  <string-array name="shortcut_dialog_delete">
-    <item>Excluir</item>
-    <item>Não, obrigado</item>
+  <string-array name="shortcut_dialog_title">
+    <item>Mensagem do Navegador</item>
+    <item>Siga as Olimpíadas com a Mi</item>
   </string-array>
 </resources>

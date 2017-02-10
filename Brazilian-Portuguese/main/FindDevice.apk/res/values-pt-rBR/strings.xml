@@ -44,6 +44,8 @@ Se você trocar de cartões SIM, outro SMS será enviado automaticamente para re
   <string name="passport_verify">Verificar</string>
   <string name="password">Senha</string>
   <string name="phone_locked">Este dispositivo pode estar associado com a Conta Mi (%s). Faça o login nesta conta para ativar o dispositivo.</string>
+  <string name="phone_locked_account_email">, e-mail associado: %s</string>
+  <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
   <string name="stop_on_empty_captcha">"O captcha não pode estar em branco"</string>
   <string name="stop_on_empty_password">"A senha não pode estar em branco"</string>
   <string name="time_correction_failure">"Não foi possível corrigir a hora. %s"</string>
