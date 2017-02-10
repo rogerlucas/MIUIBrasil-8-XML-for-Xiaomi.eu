@@ -595,7 +595,7 @@ Para ativar sua conta, siga o
   <string name="vp_install">Instalar</string>
   <string name="vp_install_title">Instalar</string>
   <string name="vp_loading"><CDATA>Transferindo</CDATA></string>
-  <string name="vp_loading_download"><CDATA>Transferindo\u2026</CDATA></string>
+  <string name="vp_loading_download"><CDATA>Fazendo download\u2026</CDATA></string>
   <string name="vp_loading_video">Carregando\u2026</string>
   <string name="vp_low_definition">BAIXA</string>
   <string name="vp_maintitlearea">Assista vídeos HD em qualquer lugar</string>

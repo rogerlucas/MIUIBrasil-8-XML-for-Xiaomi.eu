@@ -72,15 +72,15 @@ Se o dispositivo tiver vários usuários, o uso desse atalho na tela de bloqueio
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão de ligar encerra a chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_short_summary">Toque três vezes para ampliar</string>
-  <string name="accessibility_screen_magnification_summary">&lt;b&gt;Para aplicar zoom&lt;/b&gt;\", toque rapidamente na tela tr&amp;#234;s vezes com um dedo.
-\"&lt;li&gt;&lt;ul&gt;\"Arraste dois ou mais dedos para rolar
-\"&lt;li&gt;Fa&amp;#231;a um gesto de pin&amp;#231;a com dois ou mais dedos juntando-os ou separando-os para ajustar o zoom&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;\"
+  <string name="accessibility_screen_magnification_summary">"Quando este recurso está ativado, você pode aumentar e diminuir o zoom com um toque triplo na tela.
 
-\"&lt;b&gt;Para aplicar zoom temporariamente&lt;/b&gt;\", toque rapidamente na tela tr&amp;#234;s vezes e mantenha o dedo pressionado no terceiro toque.
-\"&lt;li&gt;&lt;ul&gt;\"Arraste o dedo para se mover pela tela
-\"&lt;li&gt;Levante o dedo para diminuir o zoom&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;\"
+Quando o zoom é aplicado, você pode:
+"<li><ul>"Deslocar: arraste dois ou mais dedos pela tela.
+"<li>Ajustar o nível de zoom: use o gesto de pinçagem ou expanda usando dois ou mais dedos."</li></ul></li>"
 
-N&amp;#227;o &amp;#233; poss&amp;#237;vel aplicar zoom no teclado e na barra de navega&amp;#231;&amp;#227;o.\"</string>
+Você também pode ampliar temporariamente o que estiver sob seu dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes da tela. Levante o dedo para voltar ao estado anterior.
+
+Observação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação."</string>
   <string name="accessibility_screen_magnification_title">Gesto de ampliação</string>
   <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -1075,10 +1075,10 @@ N&amp;#227;o &amp;#233; poss&amp;#237;vel aplicar zoom no teclado e na barra de 
   <string name="data_usage_restrict_denied_dialog">Restringir dados de segundo plano só é possível quando você define um limite de dados de rede celular.</string>
   <string name="data_usage_summary_format">%1$s de dados usados</string>
   <string name="data_usage_summary_title">Uso de dados</string>
-  <string name="data_usage_sweep_limit">&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;limite&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;aviso&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">limite</font></string>
+  <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">alerta</font></string>
   <string name="data_usage_tab_3g">2G e 3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -2822,7 +2822,11 @@ Selecione seu sistema operacional:"</string>
   <string name="reset_network_button_text">Redefinir configurações</string>
   <string name="reset_network_complete_toast">As configurações de rede foram redefinidas</string>
   <string name="reset_network_confirm_title">Redefinir?</string>
-  <string name="reset_network_desc">Isso redefinirá todas as configurações de rede, incluindo:\n\n<li>Wi-Fi</li>\n<li>dados da rede celular</li>\n<li>Bluetooth</li></string>
+  <string name="reset_network_desc">"Isso redefinirá todas as configurações de rede, incluindo:
+
+"<li>Wi-Fi</li>"
+"<li>dados da rede celular</li>"
+"<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">Redefinir configurações</string>
   <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Não é possível desfazer esta ação.</string>
   <string name="reset_network_title">Redef. config. de rede</string>
@@ -3245,9 +3249,9 @@ Para usar a fixação de tela:
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opção de bloqueio de tela desativada. Entre em contato com o administrador da sua organização para saber mais. &lt;annotation id=\"admin_details\"&gt;Mais detalhes&lt;/annotation&gt;\"
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Opção de bloqueio de tela desativada. Entre em contato com o administrador da sua organização para saber mais. "<annotation id="admin_details">Mais detalhes</annotation>"
 
-Ainda &amp;#233; poss&amp;#237;vel usar sua impress&amp;#227;o digital para autorizar compras e o acesso a apps. \"&lt;annotation id=\"url\"&gt;Saiba mais&lt;/annotation&gt;</string>
+Ainda é possível usar sua impressão digital para autorizar compras e o acesso a apps. "<annotation id="url">Saiba mais</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Concluído</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">O registro não foi concluído</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">"O registro de impressões digitais não funcionou. Tente novamente ou use um dedo diferente."</string>
@@ -3261,9 +3265,9 @@ Ainda &amp;#233; poss&amp;#237;vel usar sua impress&amp;#227;o digital para auto
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Ignorar</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Adicionar impressão digital</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">\"Basta tocar no sensor de impressão digital para desbloquear o smartphone, autorizar compras ou fazer login em apps. Tome cuidado com as impressões digitais que adicionar. Mesmo uma única digital adicionada pode realizar essas ações.
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressão digital para desbloquear o smartphone, autorizar compras ou fazer login em apps. Tome cuidado com as impressões digitais que adicionar. Mesmo uma única digital adicionada pode realizar essas ações.
 
-Observação: sua impressão digital pode ser menos segura que um PIN ou padrão forte. \"&lt;annotation id=\"url\"&gt;Saiba mais&lt;/annotation&gt;</string>
+Observação: sua impressão digital pode ser menos segura que um PIN ou padrão forte. "<annotation id="url">Saiba mais</annotation></string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Desb. c/ imp. digital</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Levante o dedo e depois toque no sensor novamente</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Mova o dedo levemente para adicionar todas as partes da sua impressão digital</string>
@@ -3659,11 +3663,11 @@ Este ^1 é formatado para funcionar apenas neste dispositivo. Não funcionará e
 
 Depois da formatação, este ^1 funcionará somente neste dispositivo. 
 
-\"<b>A formatação limpa todos os dados armazenados no ^1.</b>\" Para evitar perder os dados, faça backup deles."</string>
+"<b>A formatação limpa todos os dados armazenados no ^1.</b>" Para evitar perder os dados, faça backup deles."</string>
   <string name="storage_wizard_format_confirm_next">Limpar e formatar</string>
-  <string name="storage_wizard_format_confirm_public_body">\"É necessário que o cartão ^1 seja formatado. 
+  <string name="storage_wizard_format_confirm_public_body">"É necessário que o cartão ^1 seja formatado. 
 
-\"&lt;b&gt;A formata&amp;#231;&amp;#227;o limpa todos os dados armazenados atualmente no cart&amp;#227;o ^1.&lt;/b&gt; Para evitar perder os dados, fa&amp;#231;a backup deles.</string>
+"<b>A formatação limpa todos os dados armazenados atualmente no cartão ^1.</b>" Para evitar perder os dados, faça o backup deles."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar c/ armazenam. portátil</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenam. interno</string>
   <string name="storage_wizard_format_progress_body">Não remova o ^1 enquanto ele estiver sendo formatado.</string>
@@ -4329,7 +4333,13 @@ Toque no + para adicionar palavras."</string>
   <string name="wifi_aggressive_handover_summary">Quando ativada, o Wi-Fi será mais agressivo em transferir a conexão de dados para celular, quando o sinal de Wi-Fi estiver fraco</string>
   <string name="wifi_allow_scan_with_traffic">Sempre permitir verif. de roaming de Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/proibir verificações de roaming de Wi-Fi com base no volume do tráfego de dados presente na interface</string>
-  <string name="wifi_and_mobile_skipped_message">Se você ignorar o Wi-Fi:\n\n<li>Seu smartphone não terá conexão com a Internet.</li>\n\n<li>Você não receberá atualizações de software enquanto não se conectar à Internet.</li>\n\n<li>Não será possível ativar recursos de proteção de dispositivos no momento.</li></string>
+  <string name="wifi_and_mobile_skipped_message">"Se você ignorar o Wi-Fi:
+
+"<li>Seu smartphone não terá conexão com a Internet.</li>"
+
+"<li>Você não receberá atualizações de software enquanto não se conectar à Internet.</li>"
+
+"<li>Não será possível ativar recursos de proteção de dispositivos no momento.</li></string>
   <string name="wifi_ap_band_config">Selecionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
@@ -4561,9 +4571,9 @@ Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_setup_back">Voltar</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">Toque em &lt;b&gt;Pr&amp;#243;ximo&lt;/b&gt;\" para continuar a configura&amp;#231;&amp;#227;o.
+  <string name="wifi_setup_description_connected">Toque em <b>Próximo</b>" para continuar a configuração.
 
-Toque em \"&lt;b&gt;Voltar&lt;/b&gt; para conectar-se a outra rede Wi-Fi.</string>
+Toque em "<b>Voltar</b> para conectar-se a outra rede Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos\u2026</string>
   <string name="wifi_setup_detail">Detalhes da rede</string>
   <string name="wifi_setup_eap_not_supported">"Não é possível configurar uma conexão Wi-Fi EAP durante a configuração. É possível fazer isso em seguida, na opção \"Configurações\" &gt; \"Sem fio e redes\"."</string>

@@ -400,7 +400,7 @@
   <string name="permission_send_sms_descx">O app pode enviar SMS e MMS</string>
   <string name="permission_summary_enforced_by_policy">Aplicável por política</string>
   <string name="permission_title">Permissões para %1$s</string>
-  <string name="permission_warning_template">Permitir que o app %1$s %2$s?</string>
+  <string name="permission_warning_template">Permitir que o app <b>%1$s</b> %2$s?</string>
   <string name="permlab_togglePermissions">alternar permissões</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Usar sRGB</string>

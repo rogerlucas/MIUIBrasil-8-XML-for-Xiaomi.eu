@@ -11,7 +11,7 @@
   <string name="callFailed_dialToSs">Pedido de DISCAGEM modificado para requisição SS.</string>
   <string name="callFailed_dialToUssd">Pedido de DISCAGEM modificado para requisição USSD.</string>
   <string name="callFailed_dsac_restricted">Chamadas restringidas pelo controle de acesso.</string>
-  <string name="callFailed_dsac_restricted_emergency">Chamadas de emergência restringidas pelo controlo de acesso.</string>
+  <string name="callFailed_dsac_restricted_emergency">Chamadas de emergência restringidas pelo controle de acesso.</string>
   <string name="callFailed_dsac_restricted_normal">Chamadas normais restringidas pelo controle de acesso.</string>
   <string name="callFailed_fdn_only">As chamadas efetuadas são restritas por FDN.</string>
   <string name="callFailed_invalid_credentials">Nome de usuário ou senha incorretos</string>

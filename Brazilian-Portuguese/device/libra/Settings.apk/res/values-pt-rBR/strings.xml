@@ -73,7 +73,15 @@ Se o dispositivo tiver vários usuários, o uso desse atalho na tela de bloqueio
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão de ligar encerra a chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_short_summary">Toque três vezes para ampliar</string>
-  <string name="accessibility_screen_magnification_summary">Quando este recurso está ativado, você pode aumentar e diminuir o zoom com um toque triplo na tela.\n\nQuando o zoom é aplicado, você pode:\n<ul><li>Deslocar: arraste dois ou mais dedos pela tela.</li>\n<li>Ajustar o nível de zoom: use o gesto de pinçagem ou expanda usando dois ou mais dedos.</li></ul>\n\nVocê também pode ampliar temporariamente o que estiver sob seu dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes da tela. Levante o dedo para voltar ao estado anterior.\n\nObservação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação.</string>
+  <string name="accessibility_screen_magnification_summary">"Quando este recurso está ativado, você pode aumentar e diminuir o zoom com um toque triplo na tela.
+
+Quando o zoom é aplicado, você pode:
+"<li><ul>"Deslocar: arraste dois ou mais dedos pela tela.
+"<li>Ajustar o nível de zoom: use o gesto de pinçagem ou expanda usando dois ou mais dedos."</li></ul></li>"
+
+Você também pode ampliar temporariamente o que estiver sob seu dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes da tela. Levante o dedo para voltar ao estado anterior.
+
+Observação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação.\"</string>
   <string name="accessibility_screen_magnification_title">Gesto de ampliação</string>
   <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -3019,7 +3027,11 @@ Selecione seu sistema operacional:"</string>
   <string name="reset_network_button_text">Redefinir configurações</string>
   <string name="reset_network_complete_toast">As configurações de rede foram redefinidas</string>
   <string name="reset_network_confirm_title">Redefinir?</string>
-  <string name="reset_network_desc">Isso redefinirá todas as configurações de rede, incluindo:\n\n<li>Wi-Fi</li>\n<li>dados da rede celular</li>\n<li>Bluetooth</li></string>
+  <string name="reset_network_desc">"Isso redefinirá todas as configurações de rede, incluindo:
+
+"<li>Wi-Fi</li>"
+"<li>dados da rede celular</li>"
+"<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">Redefinir configurações</string>
   <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Não é possível desfazer esta ação.</string>
   <string name="reset_network_title">Redef. config. de rede</string>

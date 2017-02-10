@@ -73,7 +73,15 @@ Se o dispositivo tiver vários usuários, o uso desse atalho na tela de bloqueio
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão de ligar encerra a chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_short_summary">Toque três vezes para ampliar</string>
-  <string name="accessibility_screen_magnification_summary">Quando este recurso está ativado, você pode aumentar e diminuir o zoom com um toque triplo na tela.\n\nQuando o zoom é aplicado, você pode:\n<ul><li>Deslocar: arraste dois ou mais dedos pela tela.</li>\n<li>Ajustar o nível de zoom: use o gesto de pinçagem ou expanda usando dois ou mais dedos.</li></ul>\n\nVocê também pode ampliar temporariamente o que estiver sob seu dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes da tela. Levante o dedo para voltar ao estado anterior.\n\nObservação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação.</string>
+  <string name="accessibility_screen_magnification_summary">"Quando este recurso está ativado, você pode aumentar e diminuir o zoom com um toque triplo na tela.
+
+Quando o zoom é aplicado, você pode:
+"<li><ul>"Deslocar: arraste dois ou mais dedos pela tela.
+"<li>Ajustar o nível de zoom: use o gesto de pinçagem ou expanda usando dois ou mais dedos."</li></ul></li>"
+
+Você também pode ampliar temporariamente o que estiver sob seu dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes da tela. Levante o dedo para voltar ao estado anterior.
+
+Observação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação."</string>
   <string name="accessibility_screen_magnification_title">Gesto de ampliação</string>
   <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -2087,9 +2095,17 @@ para o Segundo Espaço"</string>
   <string name="master_clear_all">"Apagar todos os seus dados da memória interna de seu telefone? Esta ação não pode ser desfeita!"</string>
   <string name="master_clear_button_text">Redefinir telefone</string>
   <string name="master_clear_confirm_title">Redefinir?</string>
-  <string name="master_clear_desc">Essa ação apagará todos os dados do <b>armazenamento interno</b> de seu telefone, incluindo:\n\n\<li>Sua Conta do Google</li>\n<li>Configurações e dados do sistema e dos apps</li>\n<li>Apps baixados</li></string>
-  <string name="master_clear_desc_also_erases_external"><li>Músicas</li>\n<li>Fotos</li>\n<li>Outros dados do usuário</li></string>
-  <string name="master_clear_desc_erase_external_storage">\n\nPara limpar músicas, imagens e outros dados de usuário, o conteúdo do <b>cartão SD</b> precisa ser apagado.</string>
+  <string name="master_clear_desc">Essa ação apagará todos os dados do <b>armazenamento interno</b>" de seu telefone, incluindo:
+
+"<li>Sua Conta do Google</li>"
+"<li>Configurações e dados do sistema e dos apps</li>"
+"<li>Apps baixados</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Músicas</li>"
+"<li>Fotos</li>"
+"<li>Outros dados do usuário</li></string>
+  <string name="master_clear_desc_erase_external_storage">"
+
+Para limpar músicas, imagens e outros dados de usuário, o conteúdo do "<b>cartão SD</b> precisa ser apagado.</string>
   <string name="master_clear_erase_application_progress">Apagando apps\u2026</string>
   <string name="master_clear_failed">Nenhuma redefinição foi realizada porque o serviço de Limpeza do sistema não está disponível.</string>
   <string name="master_clear_final_button_text">Apagar tudo</string>
@@ -3011,13 +3027,25 @@ Selecione seu sistema operacional:"</string>
   <string name="reset_aaid">Redefinir identificador de anunciante</string>
   <string name="reset_app_preferences">Redefinir preferências</string>
   <string name="reset_app_preferences_button">Redefinir apps</string>
-  <string name="reset_app_preferences_desc">Isso redefinirá todas as preferências para:\n\n<li>apps desabilitados</li>\n<li>notificações de apps desabilitados</li>\n<li>apps padrão para ações</li>\n<li>restrições de dados em plano de fundo para apps</li>\n<li>quaisquer restrições de permissão</li>\n\nVocê não perderá dados de apps.</string>
+  <string name="reset_app_preferences_desc">"Isso redefinirá todas as preferências para:
+ 
+"<li>apps desabilitados</li>" 
+"<li>notificações de apps desabilitados</li>" 
+"<li>apps padrão para ações</li>" 
+"<li>restrições de dados em segundo plano para apps</li>" 
+"<li>quaisquer restrições de permissão</li>" 
+
+ Você não perderá dados de apps."</string>
   <string name="reset_app_preferences_title">Redefinir preferências?</string>
   <string name="reset_legacy_password_settings_preface_text">Você precisa redefinir a senha da tela de bloqueio.</string>
   <string name="reset_network_button_text">Redefinir configurações</string>
   <string name="reset_network_complete_toast">As configurações de rede foram redefinidas</string>
   <string name="reset_network_confirm_title">Redefinir?</string>
-  <string name="reset_network_desc">Isso redefinirá todas as configurações de rede, incluindo:\n\n<li>Wi-Fi</li>\n<li>dados da rede celular</li>\n<li>Bluetooth</li></string>
+  <string name="reset_network_desc">"Isso redefinirá todas as configurações de rede, incluindo:
+
+"<li>Wi-Fi</li>"
+"<li>dados da rede celular</li>"
+"<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">Redefinir configurações</string>
   <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Não é possível desfazer esta ação.</string>
   <string name="reset_network_title">Redef. config. de rede</string>
@@ -3438,7 +3466,7 @@ Para usar a fixação de tela:
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opção de bloqueio de tela desativada. Entre em contato com o administrador da sua organização para saber mais. <annotation id="admin_details">Mais detalhes</annotation>\"
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opção de bloqueio de tela desativada. Entre em contato com o administrador da sua organização para saber mais. <annotation id="admin_details">Mais detalhes</annotation>"
 
 Ainda é possível usar sua impressão digital para autorizar compras e o acesso a apps. "<annotation id="url">Saiba mais</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Concluído</string>
@@ -3945,7 +3973,8 @@ Você pode usar um ^1 mais rápido para ter um desempenho melhor."</string>
   <string name="sync_menu_sync_now">Sincronizar agora</string>
   <string name="sync_one_time_sync">"Toque para sincronizar agora
 %1$s"</string>
-  <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font>\nUm método do Google para sincronizar dados a fim de permitir acesso aos seus contatos, compromissos e muito mais, onde quer que você esteja.</string>
+  <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font>"
+Um método do Google para sincronizar dados a fim de permitir acesso aos seus contatos, compromissos e muito mais, onde quer que você esteja."</string>
   <string name="sync_settings">Sincronização</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Somente por Wi-Fi</string>
@@ -4526,7 +4555,13 @@ Toque no + para adicionar palavras."</string>
   <string name="wifi_aggressive_handover_summary">Quando ativada, o Wi-Fi será mais agressivo em transferir a conexão de dados para celular, quando o sinal de Wi-Fi estiver fraco</string>
   <string name="wifi_allow_scan_with_traffic">Sempre permitir verif. de roaming de Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/proibir verificações de roaming de Wi-Fi com base no volume do tráfego de dados presente na interface</string>
-  <string name="wifi_and_mobile_skipped_message">Se você ignorar o Wi-Fi:\n\n<li>Seu smartphone não terá conexão com a Internet.</li>\n\n<li>Você não receberá atualizações de software enquanto não se conectar à Internet.</li>\n\n<li>Não será possível ativar recursos de proteção de dispositivos no momento.</li></string>
+  <string name="wifi_and_mobile_skipped_message">"Se você ignorar o Wi-Fi:
+
+"<li>Seu smartphone não terá conexão com a Internet.</li>"
+
+"<li>Você não receberá atualizações de software enquanto não se conectar à Internet.</li>"
+
+"<li>Não será possível ativar recursos de proteção de dispositivos no momento.</li></string>
   <string name="wifi_ap_band_config">Selecionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>

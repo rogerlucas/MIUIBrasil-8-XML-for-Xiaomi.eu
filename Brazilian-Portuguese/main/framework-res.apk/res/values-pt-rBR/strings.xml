@@ -488,7 +488,8 @@ Para desafixar a tela, pressione e segure o botão \"Início\" e \"Liga/Desliga\
 Tente novamente em %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Você tentou desbloquear incorretamente o telefone %d vezes. O telefone será redefinido para o padrão de fábrica.</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
-  <string name="lockscreen_glogin_account_recovery_hint">Esqueceu seu usuário ou senha?\nAcesse <b>google.com.br/accounts/recovery</b>.</string>
+  <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu seu usuário ou senha?
+Acesse "<b>google.com.br/accounts/recovery</b>.</string>
   <string name="lockscreen_glogin_checking_password">Verificando\u2026</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
   <string name="lockscreen_glogin_instructions">Para desbloquear, faça login com sua Conta do Google.</string>

@@ -11,6 +11,8 @@
   <string name="contact_your_admin_for_more_info">"Entre em contato com o administrador para receber mais informações, incluindo as políticas de privacidade da organização."</string>
   <string name="continue_provisioning_notify_text">Toque para continuar a configuração de seu perfil de trabalho</string>
   <string name="continue_provisioning_notify_title">Criptografia concluída</string>
+  <string name="default_managed_profile_name">Perfil de trabalho</string>
+  <string name="default_owned_device_username">Usuário do dispositivo de trabalho</string>
   <string name="delete_profile">Remover</string>
   <string name="device_owner_cancel_cancel">Cancelar</string>
   <string name="device_owner_cancel_message">"Você tem certeza que deseja parar a configuração e apagar os dados do seu dispositivo?"</string>
