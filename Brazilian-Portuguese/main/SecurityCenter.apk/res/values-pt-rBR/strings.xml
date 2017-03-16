@@ -922,8 +922,6 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_rank_title">Uso da bateria</string>
-  <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-  <string name="power_consume_total_software">Apps: %1$d%%</string>
   <string name="power_customize_giveup_change">Descartar alterações?</string>
   <string name="power_dialog_cancel">Cancelar</string>
   <string name="power_dialog_ok">OK</string>
