@@ -53,6 +53,18 @@
     <item quantity="other">%1$d conversas reportadas como spam.</item>
     <item quantity="one">%1$d conversa reportada como spam.</item>
   </plurals>
+  <plurals name="day">
+    <item quantity="other">%d dias</item>
+    <item quantity="one">%d dia</item>
+  </plurals>
+  <plurals name="day_after">
+    <item quantity="other">Em %d dias</item>
+    <item quantity="one">Em %d dia</item>
+  </plurals>
+  <plurals name="day_before">
+    <item quantity="other">%d dias atrás</item>
+    <item quantity="one">%d dia atrás</item>
+  </plurals>
   <plurals name="draft">
     <item quantity="other">Rascunhos</item>
     <item quantity="one">Rascunho</item>
@@ -60,6 +72,10 @@
   <plurals name="empty_folder_dialog_message">
     <item quantity="other">%1$d mensagens serão excluídas permanentemente.</item>
     <item quantity="one">%1$d mensagem será excluída permanentemente.</item>
+  </plurals>
+  <plurals name="month">
+    <item quantity="other">%d meses</item>
+    <item quantity="one">%d mês</item>
   </plurals>
   <plurals name="move_conversation">
     <item quantity="other">Mover %1$d conversas</item>

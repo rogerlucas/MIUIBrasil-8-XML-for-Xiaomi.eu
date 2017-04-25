@@ -134,8 +134,8 @@
     <item quantity="one">%d risco encontrado, corrija agora</item>
   </plurals>
   <plurals name="virus_clean_num">
-    <item quantity="other">Tudo em ordem</item>
-    <item quantity="one">Tudo em ordem</item>
+    <item quantity="other">%1$d problemas corrigidos. Tudo em ordem agora.</item>
+    <item quantity="one">%1$d problema corrigido. Tudo em ordem agora.</item>
   </plurals>
   <plurals name="notification_apps">
     <item quantity="other">%d apps contém riscos à privacidade</item>
@@ -212,5 +212,49 @@
   <plurals name="optimize_result_button_add_score">
     <item quantity="other">+%d</item>
     <item quantity="one">+%d</item>
+  </plurals>
+  <plurals name="add_game_notification_title">
+    <item quantity="other">%d jogos adicionados</item>
+    <item quantity="one">%d jogo adicionado</item>
+  </plurals>
+  <plurals name="app_manager_apps_generation_title">
+    <item quantity="other">Atualizações para %d app estão disponíveis</item>
+    <item quantity="one">Atualização para %d app está disponível</item>
+  </plurals>
+  <plurals name="app_manager_permission_read_contact">
+    <item quantity="other">Acessou contatos %d vezes</item>
+    <item quantity="one">Acessou contatos %d vez</item>
+  </plurals>
+  <plurals name="app_manager_permission_call_phone">
+    <item quantity="other">Efetuou %d chamadas</item>
+    <item quantity="one">Efetuou %d chamada</item>
+  </plurals>
+  <plurals name="app_manager_permission_send_mms">
+    <item quantity="other">Enviou %d SMS</item>
+    <item quantity="one">Enviou %d SMS</item>
+  </plurals>
+  <plurals name="app_manager_permission_read_mms">
+    <item quantity="other">Leu SMS %d vezes</item>
+    <item quantity="one">Leu SMS %d vez</item>
+  </plurals>
+  <plurals name="app_manager_permission_read_record">
+    <item quantity="other">Leu o registro de chamadas %d vezes</item>
+    <item quantity="one">Leu o registro de chamadas %d vez</item>
+  </plurals>
+  <plurals name="app_manager_permission_read">
+    <item quantity="other">Acessou %d vezes</item>
+    <item quantity="one">Acessou %d vez</item>
+  </plurals>
+  <plurals name="app_manager_permission_manager_summary">
+    <item quantity="other">Concedeu %d permissões</item>
+    <item quantity="one">Concedeu %d permissão</item>
+  </plurals>
+  <plurals name="app_manager_start_count">
+    <item quantity="other">%d vezes</item>
+    <item quantity="one">%d vez</item>
+  </plurals>
+  <plurals name="app_manager_reject_count">
+    <item quantity="other">Bloqueado %d vezes</item>
+    <item quantity="one">Bloqueado %d vez</item>
   </plurals>
 </resources>

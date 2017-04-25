@@ -17,4 +17,16 @@
     <item quantity="other">Limpo</item>
     <item quantity="one">Claro</item>
   </plurals>
+  <plurals name="total_voted_num_text">
+    <item quantity="other">"<font color="#20a7ff">%1$s</font> pessoas votaram"</item>
+    <item quantity="one">"<font color="#20a7ff">%1$s</font> pessoa votou"</item>
+  </plurals>
+  <plurals name="yes_vote_num">
+    <item quantity="other">&#160;| %1$s pessoas</item>
+    <item quantity="one">&#160;| %1$s pessoa</item>
+  </plurals>
+  <plurals name="no_vote_num">
+    <item quantity="other">%1$s pessoas |&#160;</item>
+    <item quantity="one">%1$s pessoa |&#160;</item>
+  </plurals>
 </resources>

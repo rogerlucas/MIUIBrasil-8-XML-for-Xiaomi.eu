@@ -3,27 +3,27 @@
 <resources>
   <plurals name="mins_ago">
     <item quantity="other">%1$d minutos atrás</item>
-        <item quantity="zero">%1$d minutos atrás</item>
+    <item quantity="zero">%1$d minutos atrás</item>
     <item quantity="one">%1$d minuto atrás</item>
-        <item quantity="two">%1$d minutos atrás</item>
-        <item quantity="few">%1$d minutos atrás</item>
-        <item quantity="many">%1$d minutos atrás</item>
+    <item quantity="two">%1$d minutos atrás</item>
+    <item quantity="few">%1$d minutos atrás</item>
+    <item quantity="many">%1$d minutos atrás</item>
   </plurals>
   <plurals name="hours_ago">
     <item quantity="other">%1$d horas atrás</item>
-        <item quantity="zero">%1$d horas atrás</item>
+    <item quantity="zero">%1$d horas atrás</item>
     <item quantity="one">%1$d hora atrás</item>
-        <item quantity="two">%1$d horas atrás</item>
-        <item quantity="few">%1$d horas atrás</item>
-        <item quantity="many">%1$d horas atrás</item>
+    <item quantity="two">%1$d horas atrás</item>
+    <item quantity="few">%1$d horas atrás</item>
+    <item quantity="many">%1$d horas atrás</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">%1$d dias atrás</item>
-        <item quantity="zero">%1$d dias atrás</item>
+    <item quantity="zero">%1$d dias atrás</item>
     <item quantity="one">%1$d dia atrás</item>
-        <item quantity="two">%1$d dias atrás</item>
-        <item quantity="few">%1$d dias atrás</item>
-        <item quantity="many">%1$d dias atrás</item>
+    <item quantity="two">%1$d dias atrás</item>
+    <item quantity="few">%1$d dias atrás</item>
+    <item quantity="many">%1$d dias atrás</item>
   </plurals>
   <plurals name="people">
     <item quantity="one">Transferido por %1$d pessoa</item>
@@ -39,11 +39,11 @@
   </plurals>
   <plurals name="view_num">
     <item quantity="other">%1$d visualizações</item>
-        <item quantity="zero">%1$d visualizações</item>
+    <item quantity="zero">%1$d visualizações</item>
     <item quantity="one">%1$d visualização</item>
-        <item quantity="two">%1$d visualizações</item>
-        <item quantity="few">%1$d visualizações</item>
-        <item quantity="many">%1$d visualizações</item>
+    <item quantity="two">%1$d visualizações</item>
+    <item quantity="few">%1$d visualizações</item>
+    <item quantity="many">%1$d visualizações</item>
   </plurals>
   <plurals name="hint_similar_image_header_left">
     <item quantity="other">%d grupos</item>
