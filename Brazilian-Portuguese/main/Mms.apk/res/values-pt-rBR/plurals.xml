@@ -8,12 +8,10 @@
   <plurals name="slide_duration">
     <item quantity="other">%d seg</item>
     <item quantity="one">%d seg</item>
-    <item quantity="few">%d seg</item>
   </plurals>
   <plurals name="slide_audio_duration">
     <item quantity="other">%d seg</item>
     <item quantity="one">%d seg</item>
-    <item quantity="few">%d seg</item>
   </plurals>
   <plurals name="search_results_title">
     <item quantity="other">%1$s resultados para \"%2$s\"</item>
@@ -29,7 +27,6 @@
   </plurals>
   <plurals name="cloud_sms_count">
     <item quantity="other">%d mensagens</item>
-    <item quantity="zero">0 mensagens</item>
     <item quantity="one">%d mensagem</item>
   </plurals>
   <plurals name="cloud_state_unsynced_count">

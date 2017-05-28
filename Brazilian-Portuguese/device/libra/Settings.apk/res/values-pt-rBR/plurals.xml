@@ -145,9 +145,29 @@ Para mais informações sobre este certificado entre em contato com seu administ
     <item quantity="other">%1$d apps autorizados a usar dados irrestritos quando a Economia de dados estiver ativada</item>
     <item quantity="one">1 app autorizado a usar dados irrestritos quando a Economia de dados estiver ativada</item>
   </plurals>
+  <plurals name="virus_scan_app_find_risk">
+    <item quantity="other">%d riscos encontrados</item>
+    <item quantity="one">%d risco encontrado</item>
+  </plurals>
+  <plurals name="auto_startup_count">
+    <item quantity="other">%d apps podem iniciar automaticamente</item>
+    <item quantity="one">%d app pode iniciar automaticamente</item>
+  </plurals>
+  <plurals name="lockpassword_pin_fixed_length">
+    <item quantity="other">O PIN deve ter %d dígitos</item>
+    <item quantity="one">O PIN deve ter %d dígito</item>
+  </plurals>
+  <plurals name="wifi_share_count">
+    <item quantity="other">%d redes compartilhadas</item>
+    <item quantity="one">%d rede compartilhada</item>
+  </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositivos</item>
     <item quantity="one">%d dispositivo</item>
+  </plurals>
+  <plurals name="free_wifi_connected_count">
+    <item quantity="other">%1$d pessoas conectadas</item>
+    <item quantity="one">%1$d pessoa conectada</item>
   </plurals>
   <plurals name="show_pho_countdown">
     <item quantity="other">"Falta %1$d etapas para você acessar as informações do telefone."</item>

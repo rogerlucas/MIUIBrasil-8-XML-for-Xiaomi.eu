@@ -13,4 +13,8 @@
     <item quantity="other">"A ação selecionada não está disponível no modo de retorno de chamada de emergência. O telefone estará nesse modo por %s minutos. Você deseja sair agora?"</item>
     <item quantity="one">"A ação selecionada não está disponível no modo de retorno de chamada de emergência. O telefone estará nesse modo por %s minuto. Você deseja sair agora?"</item>
   </plurals>
+  <plurals name="call_record_add_white_list_over_reminder">
+    <item quantity="other">Você pode adicionar até %s pessoas, selecione novamente.</item>
+    <item quantity="one">Você pode adicionar até %s pessoa, selecione novamente.</item>
+  </plurals>
 </resources>
