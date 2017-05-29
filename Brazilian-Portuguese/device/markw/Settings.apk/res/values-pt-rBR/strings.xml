@@ -2738,7 +2738,7 @@ Para mais informações, entre em contato com o administrador."</string>
   <string name="system_ui_settings">Mostrar sintonizador SystemUI</string>
   <string name="additional_permissions">Permissões adicionais</string>
   <string name="additional_permissions_more">Mais %1$d</string>
-  <string name="usb_use_charging_only">Carregar</string>
+  <string name="usb_use_charging_only">Carregar dispositivo</string>
   <string name="usb_use_file_transfers">Transferência de arquivos (MTP)</string>
   <string name="usb_use_photo_transfers">Transferência de fotos (PTP)</string>
   <string name="usb_use_MIDI">MIDI</string>

@@ -3719,7 +3719,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="usb_title">USB</string>
   <string name="usb_use">Usar USB para</string>
   <string name="usb_use_MIDI">MIDI</string>
-  <string name="usb_use_charging_only">Carregar</string>
+  <string name="usb_use_charging_only">Carregar dispositivo</string>
   <string name="usb_use_file_transfers">Transferência de arquivos (MTP)</string>
   <string name="usb_use_photo_transfers">Transferência de fotos (PTP)</string>
   <string name="use_default_tts_settings_summary">As configurações padrão abaixo substituem as configurações do app</string>

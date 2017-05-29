@@ -4093,7 +4093,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="usb_use">Usar USB para</string>
   <string name="usb_use_MIDI">MIDI</string>
   <string name="usb_use_MIDI_desc">Usar dispositivo para entrada de MIDI</string>
-  <string name="usb_use_charging_only">Carregar</string>
+  <string name="usb_use_charging_only">Carregar dispositivo</string>
   <string name="usb_use_charging_only_desc">Somente carregar este dispositivo</string>
   <string name="usb_use_file_transfers">Transferências de arquivos</string>
   <string name="usb_use_file_transfers_desc">Transfere arquivos para outro dispositivo</string>

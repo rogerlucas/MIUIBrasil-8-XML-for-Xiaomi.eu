@@ -1327,7 +1327,6 @@ Deseja fechá-la?"</string>
   <string name="webviewchromium_color_picker_dialog_title">Selecionar cor</string>
   <string name="webviewchromium_color_picker_hue">Matiz</string>
   <string name="webviewchromium_color_picker_saturation">Saturação</string>
-  <string name="webviewchromium_color_picker_value">Valor</string>
   <string name="webviewchromium_copy_to_clipboard_failure_message">Falha ao copiar para a área de transferência</string>
   <string name="webviewchromium_date_picker_dialog_clear">Limpar</string>
   <string name="webviewchromium_date_picker_dialog_other_button_label">Outros</string>

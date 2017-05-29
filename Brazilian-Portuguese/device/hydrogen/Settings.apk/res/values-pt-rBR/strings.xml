@@ -2967,7 +2967,7 @@ Para usar a fixação de tela:
   <string name="sharing_remote_bugreport_dialog_message">Este relatório de bug está sendo compartilhado com seu administrador de TI. Entre em contato com ele para saber mais detalhes.</string>
   <string name="share_remote_bugreport_action">Compartilhar</string>
   <string name="decline_remote_bugreport_action">Recusar</string>
-  <string name="usb_use_charging_only">Carregar</string>
+  <string name="usb_use_charging_only">Carregar dispositivo</string>
   <string name="usb_use_charging_only_desc">Somente carregar este dispositivo</string>
   <string name="usb_use_power_only">Fonte de alimentação</string>
   <string name="usb_use_power_only_desc">Carregar o outro dispositivo conectado</string>

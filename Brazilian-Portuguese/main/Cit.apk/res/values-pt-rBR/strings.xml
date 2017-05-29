@@ -151,7 +151,6 @@ Segure o telefone como se você estivesse em uma ligação. Fale no microfone pr
   <string name="cit_audio_cali_playing">Toque no botão para iniciar calibração</string>
   <string name="cit_audio_cali_file_existed">Não existe um arquivo de música music.mp3 na raiz do cartão SD ou memória interna. A calibração não pode ser concluída.</string>
   <string name="cit_audio_cali_done">Calibração concluída</string>
-  <string name="cit_audio_cali_valueC">Contador:</string>
   <string name="cit_audio_cali_failed">Falha na calibração, tente novamente.</string>
   <string name="cit_aud_spkcal">Calibrar</string>
   <string name="cit_audio_calibrating">Calibração em andamento\u2026</string>

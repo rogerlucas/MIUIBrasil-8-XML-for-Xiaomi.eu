@@ -431,10 +431,8 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">Toque para inserir a senha</font></string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorreto.</string>
   <string name="kg_enter_confirm_pin_hint">Confirme o código PIN desejado</string>
-  <string name="kg_failed_attempts_almost_at_login">"Você desenhou seu padrão de desbloqueio incorretamente %d vezes. Se fizer mais %d tentativas incorretas, será solicitado que você use o login do Google para desbloquear.
-
- Tente novamente em %d segundos."</string>
-  <string name="kg_failed_attempts_almost_at_wipe">Você tentou desbloquear incorretamente o telefone %d vezes. Após mais %d tentativas malsucedidas, o telefone será redefinido para o padrão de fábrica e todos os dados do usuário serão perdidos.</string>
+  <string name="kg_failed_attempts_almost_at_login">Você desenhou seu padrão de desbloqueio incorretamente %1$d vezes. Se fizer mais %2$d tentativas incorretas, será solicitado que você use o login do Google para desbloquear.\nTente novamente em %3$d segundos.</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Você tentou desbloquear incorretamente o telefone %1$d vezes. Após mais %2$d tentativas malsucedidas, o telefone será redefinido para o padrão de fábrica e todos os dados do usuário serão perdidos.</string>
   <string name="kg_failed_attempts_now_wiping">Você tentou desbloquear incorretamente o telefone %d vezes. O telefone será redefinido para o padrão de fábrica.</string>
   <string name="kg_forgot_pattern_button_text">Esqueci o padrão</string>
   <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
@@ -459,15 +457,9 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="kg_sim_pin_instructions">Insira o PIN do cartão SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando o cartão SIM\u2026</string>
   <string name="kg_too_many_failed_attempts_countdown">Tente novamente em %1$d segundos.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"Você digitou sua senha incorretamente %d vezes. 
-
-Tente novamente em %d segundos."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Você desenhou seu padrão de desbloqueio incorretamente %d vezes. 
-
-Tente novamente em %d segundos."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Você digitou seu PIN incorretamente %d vezes. 
-
-Tente novamente em %d segundos."</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message">Você digitou sua senha incorretamente %1$d vezes.\n\nTente novamente em %d segundos.</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">Você desenhou seu padrão de desbloqueio incorretamente %1$d vezes.\n\nTente novamente em %2$d segundos.</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">Você digitou seu PIN incorretamente %1$d vezes.\n\nTente novamente em %2$d segundos.</string>
   <string name="kg_wrong_password">Senha incorreta</string>
   <string name="kg_wrong_pattern">Padrão incorreto</string>
   <string name="kg_wrong_pin">PIN incorreto</string>
@@ -504,10 +496,8 @@ Para desafixar a tela, pressione e segure o botão \"Início\" e \"Liga/Desliga\
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço.</string>
   <string name="lockscreen_emergency_call">Chamada de emergência</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Você tentou desbloquear incorretamente o telefone %d vezes. Após mais %d tentativas malsucedidas, o telefone será redefinido para o padrão de fábrica e todos os dados do usuário serão perdidos.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Você desenhou seu padrão de desbloqueio incorretamente %d vezes. Se fizer mais %d tentativas incorretas, será solicitado que você use o login do Google para desbloquear.
-
-Tente novamente em %d segundos."</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Você tentou desbloquear incorretamente o telefone %1$d vezes. Após mais %2$d tentativas malsucedidas, o telefone será redefinido para o padrão de fábrica e todos os dados do usuário serão perdidos.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">Você desenhou seu padrão de desbloqueio incorretamente %1$d vezes. Se fizer mais %2$d tentativas incorretas, será solicitado que você use o login do Google para desbloquear.\n\nTente novamente em %3$d segundos.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Você tentou desbloquear incorretamente o telefone %d vezes. O telefone será redefinido para o padrão de fábrica.</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="lockscreen_glogin_account_recovery_hint">Esqueceu seu usuário ou senha?\nAcesse <b>google.com.br/accounts/recovery</b>.</string>
@@ -542,15 +532,9 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
   <string name="lockscreen_sound_off_label">Som desativado</string>
   <string name="lockscreen_sound_on_label">Som ativado</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente em %d segundos.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Você desenhou o padrão de desbloqueio incorretamente %d vezes. 
-
-Tente novamente em %d segundos."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Você digitou sua senha incorretamente %d vezes. 
-
-Tente novamente em %d segundos."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Você digitou seu PIN incorretamente %d vezes.
-
-Tente novamente em %d segundos."</string>
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">Você desenhou o padrão de desbloqueio incorretamente %1$d vezes. \n\nTente novamente em %2$d segundos.</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">Você digitou sua senha incorretamente %1$d vezes.\n\nTente novamente em %2$d segundos.</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">Você digitou seu PIN incorretamente %1$d vezes.\n\nTente novamente em %2$d segundos.</string>
   <string name="lockscreen_transport_ffw_description">Avançar</string>
   <string name="lockscreen_transport_next_description">Próxima faixa</string>
   <string name="lockscreen_transport_pause_description">Pausar</string>

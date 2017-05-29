@@ -38,16 +38,6 @@
     <item>Muito ruim</item>
     <item>Péssima</item>
   </string-array>
-  <string-array name="weather_tips_value">
-    <item>Reduza atividades ao ar livre</item>
-    <item>Estradas escorregadias</item>
-    <item>Tempestade chegando, tenha cuidado!</item>
-    <item>O ar está poluído, use uma máscara!</item>
-    <item>Leve um guarda-chuvas ao sair</item>
-    <item>Tenha cuidado na estrada</item>
-    <item>Uma tempestade de areia está chegando, use uma máscara!</item>
-    <item>Tenha um bom dia!</item>
-  </string-array>
   <string-array name="alarm_set">
     <item>O alarme irá disparar em menos de 1 minuto.</item>
     <item>O alarme irá disparar em %1$s.</item>

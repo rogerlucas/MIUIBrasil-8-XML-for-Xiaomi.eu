@@ -90,7 +90,7 @@
     <item quantity="one">"Não utilizado por %d ano"</item>
   </plurals>
   <plurals name="resutl_function_install_app_summary">
-    <item quantity="one"><Data><font color='#ff0000'>%d</font> apps não foram utilizados por um longo período, dê uma olhada.</Data></item>
-    <item quantity="other"><Data><font color='#ff0000'>%d</font> apps não foram utilizados por um longo período, dê uma olhada.</Data></item>
+    <item quantity="one">%d apps não foram utilizados por um longo período, dê uma olhada.</Data></item>
+    <item quantity="other">%d apps não foram utilizados por um longo período, dê uma olhada.</Data></item>
   </plurals>
 </resources>
