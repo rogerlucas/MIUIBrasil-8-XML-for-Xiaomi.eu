@@ -457,7 +457,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="kg_sim_pin_instructions">Insira o PIN do cartão SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando o cartão SIM\u2026</string>
   <string name="kg_too_many_failed_attempts_countdown">Tente novamente em %1$d segundos.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">Você digitou sua senha incorretamente %1$d vezes.\n\nTente novamente em %d segundos.</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Você digitou sua senha incorretamente %1$d vezes.\n\nTente novamente em %d segundos.</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message">Você desenhou seu padrão de desbloqueio incorretamente %1$d vezes.\n\nTente novamente em %2$d segundos.</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message">Você digitou seu PIN incorretamente %1$d vezes.\n\nTente novamente em %2$d segundos.</string>
   <string name="kg_wrong_password">Senha incorreta</string>
