@@ -457,8 +457,8 @@ ou digite a senha de Bloqueio de apps"</string>
   <string name="card_main_deepclean_wechat_title">Cache do WeChat</string>
   <string name="card_main_gamebooster_summary">Otimização completa para jogos</string>
   <string name="card_main_gamebooster_title">Otimizar velocidade em jogos</string>
-  <string name="card_main_hbassistant_summary">Use esta ferramenta para pegar os envelopes mais rápido</string>
-  <string name="card_main_hbassistant_title">Assistente de envelope vermelho</string>
+  <string name="card_main_hbassistant_summary">Use esta ferramenta para otimizar os jogos</string>
+  <string name="card_main_hbassistant_title">Assistente para jogos</string>
   <string name="card_main_monthreport_action">Ver</string>
   <string name="card_main_monthreport_summary">Ver relatórios mensais</string>
   <string name="card_main_monthreport_title">Estatísticas de segurança</string>
